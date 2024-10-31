@@ -1,0 +1,1001 @@
+﻿Karcher reference,Store Type,Solution Type,Store_Size_SQFT,Productivity_SQ_F_PerHour,Cost_Per_Hour_Labour_Only,Address 1,Address 2,Town ,Postcode,location,latitude,longitude,Demand_Score,Priority_Level,Resource_Type,Estimated_Service_Time_Hours
+1812206878,Convenience Store ,Mobile Solution,4738,141,24.72,Petrol Mytholmroy,Burnley Road,Hebden Bridge,HX7 5DE,HX7 5DE,53.7322525,-1.9853971,2,Medium,Mobile,33.6
+1812206786,Convenience Store ,Mobile Solution,3469,265,43.58,6 Elithorn Terrace,Quernmore Road,Lancaster,LA1 3JT,LA1 3JT,54.0492746,-2.7793607,6,Medium,Mobile,13.09
+1812201364,Convenience Store ,Mobile Solution,1699,181,24.96,151 Stockport Road,Marple,Stockport,SK6 6DQ,SK6 6DQ,53.3957836,-2.0696623,1,Low,Mobile,9.39
+1812201362,Convenience Store ,Mobile Solution,3054,272,43.64,206 Heaton Moor Road,,Stockport,SK4 4DU,SK4 4DU,53.4176212,-2.1896742,7,High,Fixed,11.23
+1812201403,Convenience Store ,Mobile Solution,3180,134,33.61,Manchester House,Bridge Street,Manchester,M3 3BN,M3 3BN,53.4807099,-2.2491132,9,Medium,Mobile,23.73
+1812201384,Convenience Store ,Mobile Solution,4818,257,45.8,The Ridgeway,Murdishaw,Runcorn,WA7 6ER,WA7 6ER,53.3238437,-2.6654291,5,Medium,Mobile,18.75
+1812206989,Convenience Store ,Mobile Solution,1556,257,35.12,2 Sandringham Place,,Stourbridge,DY8 5HP,DY8 5HP,52.4752171,-2.1686556,5,Medium,Mobile,6.05
+1812206787,Convenience Store ,Mobile Solution,1825,233,16.04,Booker Avenue,,Liverpool,L18 9SB,L18 9SB,53.3707172,-2.905149,4,Medium,Mobile,7.83
+1812206976,Convenience Store ,Mobile Solution,3808,166,38.64,2 Poachers Way,,Thornton-Cleveleys,FY5 2WF,FY5 2WF,53.8854229,-3.0166264,3,Medium,Fixed,22.94
+1812206872,Convenience Store ,Mobile Solution,2054,179,16.57,Main Street,Symington,Kilmarnock,KA1 5QE,KA1 5QE,55.5497488,-4.5637385,9,High,Mobile,11.47
+1812206778,Convenience Store ,Mobile Solution,3582,106,30.77,Petrol Three Peaks,,Carnforth,LA6 3DL,LA6 3DL,54.1456496,-2.469762,5,Medium,Mobile,33.79
+1812206875,Convenience Store ,Mobile Solution,1425,279,47.53,Station Hill,,Bury St. Edmunds,IP31 3QU,IP31 3QU,52.250575,0.8102272,8,Medium,Mobile,5.11
+1812206188,Convenience Store ,Mobile Solution,4465,113,20.78,Hoole Road,,Chester,CH2 3NH,CH2 3NH,53.1993599,-2.8784969,9,Low,Mobile,39.51
+1812206882,Convenience Store ,Mobile Solution,3719,172,28.65,Crescent Street,,Cottingham,HU16 5QS,HU16 5QS,53.7828501,-0.4163063,5,Medium,Fixed,21.62
+1812206879,Convenience Store ,Mobile Solution,3410,242,40.55,Greenwood Avenue,,Hull,HU6 9NA,HU6 9NA,53.7816689,-0.3618331,9,Low,Mobile,14.09
+1812206858,Convenience Store ,Mobile Solution,4508,248,45.88,Darley Drive,,Liverpool,L12 8QP,L12 8QP,53.4273493,-2.9024538,2,Medium,Mobile,18.18
+1812206863,Convenience Store ,Mobile Solution,4741,262,38.48,21-23 Leece Street,,Liverpool,L1 2TR,L1 2TR,53.4021967,-2.9748259,9,High,Mobile,18.1
+1812206884,Convenience Store ,Mobile Solution,2574,165,24.04,30 Knaresborough Road,,Harrogate,HG2 7LU,HG2 7LU,53.9959313,-1.5124752,4,High,Mobile,15.6
+1812206996,Convenience Store ,Mobile Solution,4998,190,38.61,Bembridge Drive,Alvaston,Derby,DE24 0UQ,DE24 0UQ,52.8858194,-1.4154449,6,Medium,Fixed,26.31
+1812206994,Convenience Store ,Mobile Solution,3129,229,25.39,Mowbray Street,Epworth,Doncaster,DN9 1HR,DN9 1HR,53.5228747,-0.8191497,6,Medium,Mobile,13.66
+1812206983,Convenience Store ,Mobile Solution,3403,262,40.15,Bride Road,,Edinburgh,EH13 0LF,EH13 0LF,55.9076062,-3.2558021,6,Low,Fixed,12.99
+1812206973,Convenience Store ,Mobile Solution,4329,119,48.39,260 Argyle Street,,Glasgow,G2 8QW,G2 8QW,55.8588723,-4.2603746,2,Medium,Mobile,36.38
+1812220178,Convenience Store ,Mobile Solution,4789,109,40.25,Wilford Green,Wilford,Nottingham,NG11 7AX,NG11 7AX,52.9253797,-1.1572479,7,High,Mobile,43.94
+1812206871,Convenience Store ,Mobile Solution,1588,124,45.2,Meadow Lane,,Thurso,KW14 8ER,KW14 8ER,58.5946051,-3.5187165,6,Medium,Mobile,12.81
+1812206723,Convenience Store ,Mobile Solution,3012,293,15.07,Garstang Road,Unit 8 Beacon Retail Centre,Preston,PR3 0PH,PR3 0PH,53.8758885,-2.7602986,1,Medium,Mobile,10.28
+1812206208,Convenience Store ,Mobile Solution,2547,124,40.12,Church Road,,Stansted,CM24 8BE,CM24 8BE,51.9016863,0.1993833,2,High,Mobile,20.54
+1812201355,Convenience Store ,Mobile Solution,1294,153,44.04,215 University Boulevard,,Nottingham,NG9 2GJ,NG9 2GJ,52.9329849,-1.2042024,7,High,Mobile,8.46
+1812201353,Convenience Store ,Mobile Solution,2985,132,16.42,Alfreton Road,,Sutton-in-Ashfield,NG17 1HU,NG17 1HU,53.1194598,-1.2836494,1,Medium,Mobile,22.61
+1812201370,Convenience Store ,Mobile Solution,2247,263,45.51,10 Gill Bent Road,,Cheadle,SK8 6NB,SK8 6NB,53.3648113,-2.191198,1,Medium,Mobile,8.54
+1812201343,Convenience Store ,Mobile Solution,2548,194,23.98,758 Wilmslow Road,,Manchester,M20 2DW,M20 2DW,53.4175819,-2.2317432,1,Low,Mobile,13.13
+1812201366,Convenience Store ,Mobile Solution,4117,113,38.29,59 Dairyground Road,,Stockport,SK7 2QW,SK7 2QW,53.3656613,-2.1570892,8,Low,Mobile,36.43
+1812201346,Convenience Store ,Mobile Solution,2690,164,43.01,174-175 Burton Road,,Manchester,M20 2LN,M20 2LN,53.4262885,-2.2425209,4,High,Mobile,16.4
+1812201383,Convenience Store ,Mobile Solution,2136,209,38.19,Chapel Lane,,Warrington,WA5 4PS,WA5 4PS,53.4302774,-2.6562841,4,High,Mobile,10.22
+1812201368,Convenience Store ,Mobile Solution,2256,179,18.23,136b-c Turves Road,Cheadle Hulme,Cheadle,SK8 6AW,SK8 6AW,53.3734234,-2.2066877,2,High,Mobile,12.6
+1812201357,Convenience Store ,Mobile Solution,3064,153,35.87,Bramcote Lane,,Nottingham,NG9 4ET,NG9 4ET,52.9220375,-1.2374974,1,Low,Fixed,20.03
+1812201400,Convenience Store ,Mobile Solution,1359,224,34.24,Kingsley Hollow Lane,,Frodsham,WA6 8EF,WA6 8EF,53.2690496,-2.6761521,9,High,Mobile,6.07
+1812201340,Convenience Store ,Mobile Solution,4294,279,46.51,Oxford Road,Manchester Business School,Manchester,M15 6PB,M15 6PB,53.4673781,-2.2369849,7,Medium,Fixed,15.39
+1812201347,Convenience Store ,Mobile Solution,3913,230,29.15,Stamford Road,,Manchester,M34 5DY,M34 5DY,53.4672697,-2.115724,4,Medium,Mobile,17.01
+1812201351,Convenience Store ,Mobile Solution,1699,268,26.24,1 Balloon Street,,Manchester,M4 4BE,M4 4BE,53.4858047,-2.2410351,6,Medium,Mobile,6.34
+1812201349,Convenience Store ,Mobile Solution,1447,233,41.24,38 High Street,,Manchester,M4 1QB,M4 1QB,53.4827888,-2.2389687,2,Low,Mobile,6.21
+1812206060,Convenience Store ,Mobile Solution,3903,124,29.44,130 Southdown Road,,Harpenden,AL5 1PU,AL5 1PU,51.8071677,-0.3430697,7,High,Mobile,31.48
+1812201377,Convenience Store ,Mobile Solution,3412,240,37.61,20 Millrise Road,,Milton,ST2 7BW,ST2 7BW,53.0495875,-2.1418685,2,Medium,Mobile,14.22
+1812201387,Convenience Store ,Mobile Solution,1674,216,37.63,22 Elephant Lane,,St. Helens,WA9 5QW,WA9 5QW,53.4356483,-2.7572492,8,Low,Mobile,7.75
+1812201374,Convenience Store ,Mobile Solution,2007,235,46.08,187 Hanley Road,Sneyd Green,Stoke-on-Trent,ST1 6BG,ST1 6BG,53.0382697,-2.1696752,8,Low,Mobile,8.54
+1812201360,Convenience Store ,Mobile Solution,2349,248,35.95,63 Didsbury Road,,Stockport,SK4 2BA,SK4 2BA,53.410586,-2.1821513,1,Low,Mobile,9.47
+1812201381,Convenience Store ,Mobile Solution,3514,295,32.58,125 Hanbridge Avenue,Bradwell,Newcastle,ST5 8HX,ST5 8HX,53.0406309,-2.2346673,8,Low,Mobile,11.91
+1812206064,Convenience Store ,Mobile Solution,3461,124,19.86,1 Colmore Row,,Birmingham,B3 2BJ,B3 2BJ,52.4827383,-1.898496,2,Medium,Fixed,27.91
+1812206066,Convenience Store ,Mobile Solution,4526,178,19.05,Slade Road,,Sutton Coldfield,B75 5PF,B75 5PF,52.589597,-1.8072622,6,High,Mobile,25.43
+1812206075,Convenience Store ,Mobile Solution,1585,167,20.4,60 King Street,Whalley,Clitheroe,BB7 9SN,BB7 9SN,53.8222974,-2.4062358,1,Low,Mobile,9.49
+1812206683,Convenience Store ,Mobile Solution,2256,272,21.01,Beckfield Lane,,York,YO26 5PW,YO26 5PW,53.9618998,-1.1345178,5,Low,Mobile,8.29
+1812206690,Convenience Store ,Mobile Solution,2247,287,37.33,47 Main Street,Bishopthorpe,York,YO23 2RA,YO23 2RA,53.9217801,-1.0969888,7,Medium,Mobile,7.83
+1812206730,Convenience Store ,Mobile Solution,1993,111,40.93,Great North Road,Little Paxton,St. Neots,PE19 6EN,PE19 6EN,52.2521623,-0.2657879,1,High,Mobile,17.95
+1812206774,Convenience Store ,Mobile Solution,4902,131,33.55,Conisholme Road,North Somercotes,Louth,LN11 7PS,LN11 7PS,53.4469681,0.1279217,2,Medium,Mobile,37.42
+1812206704,Convenience Store ,Mobile Solution,2435,227,44.02,Newtown Street,,Duns,TD11 3DT,TD11 3DT,55.7784904,-2.3462181,7,Medium,Fixed,10.73
+1812206708,Convenience Store ,Mobile Solution,1571,195,49.69,18 The Broadway,,Leigh-on-Sea,SS9 1AW,SS9 1AW,51.5412845,0.655959,6,Medium,Mobile,8.06
+1812206741,Convenience Store ,Mobile Solution,3382,191,43.7,Grangeway,,Rushden,NN10 9JE,NN10 9JE,52.2822718,-0.6094033,3,Medium,Mobile,17.71
+1812206736,Convenience Store ,Mobile Solution,2245,240,39.32,55 Latchet Lane,,Northampton,NN5 4GF,NN5 4GF,52.2364293,-0.9435246,2,Low,Fixed,9.35
+1812206685,Convenience Store ,Mobile Solution,3084,130,33.64,97 Boroughbridge Road,,York,YO26 6AA,YO26 6AA,53.9658709,-1.1255947,4,High,Fixed,23.72
+1812206732,Convenience Store ,Mobile Solution,1988,177,30.71,Whitney Road,Kingston Bagpuize,Abingdon,OX13 5AN,OX13 5AN,51.6827517,-1.4124603,3,Medium,Mobile,11.23
+1812209429,Convenience Store ,Mobile Solution,1277,119,17.95,High Croft,,Kelso,TD5 7NB,TD5 7NB,55.6071014,-2.4358151,7,Medium,Fixed,10.73
+1812206773,Convenience Store ,Mobile Solution,2219,245,28.98,151-153 Biscot Road,,Luton,LU3 1AW,LU3 1AW,51.8926,-0.4302642,8,High,Mobile,9.06
+1812206713,Convenience Store ,Mobile Solution,3963,159,46.85,2 Oldfield Road,Stannington,Sheffield,S6 6DT,S6 6DT,53.3919442,-1.5350938,2,Medium,Fixed,24.92
+1812206712,Convenience Store ,Mobile Solution,2887,290,43.28,26-30 Fleming Crescent,,Hertford,SG14 2DJ,SG14 2DJ,51.80021,-0.1012177,7,Medium,Mobile,9.96
+1812206718,Convenience Store ,Mobile Solution,1483,233,22.56,142 Cambridge Road,Churchtown,Southport,PR9 9RZ,PR9 9RZ,53.6611895,-2.9680051,8,Medium,Mobile,6.36
+1812206691,Convenience Store ,Mobile Solution,2265,259,31.33,75-77 East Parade,,York,YO31 7YB,YO31 7YB,53.9654163,-1.0651651,6,Low,Mobile,8.75
+1812206980,Convenience Store ,Mobile Solution,4395,192,43.59,Silver Street,Kincardine,Alloa,FK10 4NS,FK10 4NS,56.066545,-3.7197863,6,Low,Mobile,22.89
+1812206727,Convenience Store ,Mobile Solution,1730,142,17.36,16 Lynn Road,,King's Lynn,PE31 7PT,PE31 7PT,52.8780885,0.5033136,1,Medium,Mobile,12.18
+1812206714,Convenience Store ,Mobile Solution,3239,229,28.56,240 Ashgate Road,,Chesterfield,S40 4AW,S40 4AW,53.2395863,-1.454619,4,High,Mobile,14.14
+1812254160,Convenience Store ,Mobile Solution,2040,159,44.81,46 Dunkeld Street,,Aberfeldy,PH15 2AF,PH15 2AF,56.6204884,-3.8629229,1,High,Mobile,12.83
+1812229258,Convenience Store ,Mobile Solution,3571,250,29.14,Calver Road,,Bakewell,DE45 1RP,DE45 1RP,53.2488012,-1.6253811,4,Medium,Mobile,14.28
+1812222095,Convenience Store ,Mobile Solution,1917,130,17.72,Beacon Hill Road,,Newark,NG24 2JG,NG24 2JG,53.0761269,-0.7923055,2,Low,Mobile,14.75
+1812219478,Convenience Store ,Mobile Solution,3448,104,33.99,218 Hayley Road,,Halesowen,B63 4QQ,B63 4QQ,52.4444066,-2.0593579,5,Low,Mobile,33.15
+1812229164,Convenience Store ,Mobile Solution,4977,261,45.16,St. John's Street,,Bridlington,YO16 7JS,YO16 7JS,54.0917706,-0.2040306,9,High,Mobile,19.07
+1812207002,Convenience Store ,Mobile Solution,1885,109,35.66,The Hill,,Sandbach,CW11 1HT,CW11 1HT,53.1417327,-2.3537371,3,Medium,Mobile,17.29
+1812206999,Convenience Store ,Mobile Solution,3752,188,22.92,"The Vine Inn, 5 Rope Lane",Shavington,Crewe,CW2 5DT,CW2 5DT,53.0640081,-2.4509317,8,Medium,Fixed,19.96
+1812207101,Convenience Store ,Mobile Solution,1021,229,28.45,Market Place,,Alston,CA9 3HS,CA9 3HS,54.8126964,-2.4390745,3,High,Mobile,4.46
+1812207107,Convenience Store ,Mobile Solution,1473,225,30.75,A197,Loansdean,Morpeth,NE61 2DR,NE61 2DR,55.1525518,-1.691247,6,High,Mobile,6.55
+1812207127,Convenience Store ,Mobile Solution,4191,110,35.27,12-15 Gate Way House,Piccadilly Station Approach,Manchester,M1 2GH,M1 2GH,53.4784078,-2.2317119,4,High,Mobile,38.1
+1812206977,Convenience Store ,Mobile Solution,3257,277,41.58,Highfield Road,Highfield Gardens,Blackpool,FY4 5QL,FY4 5QL,53.7890729,-3.0235417,8,Low,Mobile,11.76
+1812214191,Convenience Store ,Mobile Solution,3353,258,18.46,129 Beech Road,Chorlton,Manchester,M21 9EQ,M21 9EQ,53.4383948,-2.2805555,6,High,Mobile,13
+1812296766,Convenience Store ,Mobile Solution,4341,155,46.14,Clippers Quay,Units 4/5 Waterman Walk,Salford,M50 3AD,M50 3AD,53.4667186,-2.2840555,8,High,Mobile,28.01
+1812206199,Convenience Store ,Mobile Solution,1703,182,15.43,The Heath,,Bishop's Stortford,CM22 7EB,CM22 7EB,51.8129772,0.2092943,1,Medium,Fixed,9.36
+1812206717,Convenience Store ,Mobile Solution,1686,236,27.95,41 High Street,Aveley,South Ockendon,RM15 4BB,RM15 4BB,51.4990016,0.255859,6,Medium,Mobile,7.14
+1812203911,Convenience Store ,Mobile Solution,1284,198,15.96,246 Shrub End Road,Shrub End,Colchester,CO3 4SA,CO3 4SA,51.8730755,0.862548,1,Medium,Mobile,6.48
+1812238442,Convenience Store ,Mobile Solution,1715,248,28.75,179B Long Street,"Long Street, Easingwold",York,YO61 3JB,YO61 3JB,54.1187203,-1.1916724,1,High,Mobile,6.92
+1812201378,Convenience Store ,Mobile Solution,4747,172,33.4,3 High Street,Wolstanton,Newcastle,ST5 0EY,ST5 0EY,53.0355948,-2.2219641,8,Low,Fixed,27.6
+1812596637,Convenience Store ,Mobile Solution,1762,255,32.91,Riverside,Corporation Street,Rochester,ME1 1NH,ME1 1NH,51.3883083,0.507371,7,Medium,Mobile,6.91
+1812420694,Convenience Store ,Mobile Solution,2250,289,20.8,High Street,Coedpoeth,Wrexham,LL11 3UF,LL11 3UF,53.0549363,-3.0737504,3,Low,Mobile,7.79
+1812433139,Convenience Store ,Mobile Solution,1947,214,37.6,Station Road,Llanrug,Caernafon,LL55 4AG,LL55 4AG,53.1490165,-4.1892692,6,High,Mobile,9.1
+1812433116,Convenience Store ,Mobile Solution,3428,106,16.57,Petrol Old Colwyn,Colwyn Service Station,Colwyn Bay,LL29 9YG,LL29 9YG,53.2898826,-3.7035697,9,Low,Mobile,32.34
+1812433119,Convenience Store ,Mobile Solution,3507,179,41.67,High Street,,Port Talbot,SA11 5AL,SA11 5AL,51.7468898,-3.6185332,7,Medium,Mobile,19.59
+1812433122,Convenience Store ,Mobile Solution,2030,243,48.13,Cefn Road,,Conwy,LL29 9PN,LL29 9PN,53.2896525,-3.6982795,3,Medium,Mobile,8.35
+1812433123,Convenience Store ,Mobile Solution,1028,196,26.89,1-3 Central Buildings,,Blackwood,NP12 0JU,NP12 0JU,51.678853,-3.1784268,6,High,Fixed,5.24
+1812433126,Convenience Store ,Mobile Solution,1906,103,33.1,26-28 North Road,,Cwmbran,NP44 2EN,NP44 2EN,51.6587125,-3.005372,4,Medium,Mobile,18.5
+1812433127,Convenience Store ,Mobile Solution,4104,103,28.26,West End Shopping Centre,,Caldicot,NP26 4AA,NP26 4AA,51.5882643,-2.7598426,3,Low,Mobile,39.84
+1812433140,Convenience Store ,Mobile Solution,4717,202,15.23,Marine Terrace,,Pensarn,LL22 7PR,LL22 7PR,53.2941517,-3.5803133,9,High,Mobile,23.35
+1812433142,Convenience Store ,Mobile Solution,3926,139,28.51,26 High Street,,Denbigh,LL16 3RY,LL16 3RY,53.1833123,-3.4191724,2,Medium,Mobile,28.24
+1812433144,Convenience Store ,Mobile Solution,3126,116,42.71,Village Road,,Llanfairfechan,LL33 0NH,LL33 0NH,53.2532528,-3.9764239,1,High,Mobile,26.95
+1812433146,Convenience Store ,Mobile Solution,4999,200,35.86,12 Straits Parade,,Fishponds,BS16 2LE,BS16 2LE,51.4820734,-2.5248954,2,Low,Mobile,25
+1812433149,Convenience Store ,Mobile Solution,3994,202,18.54,Water Street,,Pen Y Groes,LL54 6LR,LL54 6LR,53.0534501,-4.2835926,7,Medium,Mobile,19.77
+1812433120,Convenience Store ,Mobile Solution,3506,223,44.65,Danes Court Way,,Cardiff,CF5 2SF,CF5 2SF,51.5041142,-3.2387501,1,Medium,Mobile,15.72
+1812433125,Convenience Store ,Mobile Solution,1569,151,33.59,31-33 Mostyn Avenue,,Llandudno,LL30 1YS,LL30 1YS,53.3205794,-3.8123659,6,Low,Mobile,10.39
+1812433129,Convenience Store ,Mobile Solution,3006,151,44.46,278 Tollgate Road,,Port Talbot,SA13 2DD,SA13 2DD,51.5707274,-3.7553154,7,Medium,Mobile,19.91
+1812433130,Convenience Store ,Mobile Solution,4609,263,35.31,Newport Road,,Caldicot,NP26 3EG,NP26 3EG,51.5791395,-2.8300156,9,Medium,Fixed,17.52
+1812433131,Convenience Store ,Mobile Solution,4553,223,34.59,30 Cardiff Road,,Cardiff,CF15 7RF,CF15 7RF,51.5422274,-3.2676735,8,High,Mobile,20.42
+1812433133,Convenience Store ,Mobile Solution,2453,265,18.68,46-48 Station Road,,Cardiff,CF14 5LU,CF14 5LU,51.5291403,-3.1873291,6,Medium,Mobile,9.26
+1812433134,Convenience Store ,Mobile Solution,1737,277,20.86,21 Lichfield Avenue,,Worcester,WR5 1NP,WR5 1NP,52.192683,-2.1903907,3,Medium,Mobile,6.27
+1812433138,Convenience Store ,Mobile Solution,4356,162,49.02,4 Station Road,,Cardiff,CF15 8AA,CF15 8AA,51.5154652,-3.2503137,8,Medium,Mobile,26.89
+1812433141,Convenience Store ,Mobile Solution,1515,215,23,Ty Fry Lane,,Rhyl,LL18 5TE,LL18 5TE,53.2698246,-3.5067613,7,High,Fixed,7.05
+1812433143,Convenience Store ,Mobile Solution,3000,290,49.21,Bishopston Road,,Swansea,SA3 3EN,SA3 3EN,51.58231,-4.0519218,3,Medium,Mobile,10.34
+1812433147,Convenience Store ,Mobile Solution,4170,161,33.62,40-42a College Green,,Bristol,BS1 5SH,BS1 5SH,51.4524879,-2.5986579,9,Medium,Mobile,25.9
+1812436806,Convenience Store ,Mobile Solution,3444,106,19.75,Petrol Builth Wells,Station Road,Builth Wells,LD2 3SS,LD2 3SS,52.1526661,-3.4018051,2,Medium,Mobile,32.49
+1812436807,Convenience Store ,Mobile Solution,4560,254,18.48,Petrol Llandaff,Llantrisant Road,Cardiff,CF5 2PW,CF5 2PW,51.501392,-3.2419178,3,Medium,Mobile,17.95
+1812436808,Convenience Store ,Mobile Solution,1038,191,22.31,Station Road,,Carmarthen,SA33 4DG,SA33 4DG,51.8278466,-4.4920223,2,Medium,Mobile,5.43
+1812436810,Convenience Store ,Mobile Solution,4342,113,47.4,45-49 Market Street,,Holyhead,LL65 1UL,LL65 1UL,53.3106425,-4.6329156,1,High,Mobile,38.42
+1812436812,Convenience Store ,Mobile Solution,1886,298,29.5,High Street,,Blaenau Ffestiniog,LL41 3AG,LL41 3AG,52.9947766,-3.9342897,4,Medium,Fixed,6.33
+1812436814,Convenience Store ,Mobile Solution,3844,185,28.84,Brecon Road,,Hirwaun,CF44 9NN,CF44 9NN,51.7385551,-3.5118119,5,High,Fixed,20.78
+1812436809,Convenience Store ,Mobile Solution,3204,232,25.96,Penybont Road,,Bridgend,CF35 5NP,CF35 5NP,51.5237528,-3.5005797,6,Low,Mobile,13.81
+1812436811,Convenience Store ,Mobile Solution,2098,282,20.15,Bridgend Road,,Pontyclun,CF72 9RP,CF72 9RP,51.5326797,-3.455097,5,Medium,Mobile,7.44
+1812438053,Convenience Store ,Mobile Solution,3931,229,32.07,Petrol Cirencester,Burford Road,Cirencester,GL7 5DS,GL7 5DS,51.7246982,-1.9516759,1,High,Fixed,17.17
+1812438054,Convenience Store ,Mobile Solution,2823,161,19.55,67 Upper Howsell Road,,Malvern,WR14 1TP,WR14 1TP,52.1327375,-2.324381,3,Low,Mobile,17.53
+1812438055,Convenience Store ,Mobile Solution,4201,248,44.24,53 Gresham Road,,Worcester,WR2 5QS,WR2 5QS,52.1934431,-2.2547194,1,High,Mobile,16.94
+1812438056,Convenience Store ,Mobile Solution,2710,178,27.96,Ivor Street,,Pontypool,NP4 9NA,NP4 9NA,51.7725161,-3.0854823,5,Medium,Mobile,15.22
+1812438746,Convenience Store ,Mobile Solution,1973,248,28.12,12 Waungron Road,,Cardiff,CF5 2JJ,CF5 2JJ,51.4886914,-3.2260452,5,High,Fixed,7.96
+1812438748,Convenience Store ,Mobile Solution,4155,237,31.59,Holyhead Road,,Wrexham,LL14 5NA,LL14 5NA,52.9346435,-3.0568868,6,Medium,Fixed,17.53
+1812438749,Convenience Store ,Mobile Solution,4093,157,30.54,The Cross,,Oswestry,SY11 3JR,SY11 3JR,52.8944393,-3.037773,8,Medium,Mobile,26.07
+1812438750,Convenience Store ,Mobile Solution,4530,219,49.82,5 Lord Street,,Wrexham,LL11 1LG,LL11 1LG,53.0474641,-2.996561,1,Low,Mobile,20.68
+1812438751,Convenience Store ,Mobile Solution,2562,266,34.09,10-12 Fairwater Green,,Cardiff,CF5 3BA,CF5 3BA,51.4895101,-3.2413784,4,Medium,Mobile,9.63
+1812438752,Convenience Store ,Mobile Solution,4778,232,18.09,Market Street,,Wrexham,LL14 1AF,LL14 1AF,53.0100664,-3.0579994,1,Low,Mobile,20.59
+1812438753,Convenience Store ,Mobile Solution,3896,164,36.24,34-40 Merthyr Road,,Cardiff,CF14 1DH,CF14 1DH,51.5123543,-3.2195475,9,Low,Mobile,23.76
+1812438754,Convenience Store ,Mobile Solution,4453,112,20.31,16 Market Street,,Conwy,LL22 7AA,LL22 7AA,53.284536,-3.5827635,7,Low,Mobile,39.76
+1812441641,Convenience Store ,Mobile Solution,3795,280,16.08,Petrol Bewdley Bridge,21-26 Kidderminster Road,Kidderminster,DY12 1AQ,DY12 1AQ,52.3766644,-2.3116531,7,Medium,Mobile,13.55
+1812441643,Convenience Store ,Mobile Solution,4511,181,48.98,St. Davids Park,,Deeside,CH5 3XN,CH5 3XN,53.1863359,-3.0575451,5,High,Fixed,24.92
+1812441644,Convenience Store ,Mobile Solution,4675,272,42.07,8 High Street,,Malmesbury,SN16 9AU,SN16 9AU,51.5833303,-2.0977415,7,Low,Mobile,17.19
+1812441642,Convenience Store ,Mobile Solution,1988,259,49.3,Canford Lane,,Bristol,BS9 3DF,BS9 3DF,51.4934344,-2.6197646,2,Low,Mobile,7.68
+1812441645,Convenience Store ,Mobile Solution,1020,263,31.73,35 Fox Street,,Treharris,CF46 5HE,CF46 5HE,51.6657936,-3.3032525,4,Medium,Mobile,3.88
+1812441646,Convenience Store ,Mobile Solution,3350,287,33.63,434 Gower Road,,Swansea,SA2 7AJ,SA2 7AJ,51.6179405,-4.0186559,7,Low,Mobile,11.67
+1812441647,Convenience Store ,Mobile Solution,1868,238,20.89,77-79 Holme Lacy Road,,Hereford,HR2 6DF,HR2 6DF,52.0423144,-2.7129298,3,Low,Mobile,7.85
+1812441649,Convenience Store ,Mobile Solution,1083,290,23.64,High Street,,Cirencester,GL7 5UG,GL7 5UG,51.6717383,-1.9316172,2,Low,Fixed,3.73
+1812441650,Convenience Store ,Mobile Solution,4845,248,44.35,"The Highway,Chester Road",,Deeside,CH5 3DN,CH5 3DN,53.1897341,-3.0442784,2,High,Fixed,19.54
+1812441651,Convenience Store ,Mobile Solution,2682,151,27.47,Main Road,,Chester,CH4 0NR,CH4 0NR,53.1652323,-2.9934545,1,High,Mobile,17.76
+1812442457,Convenience Store ,Mobile Solution,2976,282,43.94,Petrol Bewdley Bridge,21-26 Kidderminster Road,Kidderminster,DY12 1AQ,DY12 1AQ,52.3766644,-2.3116531,5,Medium,Mobile,10.55
+1812442465,Convenience Store ,Mobile Solution,4524,216,39.82,Petrol Coedpoeth,High Street,Coedpoeth,LL11 3UF,LL11 3UF,53.0549363,-3.0737504,6,Medium,Fixed,20.94
+1812442466,Convenience Store ,Mobile Solution,2410,125,21.2,Petrol Evesham,A46 Evesham Bypass,Evesham,WR11 4TP,WR11 4TP,52.1120439,-1.9438429,6,Medium,Mobile,19.28
+1812442468,Convenience Store ,Mobile Solution,2530,295,32.76,Petrol Highcross,Highcross Road,Rogerstone,NP10 9AE,NP10 9AE,51.5879581,-3.0402844,9,Medium,Mobile,8.58
+1812442472,Convenience Store ,Mobile Solution,4328,133,38.71,Petrol Marksbury,Westway Garages,Bath,BA2 9HN,BA2 9HN,51.3563779,-2.4849968,4,Medium,Mobile,32.54
+1812442475,Convenience Store ,Mobile Solution,1569,151,23.23,Petrol Pickwick,101 Pickwick Road,Corsham,SN13 9DA,SN13 9DA,51.4341154,-2.1969268,1,Medium,Fixed,10.39
+1812442478,Convenience Store ,Mobile Solution,4963,211,44.07,Petrol Rhuddlan,Rhyl Road,Clywd,LL18 2TS,LL18 2TS,53.2931341,-3.4635305,6,Medium,Mobile,23.52
+1812442480,Convenience Store ,Mobile Solution,1933,181,34.07,Petrol Weycocks Cross,Pontypridd Road,Barry,CF62 7LT,CF62 7LT,51.4080123,-3.2979628,5,Low,Mobile,10.68
+1812442485,Convenience Store ,Mobile Solution,4598,279,20.78,17 Long Street,,Tetbury,GL8 8AA,GL8 8AA,51.6379739,-2.1607453,6,Medium,Fixed,16.48
+1812442494,Convenience Store ,Mobile Solution,4233,256,35.4,86-88 Barnards Green Road,,Malvern,WR14 3LY,WR14 3LY,52.1083718,-2.311339,3,High,Mobile,16.54
+1812442497,Convenience Store ,Mobile Solution,2980,265,49.99,High Street,,Newport,NP11 4EZ,NP11 4EZ,51.6648077,-3.1447917,2,Medium,Mobile,11.25
+1812442500,Convenience Store ,Mobile Solution,4234,141,20.27,Boverton Road,,Llantwit Major,CF61 1XA,CF61 1XA,51.4086868,-3.4828471,6,High,Mobile,30.03
+1812442506,Convenience Store ,Mobile Solution,2855,120,43.59,4C Sycamore Street,,Newcastle Emlyn,SA38 9AP,SA38 9AP,52.0384642,-4.4679675,1,High,Fixed,23.79
+1812442476,Convenience Store ,Mobile Solution,4056,141,22.26,Petrol Princess Parkway,849 Princess Road,Manchester,M20 2ZF,M20 2ZF,53.4199069,-2.2596236,7,Low,Mobile,28.77
+1812442483,Convenience Store ,Mobile Solution,1792,240,42.38,St Saviours Road,,Bath,BA1 6RT,BA1 6RT,51.3968334,-2.3451061,7,Medium,Fixed,7.47
+1812442487,Convenience Store ,Mobile Solution,1791,212,40.71,71 Henleaze Road,,Bristol,BS9 4JT,BS9 4JT,51.4852198,-2.6122075,7,Medium,Mobile,8.45
+1812442492,Convenience Store ,Mobile Solution,4595,204,25.52,Clarence Place,,Bristol,BS2 8DD,BS2 8DD,51.4611672,-2.6017657,1,High,Mobile,22.52
+1812442504,Convenience Store ,Mobile Solution,2809,291,26.4,Unit 6 The Precinct,,Swansea,SA2 7BA,SA2 7BA,51.6180892,-4.0178535,4,High,Fixed,9.65
+1812444244,Convenience Store ,Mobile Solution,2294,116,42.74,Unit 2 Farmhouse Way,,Solihull,B90 4EH,B90 4EH,52.391374,-1.7848782,7,Medium,Mobile,19.78
+1812444249,Convenience Store ,Mobile Solution,3539,219,31.15,Llangurig Road,,Llanidloes,SY18 6ES,SY18 6ES,52.4463169,-3.5416682,9,Medium,Mobile,16.16
+1812444251,Convenience Store ,Mobile Solution,3255,236,40.58,Regent Street,,Llangollen,LL20 8HN,LL20 8HN,52.96878,-3.1661973,5,High,Mobile,13.79
+1812444253,Convenience Store ,Mobile Solution,4610,268,20.18,78-86 Stryd Fawr,,Bala,LL23 7AD,LL23 7AD,52.9097066,-3.5994885,2,Low,Mobile,17.2
+1812444254,Convenience Store ,Mobile Solution,2607,228,44.84,Lower Denbigh Road,,St Asaph,LL17 0ED,LL17 0ED,53.2551858,-3.4482935,7,High,Mobile,11.43
+1812444258,Convenience Store ,Mobile Solution,2083,229,39.88,Glan y Mor Road,,Llandudno,LL30 3NL,LL30 3NL,53.3176857,-3.7746359,1,High,Mobile,9.1
+1812444269,Convenience Store ,Mobile Solution,3477,159,46.74,St. Davids Park,,Deeside,CH5 3XN,CH5 3XN,53.1863359,-3.0575451,7,Medium,Mobile,21.87
+1812444275,Convenience Store ,Mobile Solution,1984,147,19.63,45 Ffordd Elan,,Rhyl,LL18 4HZ,LL18 4HZ,53.3230633,-3.4596449,6,Medium,Fixed,13.5
+1812444277,Convenience Store ,Mobile Solution,2680,128,35.76,Queen Street,,Mold,CH7 4RQ,CH7 4RQ,53.129614,-3.0893318,7,Medium,Mobile,20.94
+1812444245,Convenience Store ,Mobile Solution,4676,196,35.97,35 Copson Street,,Manchester,M20 3HE,M20 3HE,53.4337207,-2.2296936,3,Medium,Fixed,23.86
+1812444247,Convenience Store ,Mobile Solution,4380,109,27.37,"Borras Park Road, Borras Park",,Wrexham,LL12 7TH,LL12 7TH,53.0596838,-2.9712378,3,Medium,Mobile,40.18
+1812444261,Convenience Store ,Mobile Solution,1519,157,31.05,Pierhead Street,,Cardiff,CF10 4QP,CF10 4QP,51.465489,-3.1600506,7,High,Mobile,9.68
+1812444264,Convenience Store ,Mobile Solution,1590,287,16.33,143 Station Road,,Cardiff,CF14 2FF,CF14 2FF,51.5036341,-3.2271094,2,High,Mobile,5.54
+1812444266,Convenience Store ,Mobile Solution,2050,120,41.11,Cromwell Road,,Newport,NP19 0HT,NP19 0HT,51.582663,-2.9643763,1,High,Mobile,17.08
+1812444268,Convenience Store ,Mobile Solution,2709,127,34.23,Plymouth Street,,Swansea,SA1 3AR,SA1 3AR,51.6177633,-3.9460735,9,Low,Mobile,21.33
+1812444271,Convenience Store ,Mobile Solution,4633,133,17.02,Chester Road,,Deeside,CH5 2DT,CH5 2DT,53.2000726,-3.0108317,9,High,Mobile,34.83
+1812444272,Convenience Store ,Mobile Solution,3035,107,38.83,186 Monkmoor Road,,Shrewsbury,SY2 5BH,SY2 5BH,52.7161328,-2.7277439,7,High,Fixed,28.36
+1812444279,Convenience Store ,Mobile Solution,3246,286,31.34,21 Poplar Road,,Wrexham,LL13 7DG,LL13 7DG,53.0420493,-2.9947953,7,Medium,Fixed,11.35
+1812444281,Convenience Store ,Mobile Solution,3434,299,16.21,175 Chester Road,,Wrexham,LL12 8DW,LL12 8DW,53.0635993,-2.9902334,3,Low,Mobile,11.48
+1812444283,Convenience Store ,Mobile Solution,1348,276,48.94,1-3 Prince Charles Road,,Wrexham,LL13 8YB,LL13 8YB,53.0411842,-2.9722385,2,Medium,Fixed,4.88
+1812444285,Convenience Store ,Mobile Solution,1959,178,48.22,North Road,,Whitland,SA34 0AE,SA34 0AE,51.8200575,-4.6170598,7,High,Mobile,11.01
+1812444292,Convenience Store ,Mobile Solution,2963,244,32.95,15 Old Street,,Worcester,WR8 0HN,WR8 0HN,52.0623428,-2.2179558,9,Medium,Mobile,12.14
+1812444293,Convenience Store ,Mobile Solution,1692,287,18.28,1 Stoke Road,,Bromsgrove,B60 3EQ,B60 3EQ,52.3228367,-2.0492028,1,High,Fixed,5.9
+1812444287,Convenience Store ,Mobile Solution,2559,186,41.41,234 Whitecross Road,,Hereford,HR4 0DL,HR4 0DL,52.0617857,-2.7395972,4,Medium,Mobile,13.76
+1812444288,Convenience Store ,Mobile Solution,4899,187,32.22,25-27 Whitchurch Road,,Cardiff,CF14 3JN,CF14 3JN,51.5019062,-3.1897035,6,High,Mobile,26.2
+1812444291,Convenience Store ,Mobile Solution,1377,272,25.59,11 Wellsway,,Bath,BA2 4QL,BA2 4QL,51.3743709,-2.3661855,7,Low,Mobile,5.06
+1812444295,Convenience Store ,Mobile Solution,3946,168,32.2,Commercial Street,,Pontypridd,CF38 2DB,CF38 2DB,51.5587812,-3.3507943,7,Medium,Mobile,23.49
+1812444297,Convenience Store ,Mobile Solution,3963,259,33.29,250 Ledbury Road,,Hereford,HR1 1QD,HR1 1QD,52.0587767,-2.6902775,2,Medium,Mobile,15.3
+1812444298,Convenience Store ,Mobile Solution,4629,271,34.69,9 High Street,,Bristol,BS35 2AE,BS35 2AE,51.6086725,-2.5257193,4,Low,Mobile,17.08
+1812460558,Convenience Store ,Mobile Solution,1526,292,30.44,45 Church End,,Lyneham,SN15 4PP,SN15 4PP,51.5077919,-1.965781,5,High,Fixed,5.23
+1812460560,Convenience Store ,Mobile Solution,4224,186,36.2,Highdown Way,,Swindon,SN25 4FD,SN25 4FD,51.6046459,-1.7947289,1,Medium,Mobile,22.71
+1812460564,Convenience Store ,Mobile Solution,3781,200,47.16,68 Station Road,,Burry Port,SA16 0LW,SA16 0LW,51.6842739,-4.2500138,1,Medium,Mobile,18.9
+1812460566,Convenience Store ,Mobile Solution,3253,107,27.68,The Square,,Talgarth,LD3 0BW,LD3 0BW,51.9959974,-3.2324286,3,Medium,Mobile,30.4
+1812460557,Convenience Store ,Mobile Solution,3502,176,40.4,Upper Bloomfield Road,,Bath,BA2 2RY,BA2 2RY,51.357248,-2.3810997,3,Medium,Mobile,19.9
+1812460561,Convenience Store ,Mobile Solution,4344,299,46.31,30 Gibbs Lane,,Bromsgrove,B61 0JR,B61 0JR,52.3632717,-2.0557092,8,Low,Mobile,14.53
+1812460565,Convenience Store ,Mobile Solution,4965,186,30.96,360 Cyncoed Road,,Cardiff,CF23 6RZ,CF23 6RZ,51.5246709,-3.1648987,9,Low,Mobile,26.69
+1812464657,Convenience Store ,Mobile Solution,2259,142,30.52,Cambrian Avenue,,Porth,CF39 8TB,CF39 8TB,51.5862325,-3.4743456,1,High,Fixed,15.91
+1812476819,Convenience Store ,Mobile Solution,2875,228,36.07,53 Walker Road,,Northwich,CW8 4UD,CW8 4UD,53.2664509,-2.5389993,2,Medium,Fixed,12.61
+1812482860,Convenience Store ,Mobile Solution,2763,208,35.7,6 Oxford Street,,Malborough,SN8 2DQ,SN8 2DQ,51.4808221,-1.6178016,2,High,Fixed,13.28
+1812482868,Convenience Store ,Mobile Solution,1520,278,43.23,Victoria Street,,Bridgend,CF32 8NW,CF32 8NW,51.6139148,-3.5850847,4,High,Fixed,5.47
+1812482865,Convenience Store ,Mobile Solution,2701,251,31.68,100 Holloway Road,,Bristol,BS14 8PG,BS14 8PG,51.4119751,-2.5462777,2,Medium,Mobile,10.76
+1812482867,Convenience Store ,Mobile Solution,2016,251,49.86,182a New Road,,Birmingham,B45 9JA,B45 9JA,52.3932926,-2.0174489,7,Medium,Fixed,8.03
+1812487212,Convenience Store ,Mobile Solution,4003,116,17.08,6 Southgate Avenue,,Pontyclun,CF72 8DQ,CF72 8DQ,51.5388021,-3.370808,9,Medium,Mobile,34.51
+1812487215,Convenience Store ,Mobile Solution,4902,232,15.11,Afton Road,,Llanelli,SA14 8TS,SA14 8TS,51.6965059,-4.0826697,7,High,Mobile,21.13
+1812487216,Convenience Store ,Mobile Solution,3773,247,37.41,157 Conway Road,,Gwynedd,LL31 9EG,LL31 9EG,53.2838836,-3.8039575,6,High,Mobile,15.28
+1812487219,Convenience Store ,Mobile Solution,2013,120,25.45,5 Windsor Road,,Pontypool,NP4 5HY,NP4 5HY,51.6862966,-3.0253233,1,Medium,Mobile,16.77
+1812487221,Convenience Store ,Mobile Solution,3548,157,23.41,Canal Road,,Aberdare,CF44 0PN,CF44 0PN,51.7072239,-3.4214111,9,High,Mobile,22.6
+1812487223,Convenience Store ,Mobile Solution,1116,258,25.92,East Street,,Rhayader,LD6 5DU,LD6 5DU,52.30497,-3.50663,5,Low,Fixed,4.33
+1812487239,Convenience Store ,Mobile Solution,3433,209,23.96,1 Bridge Yard,,Bradford-on-Avon,BA15 1EJ,BA15 1EJ,51.3469374,-2.2499086,5,High,Mobile,16.43
+1812487211,Convenience Store ,Mobile Solution,2367,238,16.08,40-42 Splott Road,,Cardiff,CF24 2DA,CF24 2DA,51.4830223,-3.1510626,6,High,Mobile,9.95
+1812487213,Convenience Store ,Mobile Solution,1583,279,49,110 Mount Road,,Bath,BA2 1LN,BA2 1LN,51.3716653,-2.3962037,9,Low,Mobile,5.67
+1812487217,Convenience Store ,Mobile Solution,1394,242,22.73,3a Burlington Place,,Bath,BA1 2SQ,BA1 2SQ,51.3879166,-2.3648568,8,Medium,Mobile,5.76
+1812487218,Convenience Store ,Mobile Solution,2087,234,40.69,33-39 High Street,,Bristol,BS15 3DJ,BS15 3DJ,51.4500125,-2.5180367,8,Low,Mobile,8.92
+1812487220,Convenience Store ,Mobile Solution,4788,127,41.69,139-145 Station Road,,Bristol,BS10 7LZ,BS10 7LZ,51.5118059,-2.6295532,8,Medium,Mobile,37.7
+1812487224,Convenience Store ,Mobile Solution,3768,150,47.52,51 Water Lane,,Wilmslow,SK9 5BQ,SK9 5BQ,53.3264272,-2.237389,1,High,Mobile,25.12
+1812487225,Convenience Store ,Mobile Solution,1071,285,16.07,Fir Park,,Widnes,WA8 9BD,WA8 9BD,53.3804864,-2.7483637,1,Medium,Mobile,3.76
+1812487226,Convenience Store ,Mobile Solution,4860,104,45.52,Senghenydd Road,,Cardiff,CF10 3QN,CF10 3QN,51.4884067,-3.1774693,8,Low,Mobile,46.73
+1812487228,Convenience Store ,Mobile Solution,1273,104,33.45,49-53 The Street,Brundall,Norwich,NR13 5AA,NR13 5AA,52.6234548,1.4362474,5,Medium,Mobile,12.24
+1812487231,Convenience Store ,Mobile Solution,3013,193,37.14,Sandy Road,,Llanelli,SA15 4BR,SA15 4BR,51.6842346,-4.1757225,9,High,Mobile,15.61
+1812487236,Convenience Store ,Mobile Solution,2343,195,37.56,Station Road,,Evesham,WR11 7XR,WR11 7XR,52.0993301,-1.8294055,2,Medium,Mobile,12.02
+1812487240,Convenience Store ,Mobile Solution,1337,107,43.69,"Verbena Court, Cranesbill Road",,Melksham,SN12 7GS,SN12 7GS,51.3717764,-2.1152029,9,Medium,Mobile,12.5
+1812482845,Convenience Store ,Mobile Solution,2389,163,26.67,2 Blackmore Road,,Melksham,SN12 7HS,SN12 7HS,51.3762991,-2.1241796,8,Low,Mobile,14.66
+1812482848,Convenience Store ,Mobile Solution,4566,237,40.66,430 Evesham Road,,Redditch,B97 5JB,B97 5JB,52.2829174,-1.9431454,9,High,Mobile,19.27
+1812482871,Convenience Store ,Mobile Solution,1606,137,33.5,48 Tylacelyn Road,,Tonypandy,CF40 1JU,CF40 1JU,51.6142762,-3.4476803,4,High,Mobile,11.72
+1812482872,Convenience Store ,Mobile Solution,1165,210,42.77,12-14 Penrhiwceiber Road,,Mountain Ash,CF45 3SP,CF45 3SP,51.6699333,-3.361576,1,Medium,Mobile,5.55
+1812482873,Convenience Store ,Mobile Solution,2567,211,49.67,Penparcau Road,,Aberystwyth,SY23 1RU,SY23 1RU,52.4008182,-4.0719467,1,Low,Mobile,12.17
+1812482878,Convenience Store ,Mobile Solution,3058,180,22.02,44 High Street,,Milford Haven,SA73 1TF,SA73 1TF,51.7091721,-4.9486831,5,Low,Mobile,16.99
+1812491645,Convenience Store ,Mobile Solution,2324,235,49.81,"The Green, Heywood Lane",,Tenby,SA70 8EU,SA70 8EU,51.674484,-4.7085401,2,Low,Mobile,9.89
+1812491647,Convenience Store ,Mobile Solution,1728,203,18.14,Main Road,,Neath,SA10 7TW,SA10 7TW,51.6822527,-3.8190342,8,Medium,Fixed,8.51
+1812482890,Convenience Store ,Mobile Solution,3848,252,15.08,35 Llandudno Road,,Rhos-on-Sea,LL28 4EX,LL28 4EX,53.3086059,-3.7564129,5,High,Fixed,15.27
+1812482843,Convenience Store ,Mobile Solution,3043,172,16.55,387 Ombersley Road,,Worcester,WR3 7DA,WR3 7DA,52.2200825,-2.2282595,5,Medium,Mobile,17.69
+1812482849,Convenience Store ,Mobile Solution,1101,293,26.96,24-26 High Street,,Bromyard,HR7 4AA,HR7 4AA,52.1890314,-2.5069973,2,High,Mobile,3.76
+1812482851,Convenience Store ,Mobile Solution,4496,277,37.15,55 Gilbert Road,,Bromsgrove,B60 3JZ,B60 3JZ,52.3197699,-2.0695486,7,Medium,Mobile,16.23
+1812482853,Convenience Store ,Mobile Solution,2415,294,17.42,1 Colcot Road,,Barry,CF62 8HJ,CF62 8HJ,51.4089461,-3.2826038,8,High,Fixed,8.21
+1812482856,Convenience Store ,Mobile Solution,1778,148,15.2,21-23 Central Drive,,Deeside,CH5 1LR,CH5 1LR,53.203514,-3.0381904,1,High,Fixed,12.01
+1812482858,Convenience Store ,Mobile Solution,1213,135,47.8,25 The Square,,Birmingham,B48 7LA,B48 7LA,52.35188,-1.9593977,2,Low,Mobile,8.99
+1812482864,Convenience Store ,Mobile Solution,4762,225,43.77,Stoke Lane,,Bristol,BS9 3RW,BS9 3RW,51.4882468,-2.6247355,4,Medium,Fixed,21.16
+1812482875,Convenience Store ,Mobile Solution,2111,167,43.32,6 Dragon Road,,Bristol,BS36 1BQ,BS36 1BQ,51.5216279,-2.508544,5,Medium,Mobile,12.64
+1812482876,Convenience Store ,Mobile Solution,2576,177,45.95,6-10 Commercial Street,,Treharris,CF46 6NF,CF46 6NF,51.6508404,-3.2819498,2,Low,Mobile,14.55
+1812482882,Convenience Store ,Mobile Solution,3448,204,39.5,238 Finney Lane,,Cheadle,SK8 3QD,SK8 3QD,53.3703242,-2.2347174,1,Medium,Mobile,16.9
+1812482883,Convenience Store ,Mobile Solution,3635,268,18.65,63-65 Canada Way,,Worcester,WR2 4XA,WR2 4XA,52.1738268,-2.2411251,9,Medium,Mobile,13.56
+1812482886,Convenience Store ,Mobile Solution,3936,221,28.97,40-46 Countisbury Avenue,,Cardiff,CF3 5SL,CF3 5SL,51.5205504,-3.1198961,1,High,Fixed,17.81
+1812491642,Convenience Store ,Mobile Solution,4117,218,40.31,270 New Road,,Porthcawl,CF36 5BA,CF36 5BA,51.4829902,-3.6852476,4,Medium,Mobile,18.89
+1812491643,Convenience Store ,Mobile Solution,2695,289,24.81,71 High Street,,Milton Keynes,MK19 6HR,MK19 6HR,52.0499118,-0.8860491,2,High,Mobile,9.33
+1812491644,Convenience Store ,Mobile Solution,4534,213,39.06,400 Stanbridge Road,,Leighton Buzzard,LU7 4DF,LU7 4DF,51.9115796,-0.6364132,4,Medium,Fixed,21.29
+1812491648,Convenience Store ,Mobile Solution,1591,109,15.86,Haven Road,,Colchester,CO2 8FU,CO2 8FU,51.8794643,0.9277944,8,High,Fixed,14.6
+1812491651,Convenience Store ,Mobile Solution,2333,248,25.71,Elton Head Road,,St Helens,WA9 5BT,WA9 5BT,53.4282626,-2.7467635,8,Medium,Mobile,9.41
+1812491649,Convenience Store ,Mobile Solution,2109,263,34.22,Barker Street,,Worcester,WR3 8NP,WR3 8NP,52.2044965,-2.2117761,9,High,Mobile,8.02
+1812508506,Convenience Store ,Mobile Solution,3139,239,37.12,60 High Street,,Ferndale,CF43 4RR,CF43 4RR,51.6615605,-3.4480154,5,Medium,Mobile,13.13
+1812508501,Convenience Store ,Mobile Solution,4731,190,35.2,29 Sterry Road,,Swansea,SA4 3BW,SA4 3BW,51.6476705,-4.038379,7,Medium,Mobile,24.9
+1812496620,Convenience Store ,Mobile Solution,3720,101,39.42,26 Windsor Road,,Penarth,CF64 1JH,CF64 1JH,51.4390092,-3.1751772,3,Medium,Fixed,36.83
+1812496611,Convenience Store ,Mobile Solution,1713,217,15.21,Glanlliedi,,Llanelli,SA14 8BB,SA14 8BB,51.6978945,-4.1454087,4,Medium,Fixed,7.89
+1812496612,Convenience Store ,Mobile Solution,1935,112,18.53,Heol Jiwbill,,Port Talbot,SA12 9NR,SA12 9NR,51.6181737,-3.7581854,9,Low,Mobile,17.28
+1812496613,Convenience Store ,Mobile Solution,2951,280,45.41,149 Crow Lane,,Bristol,BS10 7DR,BS10 7DR,51.5094356,-2.6204712,1,Low,Mobile,10.54
+1812496614,Convenience Store ,Mobile Solution,1241,259,38.86,Bedwell Road,,Wrexham,LL13 0TR,LL13 0TR,53.0182268,-2.9315768,2,Low,Mobile,4.79
+1812496615,Convenience Store ,Mobile Solution,3043,194,18.95,The Avenue,,Bath,BA2 5EH,BA2 5EH,51.359854,-2.3468816,5,High,Fixed,15.69
+1812496616,Convenience Store ,Mobile Solution,4936,243,44.47,1 College Road,,Hereford,HR1 1EE,HR1 1EE,52.0658767,-2.7102993,3,Medium,Mobile,20.31
+1812496617,Convenience Store ,Mobile Solution,1001,131,23.48,46 King Street,,Carmarthen,SA31 1BH,SA31 1BH,51.8571369,-4.3045939,2,Medium,Mobile,7.64
+1812496618,Convenience Store ,Mobile Solution,3272,131,31.74,60-64 Filton Road,,Bristol,BS7 0PB,BS7 0PB,51.4962945,-2.5809658,1,High,Mobile,24.98
+1812496619,Convenience Store ,Mobile Solution,3848,223,20.08,460 Llangyfelach Road,,Swansea,SA5 9LR,SA5 9LR,51.6442685,-3.945272,3,Medium,Mobile,17.26
+1812496621,Convenience Store ,Mobile Solution,2768,110,39.85,68 Broomhill Road,,Bristol,BS4 4NZ,BS4 4NZ,51.4398593,-2.5403235,1,Medium,Mobile,25.16
+1812514591,Convenience Store ,Mobile Solution,2949,109,38.34,Stroud Road,,Gloucester,GL4 0AD,GL4 0AD,51.8367499,-2.2459952,1,Low,Mobile,27.06
+1812514519,Convenience Store ,Mobile Solution,3636,114,22.39,Gileston Road,St. Athan,Barry,CF62 4PZ,CF62 4PZ,51.4007622,-3.4139302,1,High,Fixed,31.89
+1812514641,Convenience Store ,Mobile Solution,3163,116,45.22,Stanley Road,,Pontypool,NP4 7LH,NP4 7LH,51.7359898,-3.068083,8,High,Fixed,27.27
+1812514578,Convenience Store ,Mobile Solution,4737,267,29.05,93 Greenway Lane,,Chippenham,SN15 1DZ,SN15 1DZ,51.4707622,-2.1196283,3,High,Mobile,17.74
+1812513960,Convenience Store ,Mobile Solution,1917,245,25.24,53 High Street,,Abertillery,NP13 3XB,NP13 3XB,51.7674251,-3.1599934,1,Medium,Mobile,7.82
+1812513959,Convenience Store ,Mobile Solution,4174,282,20.33,79-81 Bradford Road,,Bath,BA2 5BP,BA2 5BP,51.3590766,-2.3601606,7,High,Mobile,14.8
+1812522577,Convenience Store ,Mobile Solution,3241,252,24.32,51-53 Church Street,,Caerphilly,CF83 8ED,CF83 8ED,51.5935402,-3.198811,3,Low,Mobile,12.86
+1812522578,Convenience Store ,Mobile Solution,4237,158,15.77,High Street,,Ammanford,SA18 3JA,SA18 3JA,51.8220871,-4.0082553,8,Low,Mobile,26.82
+1812522580,Convenience Store ,Mobile Solution,3918,177,35.41,122 Caerphilly Road,,Cardiff,CF14 4QD,CF14 4QD,51.5148606,-3.2006051,4,Low,Fixed,22.14
+1812548580,Convenience Store ,Mobile Solution,1089,223,44.48,Co-op Saighton,Sandy Lane,Saighton,CH3 6BB,CH3 6BB,53.1729631,-2.8594061,4,Medium,Mobile,4.88
+1812551028,Convenience Store ,Mobile Solution,2709,213,34.21,Newhall Neighbourhood Centre,Unit A North Square,Harlow,CM17 9TW,CM17 9TW,51.7754245,0.1338043,5,Medium,Mobile,12.72
+1812572763,Convenience Store ,Mobile Solution,3169,121,22.67,1 Gooses Lane,,Pembroke,SA71 4DT,SA71 4DT,51.6736653,-4.9096767,6,Medium,Fixed,26.19
+1812572713,Convenience Store ,Mobile Solution,1142,257,16.18,7 De Freville House,,Great Shelford,CB22 5FY,CB22 5FY,52.1471892,0.1342298,7,Low,Fixed,4.44
+1812572714,Convenience Store ,Mobile Solution,4041,271,22.51,Overross Street,,Ross on Wye,HR9 7AS,HR9 7AS,51.9179678,-2.5806807,4,Medium,Mobile,14.91
+1812572716,Convenience Store ,Mobile Solution,1105,131,29.56,Amlwch Road,,Tyn-y-Gongl,LL74 8TF,LL74 8TF,53.3195213,-4.2263681,8,High,Mobile,8.44
+1812572717,Convenience Store ,Mobile Solution,1886,278,41.59,93 Bassnage Road,,Halesowen,B63 4HB,B63 4HB,52.442826,-2.0723906,6,Medium,Mobile,6.78
+1812572718,Convenience Store ,Mobile Solution,1427,273,21.57,50 Wrexham Road,,Rhostyllen,LL14 4DH,LL14 4DH,53.0332219,-3.0170352,1,High,Mobile,5.23
+1812572719,Convenience Store ,Mobile Solution,2328,212,40.19,Gatley Road,,Gatley,SK8 4AB,SK8 4AB,53.3927186,-2.2327216,1,Medium,Mobile,10.98
+1812572720,Convenience Store ,Mobile Solution,2895,219,45.34,Unit 1 Longford Lane,,Longford,GL2 9BY,GL2 9BY,51.8836164,-2.2303857,9,High,Mobile,13.22
+1812572723,Convenience Store ,Mobile Solution,2994,248,30.89,1 Hicks Road,,Markyate,AL3 8LJ,AL3 8LJ,51.8364548,-0.4587652,6,Medium,Fixed,12.07
+1812572706,Convenience Store ,Mobile Solution,1316,221,43.75,Brecon Road,,Builth Wells,LD2 3ED,LD2 3ED,52.1477511,-3.402294,8,Medium,Mobile,5.95
+1812572707,Convenience Store ,Mobile Solution,2986,131,34.41,Bryn Road,,Swansea,SA2 0AU,SA2 0AU,51.610655,-3.9727064,7,Medium,Mobile,22.79
+1812572708,Convenience Store ,Mobile Solution,1634,218,37.3,Trawler Road,,Swansea,SA1 1LB,SA1 1LB,51.6141608,-3.9420628,6,Medium,Mobile,7.5
+1812572709,Convenience Store ,Mobile Solution,2925,138,33.42,8A-8B Heol Y Deri,,Cardiff,CF14 6HF,CF14 6HF,51.5227017,-3.211983,4,High,Mobile,21.2
+1812572710,Convenience Store ,Mobile Solution,3056,111,31.21,17-19 Conway Road,,Chippenham,SN14 0PW,SN14 0PW,51.4567439,-2.1439297,7,Medium,Fixed,27.53
+1812572711,Convenience Store ,Mobile Solution,3821,274,23.21,Junction of Pentwyn and Park Road,,Conwy,LL31 9TH,LL31 9TH,53.2903443,-3.8224886,9,Medium,Mobile,13.95
+1812572712,Convenience Store ,Mobile Solution,4144,117,25.61,3-7 Cowbridge Road,,Pontyclun,CF72 9BS,CF72 9BS,51.5180422,-3.3994713,7,High,Mobile,35.42
+1812572715,Convenience Store ,Mobile Solution,4430,248,25.15,45 Robert Street,Ynysybwl,Pontypridd,CF37 3DY,CF37 3DY,51.6360162,-3.3575971,1,Medium,Mobile,17.86
+1812576241,Convenience Store ,Mobile Solution,3270,240,34.72,Hall Bank,,Pontesbury,SY5 0RF,SY5 0RF,52.6505642,-2.8881594,9,Medium,Mobile,13.62
+1812576277,Convenience Store ,Mobile Solution,2439,248,19.2,524 Evesham Road,,Redditch,B97 5JN,B97 5JN,52.2788342,-1.9399113,4,Medium,Mobile,9.83
+1812580232,Convenience Store ,Mobile Solution,1552,225,47.09,Gatley Road,,Gatley,SK8 4AB,SK8 4AB,53.3927186,-2.2327216,3,Medium,Mobile,6.9
+1812580229,Convenience Store ,Mobile Solution,4441,235,40.22,Co-operative Retail Services Ltd,127 Walter Road,Swansea,SA1 5RG,SA1 5RG,51.6199888,-3.9550099,4,Medium,Mobile,18.9
+1812580227,Convenience Store ,Mobile Solution,1715,145,29.05,Co-operative Retail Services Ltd,Hawarden Road,Chester ,CH4 0JE,CH4 0JE,53.1508027,-3.0441114,4,Medium,Mobile,11.83
+1812412586,Convenience Store ,Mobile Solution,2287,203,20.55,Unit 1 192-210 Horn Lane,Acton,London,W3 6PL,W3 6PL,51.5163752,-0.2670666,2,High,Mobile,11.27
+1812412738,Convenience Store ,Mobile Solution,4911,234,45.87,26 Steynton Avenue,Albany Park,Bexley,DA5 3HP,DA5 3HP,51.4360911,0.1256777,1,Medium,Fixed,20.99
+1812413084,Convenience Store ,Mobile Solution,2713,250,43.83,1-3 Albert Parade,,Eastbourne,BN21 1SD,BN21 1SD,50.777541,0.2566073,1,Medium,Fixed,10.85
+1812413083,Convenience Store ,Mobile Solution,2883,185,40.26,57 Alcombe Road,Alcombe,Minehead,TA24 6BB,TA24 6BB,51.1976458,-3.4683179,8,Medium,Mobile,15.58
+1812412863,Convenience Store ,Mobile Solution,4389,249,24.5,38-39 London Road,,Andover,SP10 2PP,SP10 2PP,51.2097663,-1.461318,2,High,Mobile,17.63
+1812413081,Convenience Store ,Mobile Solution,2107,188,29.09,11-19 Junction Road,Archway,London,N19 5QT,N19 5QT,51.5648651,-0.1346307,5,High,Mobile,11.21
+1812412479,Convenience Store ,Mobile Solution,2341,121,18.6,177-187 Arthur Road,Wimbledon Park,Wimbledon,SW19 8AE,SW19 8AE,51.4350733,-0.1978908,4,Medium,Mobile,19.35
+1812412736,Convenience Store ,Mobile Solution,1110,191,21.62,15-23 Queen Street,,Arundel,BN18 9JG,BN18 9JG,50.8530888,-0.5520376,8,High,Mobile,5.81
+1812412438,Convenience Store ,Mobile Solution,1250,128,42.41,10 North Street,,Ashburton,TQ13 7QD,TQ13 7QD,50.5160037,-3.7567956,2,Medium,Fixed,9.77
+1812412368,Convenience Store ,Mobile Solution,3430,112,40.03,Church Road,,Ashford,TW15 2TX,TW15 2TX,51.4328469,-0.4626917,9,Medium,Fixed,30.62
+1812413078,Convenience Store ,Mobile Solution,3054,101,35.77,98 Askew Road,,London,W12 9BL,W12 9BL,51.5027675,-0.2433476,7,Low,Mobile,30.24
+1812412854,Convenience Store ,Mobile Solution,1458,128,46.35,193-195 Avonmouth Road,Avonmouth,Bristol,BS11 9EG,BS11 9EG,51.4991856,-2.6956345,7,Medium,Mobile,11.39
+1812412852,Convenience Store ,Mobile Solution,2107,279,35.41,2 The Square,,Axbridge,BS26 2AR,BS26 2AR,51.2870555,-2.817138,1,Medium,Fixed,7.55
+1812412883,Convenience Store ,Mobile Solution,1207,126,31.34,11 South Street,,Axminster,EX13 5AD,EX13 5AD,50.7813155,-2.9977244,2,High,Fixed,9.58
+1812413076,Convenience Store ,Mobile Solution,1899,149,26.91,Market Square,Aylesham,Canterbury,CT3 3DY,CT3 3DY,51.225669,1.2008052,4,Medium,Mobile,12.74
+1812412370,Convenience Store ,Mobile Solution,4461,194,47.92,6 The Square,,Bagshot,GU19 5AY,GU19 5AY,51.3611894,-0.6916794,4,High,Mobile,22.99
+1812412734,Convenience Store ,Mobile Solution,4385,250,17.9,3-6 The Square,Barnham,Bognor Regis,PO22 0HB,PO22 0HB,50.8320202,-0.640478,3,Medium,Mobile,17.54
+1812412754,Convenience Store ,Mobile Solution,1021,187,47.58,22 St. Georges Road,,Barnstaple,EX32 7AU,EX32 7AU,51.0863007,-4.0520657,7,Medium,Mobile,5.46
+1812412510,Convenience Store ,Mobile Solution,1409,143,43.94,162 Barton Hill Road,,Torquay,TQ2 8HN,TQ2 8HN,50.4922076,-3.5393969,8,Medium,Mobile,9.85
+1812413136,Convenience Store ,Mobile Solution,1894,121,19.55,109 Bassett Green Road,Bassett,Southampton,SO16 3EG,SO16 3EG,50.9441548,-1.3873756,2,Low,Mobile,15.65
+1812412487,Convenience Store ,Mobile Solution,1514,270,34.77,27-37 Battersea Bridge Road,,Battersea,SW11 3BA,SW11 3BA,51.4790625,-0.1703795,4,Medium,Mobile,5.61
+1812412732,Convenience Store ,Mobile Solution,4198,264,45.33,71-72 High Street,,Battle,TN33 0AG,TN33 0AG,50.9163164,0.4851393,3,Low,Mobile,15.9
+1812412753,Convenience Store ,Mobile Solution,1808,288,35.01,288-296 Beacon Park,Beacon Park,Plymouth,PL2 3LU,PL2 3LU,50.3953717,-4.1500228,2,Medium,Mobile,6.28
+1812413037,Convenience Store ,Mobile Solution,4771,196,46.75,23 The Square,,Beaminster,DT8 3AU,DT8 3AU,50.8087378,-2.7389423,6,Medium,Mobile,24.34
+1812412274,Convenience Store ,Mobile Solution,1873,283,48,33-37 Egremont Road,Bearsted,Maidstone,ME15 8LH,ME15 8LH,51.2645935,0.5649543,4,High,Fixed,6.62
+1812412524,Convenience Store ,Mobile Solution,1013,102,29.78,131 Beaumont Road,St. Judes,Plymouth,PL4 9EG,PL4 9EG,50.3756162,-4.1183419,6,Medium,Fixed,9.93
+1812413074,Convenience Store ,Mobile Solution,1970,290,28.21,109 Bishopsworth Road,Bedminster Down,Bristol,BS13 7JR,BS13 7JR,51.4255065,-2.6138695,2,Low,Mobile,6.79
+1812413073,Convenience Store ,Mobile Solution,4025,217,47.77,38-40 Randlesdown Road,Bellingham,London,SE6 3BT,SE6 3BT,51.4327107,-0.0202342,4,Medium,Mobile,18.55
+1812413071,Convenience Store ,Mobile Solution,4061,118,38.63,22-26 Western Road,,Bexhill-on-Sea,TN40 1DX,TN40 1DX,50.8404098,0.4722263,6,High,Fixed,34.42
+1812412363,Convenience Store ,Mobile Solution,4083,122,19.06,4-6 Devonshire Road,,Bexhill-on-Sea,TN40 1AS,TN40 1AS,50.8395044,0.4733574,5,High,Mobile,33.47
+1812412731,Convenience Store ,Mobile Solution,3134,256,16.48,301-303 Brampton Road,,Bexleyheath,DA7 5QR,DA7 5QR,51.4737645,0.1265661,3,Medium,Mobile,12.24
+1812412431,Convenience Store ,Mobile Solution,4595,129,34.76,62-63 Mill Street,Town Centre,Bideford,EX39 2JT,EX39 2JT,51.0183486,-4.2058081,8,Medium,Mobile,35.62
+1812413069,Convenience Store ,Mobile Solution,3956,138,47.56,54-56 Station Road,,Birchington,CT7 9RA,CT7 9RA,51.3759103,1.3037791,7,Low,Mobile,28.67
+1812412263,Convenience Store ,Mobile Solution,2560,207,44.55,78-80 Station Road,,Birchington,CT7 9RA,CT7 9RA,51.3759103,1.3037791,3,High,Mobile,12.37
+1812413068,Convenience Store ,Mobile Solution,2324,210,38.65,4 Church Street,Bishops Lydeard,Taunton,TA4 3AT,TA4 3AT,51.0608957,-3.1878953,6,Medium,Fixed,11.07
+1812412729,Convenience Store ,Mobile Solution,2266,124,19.87,147-149 Blendon Road,,Bexley,DA5 1BT,DA5 1BT,51.4479658,0.1214803,4,Medium,Mobile,18.27
+1812412727,Convenience Store ,Mobile Solution,3169,227,23.9,2 Nyetimber Lane,Aldwick,Bognor Regis,PO21 3HG,PO21 3HG,50.7845866,-0.7171973,5,Medium,Mobile,13.96
+1812412726,Convenience Store ,Mobile Solution,4218,210,45.64,45-47 Bohemia Road,,St. Leonards-on-Sea,TN37 6RE,TN37 6RE,50.8634059,0.5590969,5,Low,Fixed,20.09
+1812413064,Convenience Store ,Mobile Solution,4638,235,21.4,Station Approach,Borough Green,Sevenoaks,TN15 8AD,TN15 8AD,51.294122,0.3063893,7,High,Mobile,19.74
+1812413063,Convenience Store ,Mobile Solution,1749,205,24.75,142-144 Borstal Street,Borstal,Rochester,ME1 3JS,ME1 3JS,51.3729324,0.4848761,5,Low,Mobile,8.53
+1812412857,Convenience Store ,Mobile Solution,4427,285,19.54,Boscombe Road,,Amesbury,SP4 7JH,SP4 7JH,51.1677755,-1.763734,3,Medium,Mobile,15.53
+1812412725,Convenience Store ,Mobile Solution,1684,243,38.66,12 The Square,Botley,Southampton,SO30 2EA,SO30 2EA,50.9144703,-1.271475,5,Medium,Mobile,6.93
+1812412378,Convenience Store ,Mobile Solution,2927,171,48.04,2-2a Wakeman Road,,Bourne End,SL8 5SX,SL8 5SX,51.5789405,-0.7108935,7,High,Mobile,17.12
+1812413062,Convenience Store ,Mobile Solution,4804,228,24.41,382 Holdenhurst Road,,Bournemouth,BH8 8BN,BH8 8BN,50.7329437,-1.8496428,5,High,Mobile,21.07
+1812412774,Convenience Store ,Mobile Solution,4702,207,31.64,7-8 Oak Tree Parade,Bransgore,Christchurch,BH23 8AB,BH23 8AB,50.7812946,-1.7364412,5,Medium,Mobile,22.71
+1812412433,Convenience Store ,Mobile Solution,3356,104,37.2,Exeter Road,,Braunton,EX33 2JL,EX33 2JL,51.1069465,-4.1605248,9,Medium,Mobile,32.27
+1812412460,Convenience Store ,Mobile Solution,1694,102,49.98,Tvu Buildings,Boston Manor Road,Brentford,TW8 9GB,TW8 9GB,51.4889704,-0.3142866,3,High,Mobile,16.61
+1812412721,Convenience Store ,Mobile Solution,3335,292,18.67,12-14 Carlton Parade,,Orpington,BR6 0JB,BR6 0JB,51.3824983,0.1072429,6,Low,Mobile,11.42
+1812412335,Convenience Store ,Mobile Solution,1306,231,32.45,42-44 High Street,,Carshalton,SM5 3AG,SM5 3AG,51.3651516,-0.1612031,1,Medium,Mobile,5.65
+1812412860,Convenience Store ,Mobile Solution,4883,203,28.48,89-91 Banstead Road,,Carshalton,SM5 3NP,SM5 3NP,51.3569162,-0.1734253,5,Medium,Mobile,24.05
+1812413049,Convenience Store ,Mobile Solution,4665,163,45.3,Fore Street,,Castle Cary,BA7 7BG,BA7 7BG,51.088821,-2.5141625,8,High,Mobile,28.62
+1812412720,Convenience Store ,Mobile Solution,2989,205,31.66,74 Castle Road,,Salisbury,SP1 3RR,SP1 3RR,51.0836895,-1.7970565,5,Medium,Fixed,14.58
+1812413048,Convenience Store ,Mobile Solution,3961,197,18.88,308-312 Sangley Road,Catford,London,SE6 2JT,SE6 2JT,51.4422539,-0.0113028,9,High,Mobile,20.11
+1812412582,Convenience Store ,Mobile Solution,4794,109,37.2,124 Henley Road,Caversham,Reading,RG4 6DH,RG4 6DH,51.4709305,-0.9592315,6,Medium,Mobile,43.98
+1812413047,Convenience Store ,Mobile Solution,1661,248,41.98,19-23 The Village,Charlton,London,SE7 8UG,SE7 8UG,51.4820638,0.0369917,8,Medium,Mobile,6.7
+1812412719,Convenience Store ,Mobile Solution,1548,227,15.1,269-273 Charminster Road,,Bournemouth,BH8 9QJ,BH8 9QJ,50.739584,-1.8665791,8,Medium,Mobile,6.82
+1812413046,Convenience Store ,Mobile Solution,4423,145,45.06,36-38 Chastilian Road,,Dartford,DA1 3JJ,DA1 3JJ,51.4439083,0.1914763,3,Medium,Mobile,30.5
+1812412581,Convenience Store ,Mobile Solution,1311,254,21.51,Ships & Trades Offices,Maritime Way,Chatham,ME4 3ER,ME4 3ER,51.4024869,0.5363863,7,Medium,Fixed,5.16
+1812413153,Convenience Store ,Mobile Solution,3920,165,34.32,Walnut Road,Chelston,Torquay,TQ2 6HP,TQ2 6HP,50.4628286,-3.5465586,7,Medium,Fixed,23.76
+1812413043,Convenience Store ,Mobile Solution,2082,268,29.55,66 High Street,Cheriton,Folkestone,CT19 4HB,CT19 4HB,51.088308,1.1423909,6,Low,Mobile,7.77
+1812413042,Convenience Store ,Mobile Solution,4714,211,40.19,1 Station Road,Chingford,London,E4 7BJ,E4 7BJ,51.6311617,0.0036102,7,High,Mobile,22.34
+1812412491,Convenience Store ,Mobile Solution,3971,112,27.99,76 Green Lane,,Chislehurst,BR7 6AZ,BR7 6AZ,51.4226473,0.067834,2,High,Mobile,35.46
+1812413041,Convenience Store ,Mobile Solution,2737,236,45.44,Library Site,Market Way,Chudleigh,TQ13 0HL,TQ13 0HL,50.606115,-3.6012666,9,Medium,Mobile,11.6
+1812412377,Convenience Store ,Mobile Solution,1754,263,40.57,29-31 Elmshot Lane,,Slough,SL1 5QS,SL1 5QS,51.5182473,-0.6449122,1,Medium,Mobile,6.67
+1812412337,Convenience Store ,Mobile Solution,1034,185,37.67,109a Hare Lane,Claygate,Esher,KT10 0QY,KT10 0QY,51.3607653,-0.3453389,1,Low,Mobile,5.59
+1812412454,Convenience Store ,Mobile Solution,1444,189,42.87,Princess Victoria Street,Clifton Village,Bristol,BS8 4BX,BS8 4BX,51.4543617,-2.6204295,3,Medium,Fixed,7.64
+1812412718,Convenience Store ,Mobile Solution,3140,157,41.39,1-5 Summerfield Road,Cliftonville,Margate,CT9 3EZ,CT9 3EZ,51.386409,1.4245871,3,High,Mobile,20
+1812413040,Convenience Store ,Mobile Solution,2982,153,16.26,17 Manor Farm Road,Cobden Bridge,Southampton,SO18 1NN,SO18 1NN,50.9246232,-1.3756523,1,Low,Mobile,19.49
+1812412715,Convenience Store ,Mobile Solution,2230,111,28.82,1 Smugglers Lane,Colehill,Wimborne,BH21 2RX,BH21 2RX,50.8100491,-1.9636067,7,Low,Mobile,20.09
+1812412714,Convenience Store ,Mobile Solution,1352,113,47.58,The Retail Unit,"Turpin Avenue, Colliers Row",Romford,RM5 2PU,RM5 2PU,51.6054689,0.1579445,4,High,Mobile,11.96
+1812413039,Convenience Store ,Mobile Solution,1902,220,19.4,76 Colney Road,,Dartford,DA1 1UH,DA1 1UH,51.4448178,0.2305066,2,Medium,Mobile,8.65
+1812413091,Convenience Store ,Mobile Solution,2355,261,40.8,62-64 Columbia Road,Ensbury Park,Bournemouth,BH10 4DY,BH10 4DY,50.7515379,-1.8870905,5,Low,Fixed,9.02
+1812413038,Convenience Store ,Mobile Solution,4888,280,49.11,42-46 Croydon Road,Coney Hall,West Wickham,BR4 9HU,BR4 9HU,51.3696332,0.0016273,6,Medium,Mobile,17.46
+1812412713,Convenience Store ,Mobile Solution,3909,220,16.83,1 The Parade,147 Wareham Road,Wimborne,BH21 3LA,BH21 3LA,50.7654494,-2.0210699,9,Medium,Mobile,17.77
+1812412711,Convenience Store ,Mobile Solution,2748,119,38.88,318-320 Fernhill Road,Cove,Farnborough,GU14 9EF,GU14 9EF,51.3121432,-0.7762932,4,Medium,Mobile,23.09
+1812412709,Convenience Store ,Mobile Solution,1158,174,31.39,1 Station Road,Crawley Down,Crawley,RH10 4HZ,RH10 4HZ,51.1209152,-0.0775469,2,High,Mobile,6.66
+1812412580,Convenience Store ,Mobile Solution,2977,243,35.27,69 Creekmoor Lane,,Poole,BH17 7BW,BH17 7BW,50.742358,-1.9985104,5,High,Fixed,12.25
+1812412880,Convenience Store ,Mobile Solution,1956,169,17.99,383 Brockley Road,Crofton Park,London,SE4 2PH,SE4 2PH,51.4545494,-0.0370517,3,Medium,Mobile,11.57
+1812412579,Convenience Store ,Mobile Solution,3071,155,16.51,23-25 Fore Street,,Cullompton,EX15 1JS,EX15 1JS,50.8564378,-3.392486,2,High,Mobile,19.81
+1812413034,Convenience Store ,Mobile Solution,1403,200,38.34,93 Bush Road,Cuxton,Rochester,ME2 1EY,ME2 1EY,51.3742799,0.4533789,1,Medium,Fixed,7.02
+1812412480,Convenience Store ,Mobile Solution,3852,285,43.82,Dalston Square,Dalston Lane,London,E8 3FT,E8 3FT,51.5460393,-0.0748545,2,High,Mobile,13.52
+1812412445,Convenience Store ,Mobile Solution,1515,231,42.37,19-20 Fairfax Place,,Dartmouth,TQ6 9AB,TQ6 9AB,50.3508071,-3.5781143,6,Medium,Mobile,6.56
+1812412706,Convenience Store ,Mobile Solution,3779,210,34.03,98 Dedworth Road,,Windsor,SL4 5BD,SL4 5BD,51.478618,-0.6371018,8,High,Mobile,18
+1812413033,Convenience Store ,Mobile Solution,2387,224,18.5,124-126 Delce Road,,Rochester,ME1 2DT,ME1 2DT,51.3805337,0.5079667,3,High,Fixed,10.66
+1812413032,Convenience Store ,Mobile Solution,4453,231,39.08,Dickens Estate Marley Way,7-11 Central Parade,Rochester,ME1 2LQ,ME1 2LQ,51.3732546,0.5064481,9,Low,Mobile,19.28
+1812413031,Convenience Store ,Mobile Solution,3579,119,23.47,269 Preston Drove,Five Ways,Brighton,BN1 6FL,BN1 6FL,50.8438296,-0.1363167,9,High,Mobile,30.08
+1812413029,Convenience Store ,Mobile Solution,1955,237,46.89,66 The Borough,Downton,Salisbury,SP5 3LY,SP5 3LY,50.9931347,-1.7495907,2,High,Mobile,8.25
+1812412748,Convenience Store ,Mobile Solution,3199,123,44.34,8 George Street,Devonport,Plymouth,PL1 4HN,PL1 4HN,50.3698713,-4.1737758,8,High,Mobile,26.01
+1812412856,Convenience Store ,Mobile Solution,4633,253,39.83,Doone House,Fore Street,Dulverton,TA22 9EX,TA22 9EX,51.0402314,-3.5507893,5,Medium,Mobile,18.31
+1812412705,Convenience Store ,Mobile Solution,2712,136,48.21,26 Forest Hill Road,Dulwich,London,SE22 0RR,SE22 0RR,51.4534952,-0.0623141,4,High,Mobile,19.94
+1812412577,Convenience Store ,Mobile Solution,3994,153,16.1,116-118 Pitshanger Lane,,Ealing,W5 1QP,W5 1QP,51.5264918,-0.3127418,5,High,Mobile,26.1
+1812412320,Convenience Store ,Mobile Solution,1607,202,40.77,210-212 Earls Court Road,Earls Court,Kensington,SW5 9QB,SW5 9QB,51.4921816,-0.1935083,4,Medium,Mobile,7.96
+1812412395,Convenience Store ,Mobile Solution,4688,248,26.56,York Avenue,,East Cowes,PO32 6QY,PO32 6QY,50.7581026,-1.2886798,8,High,Mobile,18.9
+1812412872,Convenience Store ,Mobile Solution,3467,137,46.71,Fore Street,East Looe,Looe,PL13 1DT,PL13 1DT,50.3551635,-4.4544158,4,Low,Mobile,25.31
+1812412700,Convenience Store ,Mobile Solution,2273,273,24.33,Pound Road,East Peckham,Tonbridge,TN12 5BQ,TN12 5BQ,51.2134137,0.3844887,6,Low,Fixed,8.33
+1812412359,Convenience Store ,Mobile Solution,4188,103,40.37,25-29 Cornfield Road,,Eastbourne,BN21 4QD,BN21 4QD,50.7677237,0.2845708,2,Medium,Mobile,40.66
+1812412576,Convenience Store ,Mobile Solution,3913,287,45.72,5 Rectory Row,,Bracknell,RG12 7BN,RG12 7BN,51.4046751,-0.7559411,5,Medium,Mobile,13.63
+1812413028,Convenience Store ,Mobile Solution,2535,156,16.46,36-37 Easton Square,,Portland,DT5 1BY,DT5 1BY,50.5454074,-2.4357496,6,Medium,Mobile,16.25
+1812412758,Convenience Store ,Mobile Solution,4811,272,28.92,42 Springfield Road,,Plymouth,PL9 8EN,PL9 8EN,50.3589966,-4.0657205,5,Low,Mobile,17.69
+1812413026,Convenience Store ,Mobile Solution,3625,119,41.68,70-72 Elmers End Road,,Anerley,SE20 7UX,SE20 7UX,51.4060802,-0.0577045,2,High,Fixed,30.46
+1812412743,Convenience Store ,Mobile Solution,3382,116,30.92,38-40 Embankment Road,,Plymouth,PL4 9HY,PL4 9HY,50.3704761,-4.120546,7,Low,Fixed,29.16
+1812412696,Convenience Store ,Mobile Solution,2441,218,24.35,55-57 Erleigh Road,,Reading,RG1 5NL,RG1 5NL,51.4498274,-0.9492925,4,Low,Fixed,11.2
+1812412501,Convenience Store ,Mobile Solution,3979,170,22.69,34 Hornchurch Road,,Plymouth,PL5 2TG,PL5 2TG,50.4188582,-4.1784259,8,Low,Mobile,23.41
+1812413023,Convenience Store ,Mobile Solution,2797,103,19.6,132-134 Essex Road,,London,N1 8LX,N1 8LX,51.539221,-0.0978547,7,Medium,Mobile,27.16
+1812412695,Convenience Store ,Mobile Solution,1294,113,45,Victoria Square Evercreech,,Shepton Mallet,BA4 6JP,BA4 6JP,51.1482516,-2.5055432,7,High,Mobile,11.45
+1812412694,Convenience Store ,Mobile Solution,1754,102,35.14,82-88 High Street,Ewell,Epsom,KT17 1RE,KT17 1RE,51.3476384,-0.2501605,9,Medium,Mobile,17.2
+1812412693,Convenience Store ,Mobile Solution,2394,179,17.67,332 Kingston Road,,Epsom,KT19 0SU,KT19 0SU,51.3664926,-0.2614379,1,High,Mobile,13.37
+1812412440,Convenience Store ,Mobile Solution,1185,285,28.39,Cowick Street,,Exeter,EX4 1AJ,EX4 1AJ,50.71695,-3.5394084,6,Low,Fixed,4.16
+1812413013,Convenience Store ,Mobile Solution,2269,154,27.87,15 Pennsylvania Road,,Exeter,EX4 6BP,EX4 6BP,50.7308399,-3.525952,6,Medium,Mobile,14.73
+1812412574,Convenience Store ,Mobile Solution,1636,231,21.36,37-39 Queen Street,,Exeter,EX4 3SR,EX4 3SR,50.7267456,-3.5350287,6,Medium,Mobile,7.08
+1812412692,Convenience Store ,Mobile Solution,2291,219,30.24,64-68 Fair Oak Road,,Eastleigh,SO50 6LH,SO50 6LH,50.9663613,-1.3290942,6,Medium,Mobile,10.46
+1812413022,Convenience Store ,Mobile Solution,4714,123,26.62,34-36 Faircross Parade,,Barking,IG11 8UW,IG11 8UW,51.5459044,0.0944915,7,Low,Fixed,38.33
+1812412691,Convenience Store ,Mobile Solution,4308,261,26.96,47 Fairfield Avenue,,Fareham,PO14 1EH,PO14 1EH,50.8438493,-1.1957908,6,Medium,Mobile,16.51
+1812413021,Convenience Store ,Mobile Solution,1529,257,40.87,21- 23 Falconwood Park,,Welling,DA16 2PQ,DA16 2PQ,51.4573914,0.0934156,1,Medium,Mobile,5.95
+1812412386,Convenience Store ,Mobile Solution,4623,181,22.81,219 Gudge Heath Lane,,Fareham,PO15 6QL,PO15 6QL,50.8594121,-1.2096605,3,High,Fixed,25.54
+1812413020,Convenience Store ,Mobile Solution,3068,246,37.47,38-42 Woburn Avenue,,Farnborough,GU14 7EF,GU14 7EF,51.2893271,-0.7396279,2,Medium,Mobile,12.47
+1812413019,Convenience Store ,Mobile Solution,3958,258,34.97,61-66 St. Johns Street,,Godalming,GU7 3EH,GU7 3EH,51.1949965,-0.6043216,6,Low,Mobile,15.34
+1812412690,Convenience Store ,Mobile Solution,4808,287,34.88,Forbes Road,,Faversham,ME13 8QG,ME13 8QG,51.3112533,0.8879179,8,Medium,Mobile,16.75
+1812413018,Convenience Store ,Mobile Solution,3914,159,38.21,111-113 Fencepiece Road,,Ilford,IG6 2LD,IG6 2LD,51.6023184,0.0839157,3,Low,Mobile,24.62
+1812413017,Convenience Store ,Mobile Solution,1793,246,34.19,The Boulevard Nelson Road,,Worthing,BN12 6BS,BN12 6BS,50.8192391,-0.4110304,8,High,Fixed,7.29
+1812412481,Convenience Store ,Mobile Solution,4591,148,45.77,20 Kings Road,,Fleet,GU51 3ST,GU51 3ST,51.2863691,-0.8391526,8,Medium,Mobile,31.02
+1812412689,Convenience Store ,Mobile Solution,3147,162,38.65,101-102 Cheriton Road,,Folkestone,CT20 2QN,CT20 2QN,51.0823575,1.1715487,5,Low,Mobile,19.43
+1812412289,Convenience Store ,Mobile Solution,3799,209,34.14,67-73 Woodgrange Road,,London,E7 0EL,E7 0EL,51.5489344,0.0245309,8,High,Mobile,18.18
+1812412345,Convenience Store ,Mobile Solution,1477,249,44.04,Featherbed Lane,Addington,Croydon,CR0 9AS,CR0 9AS,51.3508694,-0.0380246,6,Medium,Mobile,5.93
+1812412747,Convenience Store ,Mobile Solution,2622,251,36.22,2 Austin Crescent,,Plymouth,PL6 5QA,PL6 5QA,50.4024406,-4.1078002,5,Low,Mobile,10.45
+1812413015,Convenience Store ,Mobile Solution,4369,208,25.19,83 Fortuneswell,,Portland,DT5 1LY,DT5 1LY,50.5599557,-2.4434788,9,Medium,Mobile,21
+1812412909,Convenience Store ,Mobile Solution,1939,175,22.25,5-7 Hawley Road,Wilmington,Dartford,DA1 1NP,DA1 1NP,51.4337936,0.2157543,7,Medium,Mobile,11.08
+1812412355,Convenience Store ,Mobile Solution,1525,129,20.33,22-28 Middle Village,Bolnore Village,Haywards Heath,RH16 4GH,RH16 4GH,50.9901713,-0.1167543,8,High,Mobile,11.82
+1812412436,Convenience Store ,Mobile Solution,3381,157,46.48,61-63 Fore Street,Heavitree,Exeter,EX1 2RJ,EX1 2RJ,50.7215018,-3.5047234,1,High,Fixed,21.54
+1812412675,Convenience Store ,Mobile Solution,1001,216,39.85,142 Hempstead Road,,Gillingham,ME7 3QE,ME7 3QE,51.3511822,0.5708933,2,High,Mobile,4.63
+1812412908,Convenience Store ,Mobile Solution,1374,258,47.81,9-15 Herbert Road,Plumstead,London,SE18 3TB,SE18 3TB,51.4810396,0.0697841,8,Medium,Mobile,5.33
+1812412907,Convenience Store ,Mobile Solution,3340,199,36.12,160 Mortimer Street,,Herne Bay,CT6 5DU,CT6 5DU,51.3718627,1.1322602,9,Medium,Mobile,16.78
+1812412674,Convenience Store ,Mobile Solution,3884,291,31.57,152-154 Reculver Road,Beltinge,Herne Bay,CT6 6PL,CT6 6PL,51.3703782,1.1560563,4,High,Fixed,13.35
+1812412906,Convenience Store ,Mobile Solution,4052,118,17.09,139 Hertford Road,,Enfield,EN3 5JG,EN3 5JG,51.6576917,-0.0466034,9,Low,Mobile,34.34
+1812412904,Convenience Store ,Mobile Solution,1552,275,38.51,17 Martin Hardy Way,Higham Lane,Tonbridge,TN10 4AE,TN10 4AE,51.2117512,0.2935651,4,Medium,Mobile,5.64
+1812412405,Convenience Store ,Mobile Solution,3365,272,35.38,309-311 Lymington Road,Highcliffe,Christchurch,BH23 5EG,BH23 5EG,50.7416714,-1.698186,9,Medium,Mobile,12.37
+1812412766,Convenience Store ,Mobile Solution,2525,193,49.66,147 Eggbuckland Road,Efford,Plymouth,PL3 6QA,PL3 6QA,50.3924397,-4.1181487,7,Low,Mobile,13.08
+1812412566,Convenience Store ,Mobile Solution,2851,282,23.37,72 Warburton Road,Hightown,Southampton,SO19 6HQ,SO19 6HQ,50.9041148,-1.3323791,2,Medium,Mobile,10.11
+1812412903,Convenience Store ,Mobile Solution,1380,212,33.58,384 Long Lane,,Hillingdon,UB10 9PG,UB10 9PG,51.5512801,-0.4486351,9,High,Fixed,6.51
+1812412488,Convenience Store ,Mobile Solution,2646,282,37.78,100 St. Norbert Road,Brockley,London,SE4 2BN,SE4 2BN,51.458882,-0.0439194,4,High,Fixed,9.38
+1812412902,Convenience Store ,Mobile Solution,1013,245,37.56,200-206 Hither Green Lane,Hither,London,SE13 6RT,SE13 6RT,51.4507013,-0.0061863,8,Low,Mobile,4.13
+1812412495,Convenience Store ,Mobile Solution,1503,162,34.65,8 Hoegate Street,,Plymouth,PL1 2JB,PL1 2JB,50.3677664,-4.1383686,7,Low,Mobile,9.28
+1812413067,Convenience Store ,Mobile Solution,3278,215,42.19,5-6 Stanhope Square,,Holsworthy,EX22 6AP,EX22 6AP,50.8093967,-4.3529901,7,Medium,Mobile,15.25
+1812412898,Convenience Store ,Mobile Solution,3008,212,22.17,11-13 Main Road,,Rochester,ME3 9AA,ME3 9AA,51.4199745,0.5606134,8,High,Mobile,14.19
+1812412564,Convenience Store ,Mobile Solution,4155,146,40.4,44-52 Stopples Lane,Hordle,Lymington,SO41 0GL,SO41 0GL,50.7586735,-1.6228226,1,Low,Fixed,28.46
+1812412466,Convenience Store ,Mobile Solution,1129,156,36.69,90-92 High Street,Horsell,Woking,GU21 4SZ,GU21 4SZ,51.324034,-0.5754096,5,High,Mobile,7.24
+1812412673,Convenience Store ,Mobile Solution,4814,217,46.36,67-71 Portland Road,,Hove,BN3 5DQ,BN3 5DQ,50.8328758,-0.1802231,2,Low,Mobile,22.18
+1812412358,Convenience Store ,Mobile Solution,1837,144,44.65,88-92 Church Road,,Hove,BN3 2EB,BN3 2EB,50.8276413,-0.1715802,2,Medium,Mobile,12.76
+1812412897,Convenience Store ,Mobile Solution,4216,260,26.03,4 High Street,Lambourn,Reading,RG17 0DN,RG17 0DN,51.4159801,-1.5151938,1,Medium,Mobile,16.22
+1812412896,Convenience Store ,Mobile Solution,3938,244,24.67,83 Hunter Avenue,South Willesborough,Ashford,TN24 0HG,TN24 0HG,51.1406208,0.8910927,5,High,Mobile,16.14
+1812412672,Convenience Store ,Mobile Solution,4928,297,49.36,95 High Street,Hurstpierpoint,Hassocks,BN6 9RE,BN6 9RE,50.9333828,-0.1771005,2,Medium,Mobile,16.59
+1812412563,Convenience Store ,Mobile Solution,3040,103,33.45,17 Swakeleys Road,Ickenham,Uxbridge,UB10 8DF,UB10 8DF,51.5644587,-0.4449404,4,Medium,Mobile,29.51
+1812412426,Convenience Store ,Mobile Solution,1027,247,46.72,69 High Street,,Ilfracombe,EX34 9QE,EX34 9QE,51.206588,-4.1255704,3,Medium,Fixed,4.16
+1812412894,Convenience Store ,Mobile Solution,3113,146,20.74,Cornhill The Square,Cornhill,Ilminster,TA19 0AH,TA19 0AH,50.9271771,-2.9100601,3,High,Mobile,21.32
+1812494699,Convenience Store ,Mobile Solution,4234,242,37.5,11 South Street,,Axminster,EX13 5AD,EX13 5AD,50.7813155,-2.9977244,2,High,Mobile,17.5
+1812410810,Convenience Store ,Mobile Solution,2252,297,43.35,8 Bank Street,,Teignmouth,TQ14 8AL,TQ14 8AL,50.5461508,-3.4967195,6,Low,Mobile,7.58
+1812425120,Convenience Store ,Mobile Solution,1260,146,48.16,35-37 High Street,Lindfield,Haywards Heath,RH16 2HJ,RH16 2HJ,51.0120153,-0.0818547,2,High,Mobile,8.63
+1812587835,Convenience Store ,Mobile Solution,3046,177,26.81,Petrol Hove,Kingsway,Hove,BN3 2WY,BN3 2WY,50.8402951,-0.1778205,8,Medium,Mobile,17.21
+1812614369,Convenience Store ,Mobile Solution,2472,223,40.37,Petrol Millbrook,Millbrook Road West,Southampton,SO15 0JU,SO15 0JU,50.9141771,-1.4513692,8,Low,Mobile,11.09
+1812410816,Convenience Store ,Mobile Solution,2447,174,33.86,Rhyl Road,,Rhyl,LL18 2TS,LL18 2TS,53.2931341,-3.4635305,5,Medium,Mobile,14.06
+1812410767,Convenience Store ,Mobile Solution,1459,202,17.12,98 Sea Street,,Herne Bay,CT6 8QF,CT6 8QF,51.3666247,1.1111254,7,Low,Mobile,7.22
+1812607694,Convenience Store ,Mobile Solution,4747,236,39.15,185 Old Street,,London,EC1V 9NP,EC1V 9NP,51.526797,-0.0954415,4,High,Fixed,20.11
+1812448068,Convenience Store ,Mobile Solution,1300,189,39.15,2-3 Royal George Parade,Upper Shoreham Road,Shoreham-by-Sea,BN43 6TB,BN43 6TB,50.84113,-0.2501113,1,High,Mobile,6.88
+1812425119,Convenience Store ,Mobile Solution,3966,243,47.57,11-12 Western Parade,Dovers Green Road,Reigate,RH2 8AU,RH2 8AU,51.2240096,-0.2000011,2,Low,Mobile,16.32
+1812425123,Convenience Store ,Mobile Solution,4374,168,32.41,6 High Street,,Uxbridge,UB9 6BU,UB9 6BU,51.6035365,-0.4825217,4,Medium,Mobile,26.04
+1812425113,Convenience Store ,Mobile Solution,3334,160,23.06,83 High Street,,Ruislip,HA4 8JB,HA4 8JB,51.5741251,-0.4240323,1,High,Mobile,20.84
+1812425122,Convenience Store ,Mobile Solution,4466,237,16.56,224-230 Hampton Road,,Twickenham,TW2 5NJ,TW2 5NJ,51.436935,-0.3506042,8,High,Mobile,18.84
+1812441630,Convenience Store ,Mobile Solution,4081,149,29.55,Green Lanes,Palmers Green,London,N13 5TU,N13 5TU,51.6179487,-0.1083179,9,Medium,Fixed,27.39
+1812416659,Convenience Store ,Mobile Solution,4778,102,25.57,31 Windsor Road,Wraysbury,Staines-upon-Thames,TW19 5DE,TW19 5DE,51.4571912,-0.5590775,4,High,Mobile,46.84
+1812603463,Convenience Store ,Mobile Solution,1629,206,41.64,1 Loose Road,,Maidstone,ME15 7BW,ME15 7BW,51.266024,0.5273308,3,Medium,Fixed,7.91
+1812425125,Convenience Store ,Mobile Solution,1269,212,27.4,Pinhoe,Pin Hill,Exeter,EX1 3TG,EX1 3TG,50.7421409,-3.46526,2,Medium,Mobile,5.99
+1812414346,Convenience Store ,Mobile Solution,3639,193,48.22,17 Moorgate,,London,EC2R 6AR,EC2R 6AR,51.5156411,-0.0894979,5,High,Mobile,18.85
+1812607754,Convenience Store ,Mobile Solution,2993,217,48.68,Chichester Road,,Bognor Regis,PO21 2XH,PO21 2XH,50.7929767,-0.6776786,3,Medium,Mobile,13.79
+1812424234,Convenience Store ,Mobile Solution,2628,297,36.73,Yeoman Street,Cannon Wharf,London,SE8 5EN,SE8 5EN,51.4918253,-0.0386772,7,Medium,Fixed,8.85
+1812576910,Convenience Store ,Mobile Solution,2801,180,47.5,156-164 Walworth Road,,Kennington,SE17 1JL,SE17 1JL,51.4920987,-0.0983915,6,Medium,Mobile,15.56
+1812581820,Convenience Store ,Mobile Solution,3891,208,41.63,94-98 Turnmill Street,,Farringdon,EC1M 5QP,EC1M 5QP,51.5203873,-0.1043337,1,High,Fixed,18.71
+1812583730,Convenience Store ,Mobile Solution,1861,150,34.14,Crabble Hill,,Dover,CT17 0FA,CT17 0FA,51.1380008,1.2945366,8,High,Fixed,12.41
+1812583511,Convenience Store ,Mobile Solution,4432,246,21.31,Albermarle Road,Unit 7 (G03A) Beckenham Junction,Beckenham,BR3 5HZ,BR3 5HZ,51.410485,-0.0237107,2,Medium,Fixed,18.02
+1812586979,Convenience Store ,Mobile Solution,2280,269,31.05,73-77 Cherry Orchard,"Castle Hill, Ebbsfleet Valley",Swanscombe,DA10 1AD,DA10 1AD,51.4375919,0.3046043,5,Medium,Mobile,8.48
+1812587639,Convenience Store ,Mobile Solution,3180,134,34.63,4 Tibbs Road,Pegasus Way,Aylesbury,HP17 8FH,HP17 8FH,51.7743325,-0.9384397,9,Medium,Mobile,23.73
+1812604112,Convenience Store ,Mobile Solution,4347,145,45.24,"Unit 1-2, Ibis Styles Hotel",Cameron Road,Ilford,IG3 8LG,IG3 8LG,51.5647899,0.0946078,8,Medium,Mobile,29.98
+1812607622,Convenience Store ,Mobile Solution,2799,253,31.85,Main Road,Rosudgeon,Penzance,TR20 9QE,TR20 9QE,50.1157018,-5.4162478,2,Medium,Mobile,11.06
+1812607692,Convenience Store ,Mobile Solution,2706,168,46.42,Royal Albert Wharf,"Armada South, Gallions Quarter",London,E6 7AB,E6 7AB,51.5088301,0.0742285,9,High,Mobile,16.11
+1812609060,Convenience Store ,Mobile Solution,4019,192,38.6,40 London Road,,St Albans,AL1 1NG,AL1 1NG,51.7503105,-0.3379521,5,Medium,Mobile,20.93
+1812612322,Convenience Store ,Mobile Solution,3560,163,19.79,1-5 Parkstone Parade,,Hastings,TN34 2PS,TN34 2PS,50.8787299,0.5698453,6,Medium,Mobile,21.84
+1812617016,Convenience Store ,Mobile Solution,3360,264,49.82,Torwood Street,,Torquay,TQ1 1DP,TQ1 1DP,50.4615038,-3.5221052,3,Low,Mobile,12.73
+1812617037,Convenience Store ,Mobile Solution,1575,148,33.45,32 Oakley Lane,Oakley,Basingstoke,RG23 7JY,RG23 7JY,51.2495933,-1.1777557,3,Medium,Mobile,10.64
+1812619096,Convenience Store ,Mobile Solution,3933,248,28.72,High Street,,Templecombe,BA8 0JA,BA8 0JA,51.0017371,-2.4154868,8,High,Mobile,15.86
+1812609282,Convenience Store ,Mobile Solution,3003,173,38.07,Microsoft Thames Valley Park,,Reading,RG6 1WG,RG6 1WG,51.4612249,-0.9259862,2,Medium,Mobile,17.36
+1812413642,Convenience Store ,Mobile Solution,2307,291,18.81,171-178 Coronation Road,Southville,Bristol,BS3 1RF,BS3 1RF,51.4457757,-2.6099091,2,Low,Mobile,7.93
+1812414745,Convenience Store ,Mobile Solution,4192,104,37.28,171-178 Coronation Road,Southville,Bristol,BS3 1RF,BS3 1RF,51.4457757,-2.6099091,5,Medium,Mobile,40.31
+1832214854,Convenience Store ,Mobile Solution,4178,199,32.44,485 Great Western Road,,Aberdeen,AB10 6NN,AB10 6NN,57.1320022,-2.1353512,6,Medium,Mobile,20.99
+1832214850,Convenience Store ,Mobile Solution,2956,169,29.23,Land at Earns Heugh Road,Cove Bay,Aberdeen,AB12 3FL,AB12 3FL,57.1025453,-2.0855778,2,Low,Mobile,17.49
+1832214962,Convenience Store ,Mobile Solution,3734,189,48.36,1 Hillside Road,Portlethen,Aberdeen,AB12 4TQ,AB12 4TQ,57.0725297,-2.1309957,5,Medium,Mobile,19.76
+1832260083,Convenience Store ,Mobile Solution,3020,103,33.29,North Deeside Road,,Aberdeen,AB14 0UL,AB14 0UL,57.0960242,-2.2694262,7,Medium,Mobile,29.32
+1832253627,Convenience Store ,Mobile Solution,4275,225,22.67,Fountainhall Road,,Aberdeen,AB15 4DX,AB15 4DX,57.1439844,-2.1278428,8,Medium,Mobile,19
+1832229550,Convenience Store ,Mobile Solution,3212,138,31.06,Springfield Road,,Aberdeen,AB15 7SE,AB15 7SE,57.1366793,-2.1536738,7,Medium,Mobile,23.28
+1832203058,Convenience Store ,Mobile Solution,3352,262,47.18,76-78 Countesswells Road,,Aberdeen,AB15 7YJ,AB15 7YJ,57.1332821,-2.147531,8,Medium,Mobile,12.79
+1832203054,Convenience Store ,Mobile Solution,4568,228,21.16,Kingswells Village Centre,Kingswells,Aberdeen,AB15 8TG,AB15 8TG,57.1567943,-2.2240287,9,High,Mobile,20.04
+1832214852,Convenience Store ,Mobile Solution,2655,123,22.49,2 Lewis Road,South Sheddocksley,Aberdeen,AB16 6TU,AB16 6TU,57.1546483,-2.1786906,5,Medium,Mobile,21.59
+1832228124,Convenience Store ,Mobile Solution,2579,156,15.46,27 The Oldmeldrum Road,Newmacher,Aberdeen,AB21 0PJ,AB21 0PJ,57.2665569,-2.1913677,5,Medium,Mobile,16.53
+1832219198,Convenience Store ,Mobile Solution,2847,199,15.5,Main Street,Blackburn,Aberdeen,AB21 0XN,AB21 0XN,57.2022534,-2.2836055,4,Medium,Mobile,14.31
+1832253625,Convenience Store ,Mobile Solution,3203,169,44.03,Land at Stoneywood Road,Dyce,Aberdeen,AB21 9JS,AB21 9JS,57.1918438,-2.1808224,9,Medium,Mobile,18.95
+1832218618,Convenience Store ,Mobile Solution,2390,140,40.62,Sclattie Park Shopping Ctr,Bucksbarn,Aberdeen,AB21 9QL,AB21 9QL,57.1768416,-2.1874642,5,High,Mobile,17.07
+1832203056,Convenience Store ,Mobile Solution,2742,281,27.43,21 Scotstown Road,Bridge of Don,Aberdeen,AB22 8HH,AB22 8HH,57.181235,-2.0999665,2,Medium,Mobile,9.76
+1832218636,Convenience Store ,Mobile Solution,2925,273,39.44,Rowan Drive,Balmedie,Aberdeen,AB23 8SW,AB23 8SW,57.245327,-2.0592117,8,High,Mobile,10.71
+1832191596,Convenience Store ,Mobile Solution,1619,159,28.83,93 Rosehill Drive,,Aberdeen,AB24 4JS,AB24 4JS,57.1634781,-2.1358289,7,Low,Mobile,10.18
+1832218620,Convenience Store ,Mobile Solution,2274,207,48.35,293 Rosemount Place,,Aberdeen,AB25 2YB,AB25 2YB,57.1492269,-2.1222415,8,Medium,Mobile,10.99
+1832218622,Convenience Store ,Mobile Solution,1956,287,48.85,466 George Street,,Aberdeen,AB25 3XH,AB25 3XH,57.1546308,-2.1064075,3,High,Fixed,6.82
+1832253631,Convenience Store ,Mobile Solution,2939,156,28.75,Aberdeen Road,,Laurencekirk,AB30 1AG,AB30 1AG,56.8364847,-2.4616398,4,Medium,Mobile,18.84
+1832218638,Convenience Store ,Mobile Solution,4953,130,44.9,37 High Street,,Banchory,AB31 5TJ,AB31 5TJ,57.0514332,-2.5025305,5,Medium,Mobile,38.1
+1822314799,Convenience Store ,Mobile Solution,3381,183,42.06,Hill Of Banchory,,Banchory,AB31 5TQ,AB31 5TQ,57.0525665,-2.4931332,6,Medium,Mobile,18.48
+1832214994,Convenience Store ,Mobile Solution,4713,251,25.85,4 Old Skene Road,,Westhill,AB32 6RL,AB32 6RL,57.1538562,-2.2781288,1,High,Mobile,18.78
+1832253629,Convenience Store ,Mobile Solution,1968,135,23.12,Mart Road,,Alford,AB33 8BZ,AB33 8BZ,57.2304691,-2.6992401,4,Low,Fixed,14.58
+1832218628,Convenience Store ,Mobile Solution,3558,257,31.04,Victoria Buildings,Donside Road,Alford,AB33 8WB,AB33 8WB,57.2334519,-2.7040011,5,High,Mobile,13.84
+1832193564,Convenience Store ,Mobile Solution,2316,251,42.35,Charlestown Road,,Aboyne,AB34 5HS,AB34 5HS,57.074674,-2.779768,7,Low,Mobile,9.23
+1822327061,Convenience Store ,Mobile Solution,2043,207,48.61,Gold Road,,Ballater,AB35 5RE,AB35 5RE,57.0485386,-3.041979,5,High,Fixed,9.87
+1832187385,Convenience Store ,Mobile Solution,1281,205,41.73,Post Office Building,The Square,Braemar,AB35 5YL,AB35 5YL,57.0062535,-3.4016809,1,Medium,Mobile,6.25
+1832218624,Convenience Store ,Mobile Solution,3844,257,44.93,91 High Street,Charleston,Aberlour,AB38 9QB,AB38 9QB,57.4710366,-3.2240805,7,High,Mobile,14.96
+1832228138,Convenience Store ,Mobile Solution,4072,185,36.11,12 Market Square,,Stonehaven,AB39 2BE,AB39 2BE,56.9640584,-2.2095187,8,Medium,Fixed,22.01
+1832225302,Convenience Store ,Mobile Solution,3166,234,44.24,Kirkton Road,,Stonehaven,AB39 2HQ,AB39 2HQ,56.9645844,-2.2174958,7,High,Mobile,13.53
+1832229629,Convenience Store ,Mobile Solution,2058,262,42.45,Redcloak Drive,Redcloak,Stonehaven,AB39 2XJ,AB39 2XJ,56.9730144,-2.2304573,4,Low,Mobile,7.85
+1832225296,Convenience Store ,Mobile Solution,1197,282,28.19,Tarves Road,Pitmedden,Ellon,AB41 7NY,AB41 7NY,57.3374084,-2.1822515,8,Low,Mobile,4.24
+1832241549,Convenience Store ,Mobile Solution,3532,113,34.32,Esslemont Circle,,Ellon,AB41 9UF,AB41 9UF,57.369015,-2.096519,5,Medium,Mobile,31.26
+1832253633,Convenience Store ,Mobile Solution,4828,219,43.17,Kinmundy Road,,Peterhead,AB42 2AE,AB42 2AE,57.5026867,-1.8089103,9,Low,Mobile,22.05
+1832254429,Convenience Store ,Mobile Solution,2082,237,16.61,Mintlaw Industrial Estate,Station Road,Peterhead,AB42 5EE,AB42 5EE,57.5255649,-2.0093897,5,Low,Fixed,8.78
+1832214976,Convenience Store ,Mobile Solution,3884,179,43.28,2-4 Bridge Street,Strichen,Fraserburgh,AB43 6SS,AB43 6SS,57.5865391,-2.0901037,1,High,Mobile,21.7
+1832254441,Convenience Store ,Mobile Solution,2184,243,21.23,Albert Street,,Fraserburgh,AB43 9JJ,AB43 9JJ,57.6915851,-2.0128076,9,High,Mobile,8.99
+1832203096,Convenience Store ,Mobile Solution,2008,281,33.01,2 Buchan Road,,Fraserburgh,AB43 9UG,AB43 9UG,57.6836601,-2.0285179,5,Medium,Fixed,7.15
+1832250327,Convenience Store ,Mobile Solution,3738,205,43.29,Bridge Road,,Banff,AB45 1HE,AB45 1HE,57.665038,-2.5164691,6,High,Mobile,18.23
+1832229593,Convenience Store ,Mobile Solution,2229,169,23.88,6-10 Seafield Street,Portsoy,Banff,AB45 2QL,AB45 2QL,57.6816005,-2.6915886,4,Medium,Mobile,13.19
+1832214958,Convenience Store ,Mobile Solution,2035,143,23.6,1 North Meadows,Colpy Road,Oldmeldrum,AB51 0BZ,AB51 0BZ,57.3349107,-2.331851,6,Medium,Mobile,14.23
+1832187414,Convenience Store ,Mobile Solution,1489,172,29.1,Northern Road,Kintore,Inverurie,AB51 0WL,AB51 0WL,57.2381701,-2.3468845,8,High,Fixed,8.66
+1832218703,Convenience Store ,Mobile Solution,1275,144,46.31,Burghmuir Drive,,Inverurie,AB51 4GY,AB51 4GY,57.2898993,-2.3966124,3,Medium,Fixed,8.85
+1832225280,Convenience Store ,Mobile Solution,3740,283,15.02,13 North Street,,Inverurie,AB51 4RJ,AB51 4RJ,57.2856175,-2.3811225,5,High,Mobile,13.22
+1832254419,Convenience Store ,Mobile Solution,3289,206,46.55,20 High Street,"The Square, Kemnay",Inverurie,AB51 5NB,AB51 5NB,57.2342756,-2.4452968,2,Medium,Mobile,15.97
+1832214912,Convenience Store ,Mobile Solution,2239,183,20.38,38 Commerce Street,,Insch,AB52 6JB,AB52 6JB,57.3415348,-2.6150894,2,Medium,Mobile,12.23
+1832225913,Convenience Store ,Mobile Solution,2274,181,49.65,Balmellie Street,,Turriff,AB53 4DU,AB53 4DU,57.5377335,-2.4572428,7,Low,Fixed,12.56
+1832214904,Convenience Store ,Mobile Solution,4882,206,48.42,Main Street,"Lewes, Fyvie",Turriff,AB53 8PB,AB53 8PB,57.4306508,-2.3935706,6,Low,Mobile,23.7
+1832203116,Convenience Store ,Mobile Solution,1125,284,32.31,112 Main Street,Aberchirder,Huntly,AB54 7TD,AB54 7TD,57.5611752,-2.6254582,4,Low,Mobile,3.96
+1832232603,Convenience Store ,Mobile Solution,1216,120,32.95,18 Fife Street,Dufftown,Keith,AB55 4AL,AB55 4AL,57.4447417,-3.126781,5,High,Fixed,10.13
+1832192279,Convenience Store ,Mobile Solution,4377,295,31.85,36 East Church Street,,Buckie,AB56 1AB,AB56 1AB,57.6770315,-2.9618906,1,High,Mobile,14.84
+1832221520,Convenience Store ,Mobile Solution,4868,277,37.24,12 Grant Street,Cullen,Buckie,AB56 4RS,AB56 4RS,57.6907115,-2.8203976,7,High,Mobile,17.57
+1832211543,Convenience Store ,Mobile Solution,2208,260,18.18,39 Homestead Road,Birchwood,Hatfield,AL10 0QN,AL10 0QN,51.7712957,-0.2246349,8,Medium,Mobile,8.49
+1832214908,Convenience Store ,Mobile Solution,4110,106,16.14,1 Roe Green Centre,,Hatfield,AL10 9HE,AL10 9HE,51.7572591,-0.2372127,9,Medium,Mobile,38.77
+1832221537,Convenience Store ,Mobile Solution,2246,169,17.02,199-201 Cell Barnes Lane,,St. Albans,AL1 5PX,AL1 5PX,51.7437064,-0.3124544,8,Low,Mobile,13.29
+1832260141,Convenience Store ,Mobile Solution,4255,226,30.55,7-9 Haseldine Road,London Colney,St. Albans,AL2 1RR,AL2 1RR,51.7230027,-0.2972124,5,Medium,Fixed,18.83
+1832229615,Convenience Store ,Mobile Solution,3542,242,24.64,24-26 How Wood,Park Street,St. Albans,AL2 2RA,AL2 2RA,51.7197309,-0.3502784,3,Medium,Mobile,14.64
+1832200135,Convenience Store ,Mobile Solution,3474,259,36.77,212 Watford Road,Chiswell Green,St. Albans,AL2 3EA,AL2 3EA,51.727917,-0.3601455,9,High,Mobile,13.41
+1832229617,Convenience Store ,Mobile Solution,4249,247,49.74,66 High Street,Redbourn,St. Albans,AL3 7LN,AL3 7LN,51.7990231,-0.3957233,6,Medium,Mobile,17.2
+1832218696,Convenience Store ,Mobile Solution,1918,242,28.52,138-144 Lower Luton Road,Batford,Harpenden,AL5 5HA,AL5 5HA,51.8262233,-0.3418916,5,Low,Mobile,7.93
+1832225921,Convenience Store ,Mobile Solution,4499,275,35.08,13-15 Cole Green Lane,,Welwyn Garden City,AL7 3PP,AL7 3PP,51.7916854,-0.1942091,3,Low,Mobile,16.36
+1832196188,Convenience Store ,Mobile Solution,2317,298,29.55,8 Hall Grove,Ludwick,Welwyn Garden City,AL7 4PH,AL7 4PH,51.7889306,-0.1794274,6,Low,Mobile,7.78
+1832231014,Convenience Store ,Mobile Solution,4923,248,44.65,1-5 Shoplands Parade,Knightsfield,Welwyn Garden City,AL8 7RH,AL8 7RH,51.8153217,-0.2033489,3,Medium,Fixed,19.85
+1832218670,Convenience Store ,Mobile Solution,3198,269,46.58,37-39 Bradmore Green,,Hatfield,AL9 7QR,AL9 7QR,51.7223092,-0.2018414,6,High,Mobile,11.89
+1832206306,Convenience Store ,Mobile Solution,3431,253,45.71,Bristol Street,,Birmingham,B15 2DE,B15 2DE,52.4692288,-1.9013679,4,Medium,Mobile,13.56
+1832254369,Convenience Store ,Mobile Solution,2661,219,49.1,Templefields Square,Wheeleys Road,Birmingham,B15 2LJ,B15 2LJ,52.4652021,-1.9139028,2,High,Mobile,12.15
+1832229552,Convenience Store ,Mobile Solution,4884,227,15.96,High Street,Harborne,Birmingham,B17 9QG,B17 9QG,52.4584272,-1.9515759,8,Medium,Fixed,21.52
+1832203062,Convenience Store ,Mobile Solution,1307,241,44.39,10 Church Lane,Handsworth Wood,Birmingham,B20 2EP,B20 2EP,52.5134449,-1.9310931,4,Medium,Mobile,5.42
+1832254371,Convenience Store ,Mobile Solution,2359,156,41.31,114-116 Turves Green,Northfield,Birmingham,B31 4BL,B31 4BL,52.4024341,-1.968847,9,Low,Mobile,15.12
+1832203064,Convenience Store ,Mobile Solution,2969,264,23,7 Newhall Square,,Birmingham,B3 1RU,B3 1RU,52.4830778,-1.9067117,7,High,Mobile,11.25
+1832196158,Convenience Store ,Mobile Solution,3793,157,48.47,Hagley Road West,,Birmingham,B32 2AL,B32 2AL,52.4650981,-1.9870561,2,High,Fixed,24.16
+1832203104,Convenience Store ,Mobile Solution,1891,120,20.19,St. Kenelm's Road,,Halesowen,B62 0NU,B62 0NU,52.4183084,-2.0586314,4,Low,Mobile,15.76
+1832159191,Convenience Store ,Mobile Solution,1374,181,38.78,218 Hayley Road,,Halesowen,B63 4QQ,B63 4QQ,52.4444066,-2.0593579,5,Medium,Mobile,7.59
+1832254433,Convenience Store ,Mobile Solution,4079,168,22.87,513-519 Bearwood Road,Warley,Smethwick,B66 4BE,B66 4BE,52.4764044,-1.9695768,3,Medium,Mobile,24.28
+1832221505,Convenience Store ,Mobile Solution,3033,230,30.1,Clarence Road,,Sutton Coldfield,B74 4LU,B74 4LU,52.5999774,-1.8486603,9,Medium,Mobile,13.19
+1832196781,Convenience Store ,Mobile Solution,2364,186,40.17,108 High Street,,Henley-in-Arden,B95 5BY,B95 5BY,52.2925457,-1.7805021,5,High,Mobile,12.71
+1832214964,Convenience Store ,Mobile Solution,1128,264,34.72,Harwood Road,Rishton,Blackburn,BB1 4DJ,BB1 4DJ,53.7696666,-2.4185771,2,Medium,Mobile,4.27
+1832254266,Convenience Store ,Mobile Solution,2014,148,29.96,71 Victoria Road,Earby,Barnoldswick,BB18 6UN,BB18 6UN,53.916202,-2.1443118,3,Medium,Mobile,13.61
+1832251772,Convenience Store ,Mobile Solution,2799,246,26.42,609-611 Whalley New Road,Brownhill,Blackburn,BB1 9BA,BB1 9BA,53.77529,-2.479327,9,Low,Fixed,11.38
+1832203217,Convenience Store ,Mobile Solution,3716,214,44.39,799 Whalley Road,Wilpshire,Blackburn,BB1 9PH,BB1 9PH,53.7801632,-2.4766207,7,Low,Fixed,17.36
+1832197637,Convenience Store ,Mobile Solution,4423,188,20.03,Livesey Branch Road,,Blackburn,BB2 4QL,BB2 4QL,53.7282066,-2.5045414,2,Low,Mobile,23.53
+1832221525,Convenience Store ,Mobile Solution,2381,184,30.05,142-152 Blackburn Road,Hollins Grove,Darwen,BB3 1QU,BB3 1QU,53.7058259,-2.4783236,9,Low,Fixed,12.94
+1832253101,Convenience Store ,Mobile Solution,1516,227,46.63,John Street,Haslingden,Rossendale,BB4 5QB,BB4 5QB,53.7063702,-2.3271,4,High,Mobile,6.68
+1832224596,Convenience Store ,Mobile Solution,2518,239,44.6,695-699 Bacup Road,Waterfoot,Rossendale,BB4 7HB,BB4 7HB,53.6925226,-2.2556195,9,High,Mobile,10.54
+1832187376,Convenience Store ,Mobile Solution,1085,288,29.03,19-21 Pick Up Street,Clayton Le Moors,Accrington,BB5 5NS,BB5 5NS,53.774736,-2.3864146,2,Low,Mobile,3.77
+1832187468,Convenience Store ,Mobile Solution,2198,268,41.71,Barrow Service Station,Whalley Road,Clitheroe,BB7 9WF,BB7 9WF,53.840399,-2.3955151,4,High,Mobile,8.2
+1832231019,Convenience Store ,Mobile Solution,4873,260,43.81,42-44 Market Street,,Colne,BB8 0HS,BB8 0HS,53.8569443,-2.1658468,5,Low,Mobile,18.74
+1832232595,Convenience Store ,Mobile Solution,4264,277,46.11,Thorpe Garth,Bradford Road,Bradford,BD10 9PB,BD10 9PB,53.8340992,-1.7303807,2,Medium,Mobile,15.39
+1832218658,Convenience Store ,Mobile Solution,3358,216,34.06,164 Whitehall Road,Drighlington,Bradford,BD11 1AU,BD11 1AU,53.7563469,-1.6635977,1,Medium,Mobile,15.55
+1832206966,Convenience Store ,Mobile Solution,2142,295,22.16,525 Bradford Road,Birkenshaw,Bradford,BD11 2AQ,BD11 2AQ,53.7528251,-1.6944269,7,Medium,Mobile,7.26
+1832211522,Convenience Store ,Mobile Solution,4289,226,23.94,High Street,Queensbury,Bradford,BD13 2PD,BD13 2PD,53.7678307,-1.8482261,1,Medium,Mobile,18.98
+1832221508,Convenience Store ,Mobile Solution,3474,170,25.35,514 Thornton Road,Thornton,Bradford,BD13 3JD,BD13 3JD,53.7906662,-1.8531985,8,Medium,Mobile,20.44
+1832206972,Convenience Store ,Mobile Solution,2993,185,35.78,School Street,Denholme,Bradford,BD13 4BJ,BD13 4BJ,53.8017917,-1.8945794,3,Medium,Fixed,16.18
+1822314801,Convenience Store ,Mobile Solution,4485,132,16.15,Halifax Road,Cullingworth,Bradford,BD13 5DD,BD13 5DD,53.8252536,-1.8988811,6,High,Mobile,33.98
+1832193572,Convenience Store ,Mobile Solution,3161,180,37.26,1 Royd Street,Wilsden,Bradford,BD15 0HS,BD15 0HS,53.8213422,-1.8610361,7,Low,Mobile,17.56
+1832203066,Convenience Store ,Mobile Solution,4216,251,27.75,354 Allerton Road,Allerton,Bradford,BD15 7BN,BD15 7BN,53.8056609,-1.8220638,1,Low,Mobile,16.8
+1832211524,Convenience Store ,Mobile Solution,4609,160,25.33,Chapel Lane,,Bradford,BD16 1AW,BD16 1AW,53.8423895,-1.8306477,6,Low,Mobile,28.81
+1832211558,Convenience Store ,Mobile Solution,4719,160,45.78,25 Northgate,Baildon,Shipley,BD17 6JZ,BD17 6JZ,53.8540907,-1.7658999,7,Medium,Fixed,29.49
+1832189237,Convenience Store ,Mobile Solution,1302,197,31.1,75 Wrose Road,,Shipley,BD18 1HX,BD18 1HX,53.8289947,-1.7559219,6,Low,Mobile,6.61
+1832189235,Convenience Store ,Mobile Solution,3791,127,18.33,54 Bingley Road,Saltaire,Shipley,BD18 4SD,BD18 4SD,53.8351052,-1.7936454,4,High,Mobile,29.85
+1832219207,Convenience Store ,Mobile Solution,4952,285,43.94,Oxford Road,,Cleckheaton,BD19 4PY,BD19 4PY,53.729049,-1.6830037,1,Medium,Mobile,17.38
+1832200137,Convenience Store ,Mobile Solution,1587,142,16.67,Westfield Lane,Scholes,Cleckheaton,BD19 6DA,BD19 6DA,53.7298908,-1.7502803,9,Medium,Mobile,11.18
+1832211556,Convenience Store ,Mobile Solution,1986,268,40.44,Skipton Road,,Keighley,BD20 6PE,BD20 6PE,53.8952421,-1.9607831,4,Medium,Fixed,7.41
+1832214926,Convenience Store ,Mobile Solution,2863,266,42.09,Station Road,,Keighley,BD20 7DT,BD20 7DT,53.9038043,-1.988841,7,Low,Mobile,10.76
+1832211552,Convenience Store ,Mobile Solution,1344,185,27.34,Main Street,Cross Hills,Keighley,BD20 8TB,BD20 8TB,53.9017103,-1.9908657,7,Low,Mobile,7.26
+1832184700,Convenience Store ,Mobile Solution,1813,276,43.87,125 Broomhill Avenue,,Keighley,BD21 1BW,BD21 1BW,53.8557648,-1.9191947,2,Medium,Mobile,6.57
+1832211554,Convenience Store ,Mobile Solution,2987,116,33.05,Bradford Road,Riddlesden,Keighley,BD21 4EB,BD21 4EB,53.8575438,-1.9043951,1,Medium,Mobile,25.75
+1832203120,Convenience Store ,Mobile Solution,3848,197,31.22,Victoria Road,Oakworth,Keighley,BD22 7HT,BD22 7HT,53.8457314,-1.9463747,8,Medium,Mobile,19.53
+1832203122,Convenience Store ,Mobile Solution,4072,297,16.59,Station Road,Oxenhope,Keighley,BD22 9JJ,BD22 9JJ,53.8110224,-1.9509286,8,Low,Mobile,13.71
+1832203196,Convenience Store ,Mobile Solution,4218,297,25.15,High Street,Gargrave,Skipton,BD23 3RA,BD23 3RA,53.9835167,-2.1042423,7,High,Mobile,14.2
+1832211550,Convenience Store ,Mobile Solution,2310,197,47.59,289 Harrogate Road,,Bradford,BD2 3RQ,BD2 3RQ,53.8155481,-1.7224651,8,Low,Mobile,11.73
+1832253105,Convenience Store ,Mobile Solution,2999,164,28.71,Market Square,,Settle,BD24 9EJ,BD24 9EJ,54.0685881,-2.276725,3,High,Fixed,18.29
+1832243964,Convenience Store ,Mobile Solution,2677,173,34.13,Church Street,,Settle,BD24 9JD,BD24 9JD,54.0694667,-2.2776935,2,High,Mobile,15.47
+1832218648,Convenience Store ,Mobile Solution,4124,184,33.62,Duckworth Lane,,Bradford,BD9 5EP,BD9 5EP,53.8062174,-1.7882758,7,Medium,Mobile,22.41
+1832211520,Convenience Store ,Mobile Solution,2327,104,35.67,47 High Park Drive,,Bradford,BD9 6HX,BD9 6HX,53.8136945,-1.8036077,8,Low,Mobile,22.38
+1832196775,Convenience Store ,Mobile Solution,2092,101,17.15,Longsight Road,Holcombe Brook,Bury,BL0 9SH,BL0 9SH,53.6324224,-2.3346319,1,Low,Mobile,20.71
+1832226691,Convenience Store ,Mobile Solution,3408,121,27.68,190 Tonge Moor Road,,Bolton,BL2 2HN,BL2 2HN,53.5897823,-2.4121418,9,Medium,Mobile,28.17
+1832206968,Convenience Store ,Mobile Solution,4673,211,40.31,687 Bury Road,Breightmet,Bolton,BL2 6HP,BL2 6HP,53.581344,-2.3901737,4,Medium,Mobile,22.15
+1832214870,Convenience Store ,Mobile Solution,4291,156,22.02,383 Wigan Road,,Bolton,BL3 4QJ,BL3 4QJ,53.5662198,-2.467129,4,High,Mobile,27.51
+1832233494,Convenience Store ,Mobile Solution,2009,165,22.13,245 Highfield Road,Farnworth,Bolton,BL4 0NX,BL4 0NX,53.5466026,-2.4274472,3,High,Mobile,12.18
+1832206970,Convenience Store ,Mobile Solution,1703,173,15.35,34 Market Street,Westhoughton,Bolton,BL5 3AN,BL5 3AN,53.5489004,-2.5212131,6,Medium,Fixed,9.84
+1832193570,Convenience Store ,Mobile Solution,1574,197,30.31,Chorley New Road,,Bolton,BL6 6JZ,BL6 6JZ,53.5895355,-2.5336928,1,Low,Mobile,7.99
+1832214868,Convenience Store ,Mobile Solution,2608,243,45.9,75-81 Winter Hey Lane,Horwich,Bolton,BL6 7PA,BL6 7PA,53.5984734,-2.548734,6,Medium,Mobile,10.73
+1832218653,Convenience Store ,Mobile Solution,4232,211,16.82,196 Darwen Road,Bromley Cross,Bolton,BL7 9JJ,BL7 9JJ,53.6149467,-2.4181916,2,High,Mobile,20.06
+1832253076,Convenience Store ,Mobile Solution,4752,278,21.69,78 Mile Lane,,Bury,BL8 2JR,BL8 2JR,53.5878292,-2.3352465,9,Medium,Fixed,17.09
+1832226693,Convenience Store ,Mobile Solution,2112,224,25.85,17 Market Street,Tottington,Bury,BL8 4AA,BL8 4AA,53.6142936,-2.3407465,2,Low,Fixed,9.43
+1832225892,Convenience Store ,Mobile Solution,1687,266,40.61,2 Vernon Road,Holcombe Brook,Bury,BL8 4DD,BL8 4DD,53.6249434,-2.3316547,7,High,Mobile,6.34
+1832225896,Convenience Store ,Mobile Solution,3828,185,37.42,184 Walmersley Road,,Bury,BL9 6LL,BL9 6LL,53.6024532,-2.2906462,1,Medium,Mobile,20.69
+1832225894,Convenience Store ,Mobile Solution,3632,175,29.56,103 Parr Lane,Unsworth,Bury,BL9 8JN,BL9 8JN,53.5593471,-2.2748014,7,High,Mobile,20.75
+1832254407,Convenience Store ,Mobile Solution,4828,187,41.57,376 Parr Lane,,Bury,BL9 8LU,BL9 8LU,53.5564386,-2.2808962,5,Medium,Mobile,25.82
+1832260091,Convenience Store ,Mobile Solution,3636,267,36.34,124 Upper Lisburn Road,,Belfast,BT10 0BD,BT10 0BD,54.5618701,-5.9823161,8,Low,Fixed,13.62
+1832227318,Convenience Store ,Mobile Solution,4230,137,46.36,192-212 Shankill Road,,Belfast,BT13 2BJ,BT13 2BJ,54.603608,-5.9499931,4,High,Mobile,30.88
+1832203060,Convenience Store ,Mobile Solution,1488,287,43.63,523-525 Old Park Road,,Belfast,BT14 6QU,BT14 6QU,54.6212123,-5.9557044,7,Medium,Mobile,5.18
+1832215833,Convenience Store ,Mobile Solution,4018,158,23.85,323 Ballysillan Road,,Belfast,BT14 6RE,BT14 6RE,54.6299174,-5.9623037,6,Medium,Mobile,25.43
+1832260219,Convenience Store ,Mobile Solution,2347,237,24.5,238 Antrim Road,,Belfast,BT15 2AR,BT15 2AR,54.6159872,-5.9377994,5,Medium,Mobile,9.9
+1832215831,Convenience Store ,Mobile Solution,4681,198,19.39,82-84 Groomsport Road,,Bangor,BT20 5NF,BT20 5NF,54.663633,-5.6449207,4,Low,Mobile,23.64
+1832214898,Convenience Store ,Mobile Solution,4452,291,26.79,20 New Street,,Donaghadee,BT21 0AG,BT21 0AG,54.6415105,-5.5355496,7,Medium,Mobile,15.3
+1832273024,Convenience Store ,Mobile Solution,4173,162,49.98,8 Lisburn Street,,Hillsborough,BT26 6AB,BT26 6AB,54.463668,-6.0860199,5,Low,Mobile,25.76
+1832215877,Convenience Store ,Mobile Solution,1493,148,29.2,100 Belsize Road,,Lisburn,BT27 4BP,BT27 4BP,54.5231016,-6.0405296,5,Medium,Mobile,10.09
+1832230221,Convenience Store ,Mobile Solution,2667,291,22.72,164 Longstone Street,,Lisburn,BT28 1TT,BT28 1TT,54.5090743,-6.0590569,1,Medium,Mobile,9.16
+1832215865,Convenience Store ,Mobile Solution,2637,131,41.69,10-12 Beverley Road,,Newtownabbey,BT36 6QD,BT36 6QD,54.6879814,-5.9485482,2,High,Mobile,20.13
+1832214920,Convenience Store ,Mobile Solution,1018,234,33.99,27 Main Street,Ballynure,Ballyclare,BT39 9TU,BT39 9TU,54.771382,-5.954636,5,High,Mobile,4.35
+1832203126,Convenience Store ,Mobile Solution,4525,120,20.24,16 Linn Road,,Larne,BT40 2BT,BT40 2BT,54.850076,-5.8394134,3,Low,Mobile,37.71
+1832247850,Convenience Store ,Mobile Solution,4553,119,28.32,16 Linn Road,,Larne,BT40 2BT,BT40 2BT,54.850076,-5.8394134,2,Medium,Mobile,38.26
+1832224580,Convenience Store ,Mobile Solution,4665,253,29.51,156 Connsbrook Ave,Sydenham,Belfast,BT4 1JX,BT4 1JX,54.6028094,-5.8819687,4,Medium,Fixed,18.44
+1832215829,Convenience Store ,Mobile Solution,3444,226,41.38,121 Broughshane Street,,Ballymena,BT43 6EE,BT43 6EE,54.8692825,-6.2735289,4,Low,Fixed,15.24
+1832215827,Convenience Store ,Mobile Solution,2000,167,15.72,8-9 The Diamond,,Ballycastle,BT54 6AW,BT54 6AW,55.2010822,-6.2506721,4,High,Fixed,11.98
+1832215835,Convenience Store ,Mobile Solution,4350,209,24.42,361 Beersbridge Road,,Belfast,BT5 5DT,BT5 5DT,54.5936809,-5.8875982,4,High,Mobile,20.81
+1832215841,Convenience Store ,Mobile Solution,1850,215,33.12,37 Lower Main Street,,Bushmills,BT57 8QA,BT57 8QA,55.2061771,-6.5235374,3,Low,Mobile,8.6
+1832214858,Convenience Store ,Mobile Solution,2388,242,24.41,Kings Road,,Belfast,BT5 7EJ,BT5 7EJ,54.5891165,-5.8470368,7,Medium,Mobile,9.87
+1832214860,Convenience Store ,Mobile Solution,2354,219,37,69 Rosetta Road,,Belfast,BT6 0LR,BT6 0LR,54.5703542,-5.9023994,9,Low,Fixed,10.75
+1832219884,Convenience Store ,Mobile Solution,4712,178,31.87,61 Cregagh Road,,Belfast,BT6 8PY,BT6 8PY,54.5837246,-5.8996396,5,Medium,Fixed,26.47
+1832219221,Convenience Store ,Mobile Solution,2367,215,27.66,10 Dungannon Street,Moy,Dungannon,BT71 7SH,BT71 7SH,54.4473057,-6.696289,4,Low,Fixed,11.01
+1832219886,Convenience Store ,Mobile Solution,1821,191,48.22,390 Ormeau Road,,Belfast,BT7 3HX,BT7 3HX,54.5692171,-5.9151119,2,High,Mobile,9.53
+1832260109,Convenience Store ,Mobile Solution,1454,113,37.13,Ballylurgan House,Main Street,Fivemiletown,BT75 0RX,BT75 0RX,54.375072,-7.3207149,2,High,Fixed,12.87
+1832219899,Convenience Store ,Mobile Solution,2624,254,19.55,1-3 High Street,,Castlederg,BT81 7AB,BT81 7AB,54.7088425,-7.5948403,5,Medium,Mobile,10.33
+1832214862,Convenience Store ,Mobile Solution,3772,224,34.6,32 Upper Malone Road,,Belfast,BT9 5NA,BT9 5NA,54.5552926,-5.9641336,7,Medium,Mobile,16.84
+1832214864,Convenience Store ,Mobile Solution,4726,267,42.33,191 Lisburn Road,,Belfast,BT9 7EJ,BT9 7EJ,54.5813193,-5.9487182,9,High,Mobile,17.7
+1832206976,Convenience Store ,Mobile Solution,4136,157,39.8,Station Street,,Cockermouth,CA13 9QW,CA13 9QW,54.6628862,-3.364171,7,Medium,Mobile,26.34
+1832218731,Convenience Store ,Mobile Solution,4147,127,21.02,The Sands,,Appleby-in-Westmorland,CA16 6XN,CA16 6XN,54.578036,-2.4885568,5,Low,Mobile,32.65
+1832231010,Convenience Store ,Mobile Solution,1710,125,49.03,Gosforth Road,,Seascale,CA20 1PR,CA20 1PR,54.3963284,-3.480414,6,Medium,Mobile,13.68
+1832246761,Convenience Store ,Mobile Solution,3190,212,30.71,42 Main Street,,Egremont,CA22 2AD,CA22 2AD,54.481685,-3.5282765,3,High,Mobile,15.05
+1832200925,Convenience Store ,Mobile Solution,1916,290,20.57,Bridge Street,Silsden,Keighley,BD20 9NX,BD20 9NX,53.9155717,-1.9373491,5,Medium,Mobile,6.61
+1832230995,Convenience Store ,Mobile Solution,4986,165,21.31,Denton Street,,Carlisle,CA2 5EN,CA2 5EN,54.8867394,-2.9400888,8,Medium,Fixed,30.22
+1832260099,Convenience Store ,Mobile Solution,3875,252,18.44,Stonegarth Road,Morton,Carlisle,CA2 6PD,CA2 6PD,54.882771,-2.9648116,1,High,Mobile,15.38
+1832217656,Convenience Store ,Mobile Solution,3652,230,43.12,King George Court,Warwick Bridge,Carlisle,CA4 8RN,CA4 8RN,54.9019708,-2.8132371,1,High,Mobile,15.88
+1832209026,Convenience Store ,Mobile Solution,2496,299,19.27,King George Court,Warwick Bridge,Carlisle,CA4 8RN,CA4 8RN,54.9019708,-2.8132371,7,High,Fixed,8.35
+1832221522,Convenience Store ,Mobile Solution,2440,143,19.38,Glave Hill Court,Townhead Road,Carlisle,CA5 7QS,CA5 7QS,54.8407055,-2.9847673,5,Low,Fixed,17.06
+1832218634,Convenience Store ,Mobile Solution,1304,196,44.77,King Street,Aspatria,Wigton,CA7 3AA,CA7 3AA,54.7640977,-3.3281738,5,Medium,Mobile,6.65
+1832229613,Convenience Store ,Mobile Solution,1735,141,27.06,Caldew Street,Silloth,Wigton,CA7 4BY,CA7 4BY,54.8704189,-3.3865835,1,High,Mobile,12.3
+1832219205,Convenience Store ,Mobile Solution,4568,105,16.08,1-7 Main Street,,Brampton,CA8 1RS,CA8 1RS,54.9430126,-2.7340774,9,High,Mobile,43.5
+1832233496,Convenience Store ,Mobile Solution,3338,266,16.82,177 Mill Road,,Cambridge,CB1 3AN,CB1 3AN,52.1974789,0.1458422,1,Medium,Mobile,12.55
+1832187394,Convenience Store ,Mobile Solution,2963,279,19.98,115-119 Perne Road,,Cambridge,CB1 3SB,CB1 3SB,52.1911826,0.1538346,5,Low,Mobile,10.62
+1832218674,Convenience Store ,Mobile Solution,3149,122,22.47,106 High Street,Linton,Cambridge,CB21 4JT,CB21 4JT,52.0975693,0.282158,9,High,Fixed,25.81
+1832218694,Convenience Store ,Mobile Solution,3009,188,38.28,High Street,Fulbourne,Cambridge,CB21 5DH,CB21 5DH,52.1836461,0.2217721,4,High,Mobile,16.01
+1832218676,Convenience Store ,Mobile Solution,4338,222,20.51,52 Hills Road,,Cambridge,CB2 1LA,CB2 1LA,52.1968619,0.1292627,8,Low,Fixed,19.54
+1832203071,Convenience Store ,Mobile Solution,3914,277,19.16,2 Brookgate,,Cambridge,CB2 1PG,CB2 1PG,52.1932455,0.133333,6,Medium,Fixed,14.13
+1832192281,Convenience Store ,Mobile Solution,4015,270,41.77,High Street,Great Shelford,Cambridge,CB22 5EH,CB22 5EH,52.1484692,0.1335601,3,Low,Fixed,14.87
+1832200949,Convenience Store ,Mobile Solution,4693,246,38.49,29 Mosquito Road,Upper Cambourne,Cambridge,CB23 6FY,CB23 6FY,52.2203603,-0.0645676,4,Medium,Mobile,19.08
+1832254427,Convenience Store ,Mobile Solution,4021,296,30.24,High Street,Longstanton,Cambridge,CB24 3BT,CB24 3BT,52.2848054,0.0437022,2,Low,Fixed,13.58
+1832221541,Convenience Store ,Mobile Solution,3889,150,34.23,12 High Street,Wilingham,Cambridge,CB24 5ES,CB24 5ES,52.312508,0.0562152,1,Medium,Mobile,25.93
+1832187399,Convenience Store ,Mobile Solution,1961,110,25.92,273 High Street,Cottenham,Cambridge,CB24 8QP,CB24 8QP,52.2868468,0.12617,8,Medium,Mobile,17.83
+1832214910,Convenience Store ,Mobile Solution,3989,111,31.89,Station Road,Histon,Cambridge,CB24 9LQ,CB24 9LQ,52.2499059,0.1072044,1,Medium,Mobile,35.94
+1832260097,Convenience Store ,Mobile Solution,4848,173,32.73,Ness Road,Burwell,Cambridge,CB25 0AA,CB25 0AA,52.2781571,0.3293794,1,Medium,Mobile,28.02
+1832254377,Convenience Store ,Mobile Solution,2026,107,28.55,5 North Street,Burwell,Cambridge,CB25 0BA,CB25 0BA,52.2824714,0.3249138,4,High,Mobile,18.93
+1832187392,Convenience Store ,Mobile Solution,3132,251,46.73,Unit 1 The Marque,Hills Road,Cambridge,CB2 8RJ,CB2 8RJ,52.1881342,0.1370236,6,Medium,Mobile,12.48
+1832260095,Convenience Store ,Mobile Solution,4865,140,15.56,120 Girton Road,,Cambridge,CB3 0LW,CB3 0LW,52.2332175,0.0864088,9,Low,Mobile,34.75
+1832214956,Convenience Store ,Mobile Solution,3375,263,42.38,Grantchester Street,,Cambridge,CB3 9HY,CB3 9HY,52.1957952,0.1105554,1,High,Mobile,12.83
+1832214876,Convenience Store ,Mobile Solution,3863,184,19.35,179-185 Chesterton Road,,Cambridge,CB4 1AF,CB4 1AF,52.2148866,0.1270216,7,Low,Mobile,20.99
+1832192959,Convenience Store ,Mobile Solution,2473,171,42.91,414 Milton Road,,Cambridge,CB4 1SU,CB4 1SU,52.2263717,0.1442777,5,High,Mobile,14.46
+1832186131,Convenience Store ,Mobile Solution,3501,154,36.56,Milton Road,,Cambridge,CB4 1UY,CB4 1UY,52.2150131,0.1249928,8,High,Fixed,22.73
+1832191561,Convenience Store ,Mobile Solution,2947,236,44.51,129 Milton Road,,Cambridge,CB4 1XE,CB4 1XE,52.2204717,0.1334375,7,Medium,Mobile,12.49
+1832215018,Convenience Store ,Mobile Solution,3676,146,18.41,Histon Road,,Cambridge,CB4 3HL,CB4 3HL,52.2207564,0.1115927,4,High,Mobile,25.18
+1832260135,Convenience Store ,Mobile Solution,4292,242,34.56,Main Street,Littleport,Ely,CB6 1PJ,CB6 1PJ,52.4567333,0.3063487,4,Low,Mobile,17.74
+1832203198,Convenience Store ,Mobile Solution,2177,275,32.54,43 High Street,Soham,Ely,CB7 5HA,CB7 5HA,52.3324316,0.3381436,6,Medium,Mobile,7.92
+1832196815,Convenience Store ,Mobile Solution,1664,203,39.72,58-62 Carter Street,Fordham,Ely,CB7 5JT,CB7 5JT,52.3113591,0.3855516,6,Medium,Mobile,8.2
+1832229569,Convenience Store ,Mobile Solution,1011,141,33.7,55 Carter Street,Fordham,Ely,CB7 5NG,CB7 5NG,52.3117899,0.3878195,9,Medium,Mobile,7.17
+1832229558,Convenience Store ,Mobile Solution,2156,159,33.93,2 West Street,Isleham,Ely,CB7 5SB,CB7 5SB,52.3412969,0.4071438,5,High,Fixed,13.56
+1832203158,Convenience Store ,Mobile Solution,1303,297,30.04,2-5 Elizabeth Parade,,Newmarket,CB8 0BP,CB8 0BP,52.2542093,0.3906317,8,Low,Mobile,4.39
+1832214882,Convenience Store ,Mobile Solution,4364,111,25.81,Church Road,Saughall,Chester,CH1 6EP,CH1 6EP,53.2252953,-2.9565274,5,Medium,Mobile,39.32
+1832191491,Convenience Store ,Mobile Solution,4022,229,31.88,99A Kingsway,Newton,Chester,CH2 2LJ,CH2 2LJ,53.2081132,-2.8702161,2,Medium,Mobile,17.56
+1832260163,Convenience Store ,Mobile Solution,4371,106,19.15,142 Christleton Road,,Chester,CH3 5TD,CH3 5TD,53.1894701,-2.8639719,6,Medium,Fixed,41.24
+1832214880,Convenience Store ,Mobile Solution,2763,179,48.65,63 High Street,Tarvin,Chester,CH3 8EF,CH3 8EF,53.1980304,-2.7677245,9,Medium,Mobile,15.44
+1832225911,Convenience Store ,Mobile Solution,3830,230,40,8 Tranmere Court,Church Road,Birkenhead,CH42 5LE,CH42 5LE,53.3807016,-3.0244717,3,Medium,Mobile,16.65
+1832214988,Convenience Store ,Mobile Solution,1042,208,48.34,83-85 Wallasey Village,,Wallasey,CH45 3LF,CH45 3LF,53.4244663,-3.065884,1,High,Mobile,5.01
+1832228142,Convenience Store ,Mobile Solution,1943,102,22.94,9 The Row,Market Street,Wirral,CH47 3BB,CH47 3BB,53.3929383,-3.176363,1,Low,Mobile,19.05
+1832273799,Convenience Store ,Mobile Solution,3390,126,45.78,Hoylake,,Wirral,CH47 3BE,CH47 3BE,53.394836,-3.1744302,3,High,Mobile,26.9
+1832192339,Convenience Store ,Mobile Solution,2349,213,43.31,Handbridge Service Station,Queen’s Park Road,Chester,CH4 7JF,CH4 7JF,53.1831997,-2.8878634,5,Medium,Mobile,11.03
+1832192107,Convenience Store ,Mobile Solution,4885,206,38.7,41-45 Five Ashes Road,,Chester,CH4 7QS,CH4 7QS,53.1717649,-2.904652,3,High,Mobile,23.71
+1832214992,Convenience Store ,Mobile Solution,3545,139,36.88,Frankby Road,West Kirby,Wirral,CH48 9UU,CH48 9UU,53.3720265,-3.1507908,9,High,Mobile,25.5
+1832254437,Convenience Store ,Mobile Solution,3411,260,26.08,128-134 Greasby Road,Greasby,Wirral,CH49 3NQ,CH49 3NQ,53.3770239,-3.1205898,8,Medium,Mobile,13.12
+1832215016,Convenience Store ,Mobile Solution,1890,228,43.57,194 Saughall Massie Road,Upton,Wirral,CH49 4LD,CH49 4LD,53.3882514,-3.1138925,3,Medium,Mobile,8.29
+1832200143,Convenience Store ,Mobile Solution,3474,107,32.55,90-94 Hoole Road,Woodchurch,Wirral,CH49 8EG,CH49 8EG,53.3761057,-3.0847296,9,High,Mobile,32.47
+1832290258,Convenience Store ,Mobile Solution,2004,200,17.48,415 Pensby Road,Heswall,Wirral,CH61 9PF,CH61 9PF,53.3478475,-3.0951135,6,Medium,Mobile,10.02
+1832186142,Convenience Store ,Mobile Solution,1020,259,25.95,112-116 Allport Road,Bromborough,Wirral,CH62 6AQ,CH62 6AQ,53.322841,-2.9825039,7,High,Fixed,3.94
+1832211424,Convenience Store ,Mobile Solution,1406,223,47.74,10 Cross Lane,Bebington,Wirral,CH63 3AL,CH63 3AL,53.3454133,-3.0114731,4,Medium,Fixed,6.3
+1832226564,Convenience Store ,Mobile Solution,3666,275,44.77,120 Teehey Lane,,Wirral,CH63 8QT,CH63 8QT,53.355174,-3.0242799,4,Low,Mobile,13.33
+1832225767,Convenience Store ,Mobile Solution,2014,206,49.37,14 Overpool Road,,Ellesmere Port,CH66 1JN,CH66 1JN,53.2853906,-2.9242691,2,Medium,Mobile,9.78
+1832203090,Convenience Store ,Mobile Solution,1335,200,36.98,1-1a Hope Farm Precinct,Great Sutton,Ellesmere Port,CH66 2RG,CH66 2RG,53.2658535,-2.9224082,5,High,Mobile,6.68
+1832221512,Convenience Store ,Mobile Solution,2838,103,23.66,New Street,,Chelmsford,CM1 1PP,CM1 1PP,51.7395071,0.4737222,8,Medium,Mobile,27.55
+1832211518,Convenience Store ,Mobile Solution,4188,297,20.7,123 Stock Road,,Billericay,CM12 0RP,CM12 0RP,51.6381916,0.4278527,7,High,Mobile,14.1
+1832260093,Convenience Store ,Mobile Solution,2147,209,21.54,201-207 Rayleigh Road,Hutton,Brentwood,CM13 1LZ,CM13 1LZ,51.6329588,0.3509101,7,High,Fixed,10.27
+1832214878,Convenience Store ,Mobile Solution,3446,118,15.69,38-40 Long Braddocks,Writtle,Chelmsford,CM1 3JP,CM1 3JP,51.7280677,0.4206021,6,Medium,Mobile,29.2
+1832229607,Convenience Store ,Mobile Solution,3840,131,28.67,208-212 Hutton Road,Shenfield,Brentwood,CM15 8NR,CM15 8NR,51.6307951,0.3286314,3,Low,Mobile,29.31
+1832229554,Convenience Store ,Mobile Solution,2827,236,21.7,6-8a Harewood Road,Pilgrims Hatch,Brentwood,CM15 9PD,CM15 9PD,51.6352519,0.2922826,5,High,Mobile,11.98
+1832232607,Convenience Store ,Mobile Solution,1714,111,29.41,21 High Street,,Harlow,CM17 0DN,CM17 0DN,51.7836262,0.1337852,1,Medium,Mobile,15.44
+1832214906,Convenience Store ,Mobile Solution,1050,238,47.72,1-3 Tumbler Road,,Harlow,CM18 6JA,CM18 6JA,51.7608111,0.1214063,7,High,Mobile,4.41
+1832225899,Convenience Store ,Mobile Solution,4854,145,30.07,1 Long House,Bush Fair,Harlow,CM18 6NR,CM18 6NR,51.7572913,0.1126196,9,Medium,Mobile,33.48
+1832260113,Convenience Store ,Mobile Solution,1323,218,45.73,1-2 Maunds Road,Maunds Hatch,Harlow,CM18 7RG,CM18 7RG,51.7481447,0.0986325,1,Medium,Mobile,6.07
+1832215869,Convenience Store ,Mobile Solution,1788,115,36.19,5-7 Colt Hatch,Off Hobtoe Road,Harlow,CM20 1SX,CM20 1SX,51.7746289,0.0798427,2,High,Fixed,15.55
+1832233492,Convenience Store ,Mobile Solution,1140,228,23.65,The Heath,,Bishop's Stortford,CM22 7EB,CM22 7EB,51.8129772,0.2092943,3,Medium,Mobile,5
+1832232597,Convenience Store ,Mobile Solution,1469,162,27.45,9C The Vineyards,Great Baddow,Chelmsford,CM2 7QS,CM2 7QS,51.7176399,0.5011228,3,Medium,Fixed,9.07
+1832218662,Convenience Store ,Mobile Solution,1786,208,17.94,1 Abercorn House,"Butterfield Road, Boreham",Chelmsford,CM3 3BT,CM3 3BT,51.758451,0.5401288,8,Medium,Fixed,8.59
+1832208432,Convenience Store ,Mobile Solution,2825,218,26.67,Boreham Village Store,"Main Road, Boreham",Chelmsford,CM3 3JQ,CM3 3JQ,51.7627975,0.5391699,7,Medium,Mobile,12.96
+1832200129,Convenience Store ,Mobile Solution,2357,120,38.71,1-3 Baron Road,,Chelmsford,CM3 5XG,CM3 5XG,51.7312489,0.3584221,6,Medium,Mobile,19.64
+1832254403,Convenience Store ,Mobile Solution,2916,257,17.52,Webb Road,Oakwood Park,Dunmow,CM6 3FY,CM6 3FY,51.8612213,0.4174058,4,High,Mobile,11.35
+1832233500,Convenience Store ,Mobile Solution,1963,112,22.19,"St. Johns Terrace, Brook Street",Great Bardfield,Braintree,CM7 4RQ,CM7 4RQ,51.9482047,0.4385411,9,Medium,Fixed,17.53
+1832215839,Convenience Store ,Mobile Solution,4055,261,28.35,A120 Braintree Bypass,,Braintree,CM77 8GG,CM77 8GG,51.869319,0.5818804,1,Medium,Mobile,15.54
+1832187452,Convenience Store ,Mobile Solution,1372,103,49.37,London Road,,Witham,CM8 1ED,CM8 1ED,51.7854576,0.6192237,2,Medium,Mobile,13.32
+1832203209,Convenience Store ,Mobile Solution,4635,255,42.47,Canhams Road,,Sudbury,CO10 0ER,CO10 0ER,52.0291718,0.7549278,4,Medium,Mobile,18.18
+1832193590,Convenience Store ,Mobile Solution,3541,201,40.67,Market Hill,Clare,Sudbury,CO10 8NY,CO10 8NY,52.0782592,0.5804691,3,Medium,Mobile,17.62
+1832260131,Convenience Store ,Mobile Solution,4610,158,19.07,80a High Street,Lavenham,Sudbury,CO10 9PT,CO10 9PT,52.1094293,0.795367,1,High,Fixed,29.18
+1832215899,Convenience Store ,Mobile Solution,2692,227,42.33,The Maltings,Haven Road,Colchester,CO2 8JB,CO2 8JB,51.8818297,0.926526,5,High,Mobile,11.86
+1832232599,Convenience Store ,Mobile Solution,3798,126,42.48,246 Shrub End Road,Shrub End,Colchester,CO3 4SA,CO3 4SA,51.8730755,0.862548,7,Medium,Mobile,30.14
+1832211535,Convenience Store ,Mobile Solution,2179,168,36.04,Previously The Woodman,Colchester Road,Halstead,CO9 2DY,CO9 2DY,51.9447544,0.6417871,2,Medium,Mobile,12.97
+1832190985,Convenience Store ,Mobile Solution,3338,124,49.66,19 Main Street,,Rugby,CV21 1HH,CV21 1HH,52.3906581,-1.2831923,5,Low,Fixed,26.92
+1832229597,Convenience Store ,Mobile Solution,2671,230,26.38,Gerrard Road,Cawstone,Rugby,CV22 7GU,CV22 7GU,52.3607306,-1.3029584,6,Medium,Mobile,11.61
+1832215849,Convenience Store ,Mobile Solution,4215,196,47.94,Woodway Lane,Wallsgrave,Coventry,CV2 2HX,CV2 2HX,52.4309017,-1.4478765,7,Medium,Mobile,21.51
+1832203128,Convenience Store ,Mobile Solution,1105,295,47.02,34-56 Clemens Street,,Leamington Spa,CV31 2DN,CV31 2DN,52.2824981,-1.5315,1,Medium,Mobile,3.75
+1832191600,Convenience Store ,Mobile Solution,2443,124,15.4,Wordsworth Avenue,Trinity Meads,Stratford-Upon-Avon,CV37 7BN,CV37 7BN,52.1808062,-1.6893803,7,Medium,Mobile,19.7
+1832215851,Convenience Store ,Mobile Solution,3717,247,30.75,132-136 Sutherland Avenue,Eastern Green,Coventry,CV5 7NJ,CV5 7NJ,52.4162235,-1.5702695,4,Low,Mobile,15.05
+1832226720,Convenience Store ,Mobile Solution,2681,261,49.2,Lawton Way,Elworth,Sandbach,CW11 1TF,CW11 1TF,53.1409981,-2.3538279,8,Low,Mobile,10.27
+1832226722,Convenience Store ,Mobile Solution,1001,253,18.61,216 Middlewich Road,,Sandbach,CW11 3EJ,CW11 3EJ,53.146434,-2.3855619,4,High,Mobile,3.96
+1832215883,Convenience Store ,Mobile Solution,3636,225,34.17,Congleton Road,,Sandbach,CW11 4SP,CW11 4SP,53.1522222,-2.3509672,6,Medium,Mobile,16.16
+1832187398,Convenience Store ,Mobile Solution,3691,232,49.26,60 Bromley Road,,Congleton,CW12 1PY,CW12 1PY,53.1653816,-2.2000468,9,Medium,Mobile,15.91
+1832215853,Convenience Store ,Mobile Solution,3137,288,34.44,Bradfield Road,,Crewe,CW1 3RD,CW1 3RD,53.1135221,-2.4526757,5,Low,Mobile,10.89
+1832226562,Convenience Store ,Mobile Solution,4416,108,21.64,Unit 1 Parkers Road,Coppenhall,Crewe,CW1 4PY,CW1 4PY,53.1185016,-2.4527877,4,Low,Mobile,40.89
+1832203078,Convenience Store ,Mobile Solution,1349,215,35.38,1 Beswick Drive,,Crewe,CW1 5NP,CW1 5NP,53.093272,-2.4150866,8,High,Fixed,6.27
+1832226697,Convenience Store ,Mobile Solution,4530,277,22.16,129 Crewe Road,Haslington,Crewe,CW1 5RG,CW1 5RG,53.1023695,-2.3938009,9,Medium,Fixed,16.35
+1832225269,Convenience Store ,Mobile Solution,2286,233,33.19,1 Rope Lane,Shavington,Crewe,CW2 5DT,CW2 5DT,53.0640081,-2.4509317,4,Medium,Mobile,9.81
+1832215893,Convenience Store ,Mobile Solution,4422,159,17.59,Hunts Banks Business Park,"Crewe Road, Wistaston",Crewe,CW2 6QT,CW2 6QT,53.0752063,-2.4769159,3,Medium,Mobile,27.81
+1832215855,Convenience Store ,Mobile Solution,4179,271,36.19,Readesdale Avenue,,Crewe,CW2 8QP,CW2 8QP,53.0894762,-2.4667123,8,High,Mobile,15.42
+1832196777,Convenience Store ,Mobile Solution,4657,220,33.09,West Street,,Crewe,CW2 8SL,CW2 8SL,53.0998553,-2.4765627,5,Low,Mobile,21.17
+1832200133,Convenience Store ,Mobile Solution,2062,238,40.91,Shropshire Street,Audlem,Crewe,CW3 0DX,CW3 0DX,52.9880174,-2.509726,2,Low,Mobile,8.66
+1832203080,Convenience Store ,Mobile Solution,3956,293,37.07,The Moss,Morningside,Crewe,CW3 9NH,CW3 9NH,52.999214,-2.3433773,9,Medium,Mobile,13.5
+1832226706,Convenience Store ,Mobile Solution,3206,274,34.24,28 London Road,Holmes Chapel,Crewe,CW4 7AJ,CW4 7AJ,53.2017396,-2.357853,3,Medium,Mobile,11.7
+1832194192,Convenience Store ,Mobile Solution,4654,207,39.14,Middlewich Road,Holmes Chapel,Crewe,CW4 7ES,CW4 7ES,53.202022,-2.3741132,2,Medium,Fixed,22.48
+1832215879,Convenience Store ,Mobile Solution,4006,207,20.04,10 Beechwood Close,Stapeley,Nantwich,CW5 7FY,CW5 7FY,53.060197,-2.5045042,1,Medium,Mobile,19.35
+1832215887,Convenience Store ,Mobile Solution,3359,230,35.84,53 High Street,,Tarporley,CW6 0DP,CW6 0DP,53.1601549,-2.6686661,8,Medium,Mobile,14.6
+1832226730,Convenience Store ,Mobile Solution,4312,175,21.02,Chester Road,Kelsall,Tarporley,CW6 0RT,CW6 0RT,53.2088309,-2.7164241,3,High,Mobile,24.64
+1832228140,Convenience Store ,Mobile Solution,1444,129,47.39,Bunbury Lane,Bunbury,Tarporley,CW6 9QS,CW6 9QS,53.1146714,-2.6523182,7,Medium,Mobile,11.19
+1832187450,Convenience Store ,Mobile Solution,3345,120,17.39,Wharton Road,,Winsford,CW7 3AP,CW7 3AP,53.1992545,-2.5070784,1,Low,Mobile,27.88
+1832226716,Convenience Store ,Mobile Solution,1951,255,30.06,307 Chester Road,Hartford,Northwich,CW8 1QL,CW8 1QL,53.2449997,-2.5457122,1,Medium,Mobile,7.65
+1832187319,Convenience Store ,Mobile Solution,1035,289,39.35,Northwich Road,Weaverham,Northwich,CW8 3EU,CW8 3EU,53.2623062,-2.5775055,9,High,Mobile,3.58
+1832228130,Convenience Store ,Mobile Solution,2107,260,31.03,Lydyett Lane,Barnton,Northwich,CW8 4JR,CW8 4JR,53.2717039,-2.5461281,8,Medium,Mobile,8.1
+1832225291,Convenience Store ,Mobile Solution,2475,262,18.22,249 Middlewich Road,Rudheath,Northwich,CW9 7DR,CW9 7DR,53.2569749,-2.4828331,3,High,Fixed,9.45
+1832215847,Convenience Store ,Mobile Solution,4957,279,34.37,Cheshire Business Park,,Northwich,CW9 7UA,CW9 7UA,53.2720465,-2.4585161,6,Low,Mobile,17.77
+1832254367,Convenience Store ,Mobile Solution,2798,133,37.46,Timmergreens,7 Arbirlot Road,Arbroath,DD11 2EW,DD11 2EW,56.5587296,-2.606999,3,Medium,Mobile,21.04
+1832232593,Convenience Store ,Mobile Solution,2845,140,39.63,14-15 Mayfield Terrace,,Arbroath,DD11 5DJ,DD11 5DJ,56.5668512,-2.5690669,4,Low,Mobile,20.32
+1832254393,Convenience Store ,Mobile Solution,2408,150,28.06,Brook Street,,Dundee,DD1 5BP,DD1 5BP,56.4608164,-2.9857618,1,Medium,Mobile,16.05
+1832272998,Convenience Store ,Mobile Solution,2195,274,34.73,Birkhill Auto Point,"Main Street, Birkhill",Dundee,DD2 5RG,DD2 5RG,56.4955134,-3.0600634,5,High,Mobile,8.01
+1832254389,Convenience Store ,Mobile Solution,2399,181,30.77,Unit 7 Campfield Square,Broughty Ferry,Dundee,DD5 2PU,DD5 2PU,56.4742626,-2.8580109,1,High,Mobile,13.25
+1832254391,Convenience Store ,Mobile Solution,2708,157,38.52,134 Lawyers Drive,Broughty Ferry,Dundee,DD5 3UN,DD5 3UN,56.4839566,-2.8488607,1,Medium,Fixed,17.25
+1832191598,Convenience Store ,Mobile Solution,2385,174,35.42,65 Mortimer Drive,Monifieth,Dundee,DD5 4JF,DD5 4JF,56.4760947,-2.8343667,7,Medium,Fixed,13.71
+1832226732,Convenience Store ,Mobile Solution,3606,284,33.4,24 Nelson Street,,Tayport,DD6 9DR,DD6 9DR,56.4454437,-2.8769075,6,High,Mobile,12.7
+1832215843,Convenience Store ,Mobile Solution,3938,122,23.73,Barry Road,,Carnoustie,DD7 7QJ,DD7 7QJ,56.5002932,-2.7265333,2,Medium,Fixed,32.28
+1832215873,Convenience Store ,Mobile Solution,3188,275,15.07,16 High Street,The Square,Kirriemuir,DD8 4EY,DD8 4EY,56.6734336,-3.0044946,2,Low,Mobile,11.59
+1832187458,Convenience Store ,Mobile Solution,3934,227,21.09,Shortheath Road,Moira,Swadlincote,DE12 6AL,DE12 6AL,52.7355145,-1.5382322,7,Medium,Mobile,17.33
+1832254365,Convenience Store ,Mobile Solution,4989,249,19.1,Manor Road,Kings Bromley,Burton-on-Trent,DE13 7HZ,DE13 7HZ,52.7490732,-1.8232874,1,Medium,Mobile,20.04
+1832211530,Convenience Store ,Mobile Solution,4189,116,30.72,27 Duffield Road,,Derby,DE1 3BH,DE1 3BH,52.9285323,-1.482274,2,Medium,Fixed,36.11
+1832191563,Convenience Store ,Mobile Solution,2300,168,36.43,497 Nottingham Road,,Derby,DE21 6NA,DE21 6NA,52.9249777,-1.4397448,8,Medium,Mobile,13.69
+1832229564,Convenience Store ,Mobile Solution,3773,207,22.46,68-70 Sitwell Road,Spondon,Derby,DE21 7FG,DE21 7FG,52.9203841,-1.4045843,6,Medium,Mobile,18.23
+1832206978,Convenience Store ,Mobile Solution,2243,238,47.87,1 Chapel Side,Spondon,Derby,DE21 7JQ,DE21 7JQ,52.9217062,-1.4047149,2,Medium,Mobile,9.42
+1832254447,Convenience Store ,Mobile Solution,4976,193,15.23,49 Park Farm Centre,,Derby,DE22 2QQ,DE22 2QQ,52.943688,-1.4969001,7,Low,Mobile,25.78
+1832254381,Convenience Store ,Mobile Solution,4097,114,42.03,840 Osmaston Road,Allenton,Derby,DE24 9AB,DE24 9AB,52.8896694,-1.4518219,4,Medium,Mobile,35.94
+1832221533,Convenience Store ,Mobile Solution,1520,190,36.88,Station Road,Darley Dale,Matlock,DE4 2EQ,DE4 2EQ,53.1609501,-1.5915668,2,High,Fixed,8
+1832187315,Convenience Store ,Mobile Solution,2806,262,28.07,3 Firs Parade,,Matlock,DE4 3AS,DE4 3AS,53.138753,-1.5530602,6,Medium,Mobile,10.71
+1832166651,Convenience Store ,Mobile Solution,1009,132,16.77,High Street,South Normanton,Alfreton,DE55 2BN,DE55 2BN,53.1062803,-1.3425126,9,Medium,Mobile,7.64
+1832226736,Convenience Store ,Mobile Solution,1983,224,36.96,24 High Street,Tibshelf,Alfreton,DE55 5NY,DE55 5NY,53.1391737,-1.3477962,9,High,Mobile,8.85
+1832200139,Convenience Store ,Mobile Solution,3425,115,28.5,17 Whitemoor Lane,,Belper,DE56 0HB,DE56 0HB,53.0278332,-1.4610489,8,High,Mobile,29.78
+1832218660,Convenience Store ,Mobile Solution,2656,261,47.77,4 The Green,Breaston,Derby,DE72 3DU,DE72 3DU,52.8975639,-1.3182744,3,Medium,Mobile,10.18
+1832225282,Convenience Store ,Mobile Solution,2660,165,33.97,9 Market Place,Kegworth,Derby,DE74 2EE,DE74 2EE,52.835099,-1.2777177,3,Low,Mobile,16.12
+1832221527,Convenience Store ,Mobile Solution,3729,267,47.89,35-37 Borough Street,Castle Donington,Derby,DE74 2LA,DE74 2LA,52.8422619,-1.3376526,2,High,Mobile,13.97
+1832229575,Convenience Store ,Mobile Solution,3631,255,22.72,Ladywood Road,Kirk Hallam,Ilkeston,DE7 4NF,DE7 4NF,52.9597777,-1.3178336,5,High,Mobile,14.24
+1832200913,Convenience Store ,Mobile Solution,3199,146,40.4,242 Heanor Road,,Ilkeston,DE7 8TG,DE7 8TG,52.9879607,-1.3180455,4,High,Mobile,21.91
+1832206990,Convenience Store ,Mobile Solution,1719,266,36.6,Summerfield Way,,Ilkeston,DE7 9JJ,DE7 9JJ,52.9815867,-1.319501,7,High,Mobile,6.46
+1832233508,Convenience Store ,Mobile Solution,2072,297,40.88,Holme Street,Station Yard,Moffat,DG10 9EP,DG10 9EP,55.3300835,-3.4428013,4,Medium,Mobile,6.98
+1832254409,Convenience Store ,Mobile Solution,4225,247,22.51,Annan Road,,Gretna,DG16 5DH,DG16 5DH,54.9956113,-3.0695742,9,Medium,Mobile,17.11
+1832226734,Convenience Store ,Mobile Solution,1858,223,38.27,Drumlanrig Street,,Thornhill,DG3 5LS,DG3 5LS,55.2409405,-3.765735,2,Low,Fixed,8.33
+1832260127,Convenience Store ,Mobile Solution,2316,100,32.43,Nith Buildings,Kelloholm,Sanquhar,DG4 6RX,DG4 6RX,55.3819602,-3.996245,6,Medium,Mobile,23.16
+1832215861,Convenience Store ,Mobile Solution,2603,299,41,55 High Street,,Dalbeattie,DG5 4HA,DG5 4HA,54.9317748,-3.8204959,7,Medium,Mobile,8.71
+1832192283,Convenience Store ,Mobile Solution,1049,186,26.45,6 St. Cuthbert Street,,Kirkcudbright,DG6 4HZ,DG6 4HZ,54.8367617,-4.05126,4,Medium,Mobile,5.64
+1832228128,Convenience Store ,Mobile Solution,3711,227,46.15,25 Victoria Street,,Newton Stewart,DG8 6NL,DG8 6NL,54.9587926,-4.4826375,6,Medium,Mobile,16.35
+1832211562,Convenience Store ,Mobile Solution,3578,290,17.95,30 North Main Street,Wigtown,Newton Stewart,DG8 9HJ,DG8 9HJ,54.8675657,-4.4444515,7,High,Fixed,12.34
+1832221531,Convenience Store ,Mobile Solution,4683,166,43.25,Dryburn View,,Durham,DH1 5AP,DH1 5AP,54.7927482,-1.5912367,4,Medium,Mobile,28.21
+1832260105,Convenience Store ,Mobile Solution,4131,103,45.15,Carr House Drive,Newton Hall,Durham,DH1 5LT,DH1 5LT,54.79905,-1.5761629,8,Medium,Mobile,40.11
+1832193574,Convenience Store ,Mobile Solution,4238,285,43.6,Allendale House,4 Front Street,Chester le Street,DH2 1DE,DH2 1DE,54.8729398,-1.6095319,9,Low,Mobile,14.87
+1832260101,Convenience Store ,Mobile Solution,4273,252,32.95,76 Medway,Great Lumley,Chester le Street,DH3 4HU,DH3 4HU,54.8380302,-1.5455356,1,Medium,Mobile,16.96
+1832202889,Convenience Store ,Mobile Solution,3904,146,30.34,1-3 Grangewood Court,,Houghton le Spring,DH4 4RS,DH4 4RS,54.8672815,-1.4977786,7,High,Fixed,26.74
+1832260119,Convenience Store ,Mobile Solution,1145,137,49.87,1-2 Percy Terrace,New Penshaw,Houghton le Spring,DH4 7PG,DH4 7PG,54.8757788,-1.5012106,9,Medium,Mobile,8.36
+1832229609,Convenience Store ,Mobile Solution,1914,242,23.02,Front Street,Sherburn Village,Durham,DH6 1HD,DH6 1HD,54.7748732,-1.5063372,5,High,Mobile,7.91
+1832229611,Convenience Store ,Mobile Solution,4747,290,34.14,Old School Row,Shotton Colliery,Durham,DH6 2LW,DH6 2LW,54.7616071,-1.3875537,2,Medium,Mobile,16.37
+1832215891,Convenience Store ,Mobile Solution,4040,120,38.47,Quillstile Road,Wheatley Hill,Durham,DH6 3RF,DH6 3RF,54.7444756,-1.4217529,6,Medium,Mobile,33.67
+1832195994,Convenience Store ,Mobile Solution,2462,156,39.53,200 Park Road,Coxhoe,Durham,DH6 4HA,DH6 4HA,54.7164172,-1.5023745,7,Medium,Fixed,15.78
+1832273006,Convenience Store ,Mobile Solution,3289,216,22.14,Durham Road,Bowburn,Durham,DH6 5AT,DH6 5AT,54.733949,-1.5245067,2,Medium,Mobile,15.23
+1832193576,Convenience Store ,Mobile Solution,1580,280,37.89,Broom Lane,Ushaw Moor,Durham,DH7 7LQ,DH7 7LQ,54.7776579,-1.6449467,2,High,Mobile,5.64
+1832254375,Convenience Store ,Mobile Solution,3734,145,43.64,Lowlands Road,Brandon,Durham,DH7 8NN,DH7 8NN,54.7509882,-1.6306215,1,Medium,Mobile,25.75
+1832241547,Convenience Store ,Mobile Solution,2584,241,16.75,New House Road,Esh Winning,Durham,DH7 9JX,DH7 9JX,54.7701434,-1.7048393,4,High,Mobile,10.72
+1832230208,Convenience Store ,Mobile Solution,1482,244,46.9,36-8 Quebec Street,Langley Park,Durham,DH7 9UU,DH7 9UU,54.7989227,-1.6749363,7,Medium,Mobile,6.07
+1832215875,Convenience Store ,Mobile Solution,4179,138,16.03,Esh Road,,Durham,DH7 9XE,DH7 9XE,54.7985885,-1.6709416,9,High,Mobile,30.28
+1832227984,Convenience Store ,Mobile Solution,2249,236,27.46,33-34 Front Street,Leadgate,Consett,DH8 7SB,DH8 7SB,54.859528,-1.8062061,3,Low,Mobile,9.53
+1832196785,Convenience Store ,Mobile Solution,1672,198,15.55,6 Market Avenue,,Richmond,DL10 4HU,DL10 4HU,54.4034487,-1.7365861,7,High,Mobile,8.44
+1832221535,Convenience Store ,Mobile Solution,1630,176,17.7,44 High Street,Catterick,Richmond,DL10 7LD,DL10 7LD,54.3783899,-1.6320756,7,Medium,Mobile,9.26
+1832226689,Convenience Store ,Mobile Solution,3708,214,46.89,9-12 Chapel Row,Middleton-in-Teesdale,Barnard Castle,DL12 0SN,DL12 0SN,54.623768,-2.0806655,7,Medium,Fixed,17.33
+1832206960,Convenience Store ,Mobile Solution,1661,233,27.42,Prospect Place,,Barnard Castle,DL12 8HL,DL12 8HL,54.5500084,-1.910279,2,Medium,Mobile,7.13
+1832219200,Convenience Store ,Mobile Solution,4503,250,29.87,17 Horsemarket,,Barnard Castle,DL12 8LY,DL12 8LY,54.5438616,-1.9237402,6,High,Mobile,18.01
+1832273000,Convenience Store ,Mobile Solution,3852,286,22.54,"Unit 3, 47a High Street",Tow Lane,Bishop Auckland,DL13 4DH,DL13 4DH,54.7451528,-1.8146433,2,Low,Mobile,13.47
+1832215837,Convenience Store ,Mobile Solution,4726,190,35.9,Prospect Square,Front Street,Bishop Auckland,DL13 5ED,DL13 5ED,54.6127701,-1.80843,6,Medium,Mobile,24.87
+1832203076,Convenience Store ,Mobile Solution,3466,197,35.82,1 Commercial Street,Willington,Crook,DL15 0AD,DL15 0AD,54.710455,-1.6904657,3,High,Mobile,17.59
+1832169328,Convenience Store ,Mobile Solution,1987,219,28.03,5 North Terrace,,Crook,DL15 9AZ,DL15 9AZ,54.7157111,-1.7443359,2,Medium,Fixed,9.07
+1832260107,Convenience Store ,Mobile Solution,4526,145,26.66,9-10 Market Place,,Ferryhill,DL17 8JN,DL17 8JN,54.6890194,-1.5563207,6,Low,Mobile,31.21
+1832215859,Convenience Store ,Mobile Solution,4231,137,45.97,10 Tillage Green,,Darlington,DL2 2GL,DL2 2GL,54.5472707,-1.5865645,2,Medium,Mobile,30.88
+1832254379,Convenience Store ,Mobile Solution,2546,241,28.41,11 Cockerton Drive,Cockerton,Darlington,DL3 9AA,DL3 9AA,54.5334847,-1.5786678,5,Medium,Mobile,10.56
+1832225272,Convenience Store ,Mobile Solution,1649,199,32.27,25-58 West Auckland Road,,Darlington,DL3 9EP,DL3 9EP,54.5357387,-1.578181,2,High,Mobile,8.29
+1832187313,Convenience Store ,Mobile Solution,1968,171,24.92,102-106 Fulthorpe Avenue,,Darlington,DL3 9XT,DL3 9XT,54.5271665,-1.5943695,3,High,Mobile,11.51
+1832229373,Convenience Store ,Mobile Solution,3637,289,42.54,18 Redworth Road,,Shildon,DL4 2JE,DL4 2JE,54.6250587,-1.645903,3,Medium,Mobile,12.58
+1832200927,Convenience Store ,Mobile Solution,2100,134,28.91,Boroughbridge Road,,Northallerton,DL7 8BE,DL7 8BE,54.3297729,-1.4447102,6,High,Mobile,15.67
+1832273026,Convenience Store ,Mobile Solution,3556,246,32.98,1A Leeming Lane,Leeming Bar,Northallerton,DL7 9AT,DL7 9AT,54.3046843,-1.5589837,6,Medium,Mobile,14.46
+1832201696,Convenience Store ,Mobile Solution,1440,129,23.87,11 Market Place,,Leyburn,DL8 5BG,DL8 5BG,54.309548,-1.8299548,3,Low,Mobile,11.16
+1832215845,Convenience Store ,Mobile Solution,4325,177,49.57,11 Broadway,Catterick,Catterick Garrison,DL9 4RF,DL9 4RF,54.3794615,-1.6871662,3,Medium,Mobile,24.44
+1832218498,Convenience Store ,Mobile Solution,1920,183,25.2,2 High Street,Bawtry,Doncaster,DN10 6JE,DN10 6JE,53.429512,-1.0207398,1,Medium,Mobile,10.49
+1832254383,Convenience Store ,Mobile Solution,1769,212,41.98,Gattison Lane,Rossington,Doncaster,DN11 0NH,DN11 0NH,53.4733443,-1.0683046,7,Low,Mobile,8.34
+1832206852,Convenience Store ,Mobile Solution,2343,124,29.96,Swinefleet Road,,Goole,DN14 5UY,DN14 5UY,53.6958971,-0.8722902,8,High,Mobile,18.9
+1832273004,Convenience Store ,Mobile Solution,2826,267,22.22,35 Market Place,Howden,Goole,DN14 7BL,DN14 7BL,53.745577,-0.8663537,2,High,Mobile,10.58
+1832254302,Convenience Store ,Mobile Solution,1262,187,42.99,Charles Briggs Avenue,Howden,Goole,DN14 7SU,DN14 7SU,53.7452472,-0.8656953,4,Medium,Mobile,6.75
+1832229371,Convenience Store ,Mobile Solution,4668,113,26.68,21 Market Place,Snaith,Goole,DN14 9HE,DN14 9HE,53.6917001,-1.0292533,7,Medium,Mobile,41.31
+1832215678,Convenience Store ,Mobile Solution,4729,253,45.28,Market Place,Winterton,Scunthorpe,DN15 9PT,DN15 9PT,53.6547498,-0.5974871,8,High,Mobile,18.69
+1832219201,Convenience Store ,Mobile Solution,4906,201,47.03,12 Market Lane,,Barton-upon-Humber,DN18 5DE,DN18 5DE,53.6825069,-0.4384395,1,High,Mobile,24.41
+1832218496,Convenience Store ,Mobile Solution,2577,249,45.09,106 High Street,Broughton,Brigg,DN20 0JR,DN20 0JR,53.5654102,-0.5546147,4,High,Mobile,10.35
+1832225325,Convenience Store ,Mobile Solution,4445,275,16.23,"Redbourne Road, West Street",Hibaldstow,Brigg,DN20 9DT,DN20 9DT,53.5210268,-0.5321418,6,Medium,Mobile,16.16
+1832260129,Convenience Store ,Mobile Solution,3684,182,42.56,11A Station Road,Kirton Lindsey,Gainsborough,DN21 4BB,DN21 4BB,53.4798674,-0.5943675,3,High,Mobile,20.24
+1832259954,Convenience Store ,Mobile Solution,4238,209,29.4,2 Welbeck Road,,Retford,DN22 7RW,DN22 7RW,53.3087245,-0.9485517,5,Medium,Fixed,20.28
+1832203180,Convenience Store ,Mobile Solution,4824,278,45.58,North Road,,Retford,DN22 7XQ,DN22 7XQ,53.3277775,-0.9583393,9,Medium,Mobile,17.35
+1832254385,Convenience Store ,Mobile Solution,3506,230,37.33,Beckett Road,Wheatley,Doncaster,DN2 4BB,DN2 4BB,53.5357743,-1.1148728,3,Low,Mobile,15.24
+1832189056,Convenience Store ,Mobile Solution,1998,269,44.18,Brecks Lane,Kirk Sandal,Doncaster,DN3 1JR,DN3 1JR,53.5623079,-1.0685442,5,Low,Mobile,7.43
+1832254411,Convenience Store ,Mobile Solution,4351,118,32.48,462 Laceby Road,,Grimsby,DN34 5NB,DN34 5NB,53.5514644,-0.1242572,8,Medium,Mobile,36.87
+1832215867,Convenience Store ,Mobile Solution,1699,127,33.73,52 St. Peters Avenue,,Cleethorpes,DN35 8HP,DN35 8HP,53.5582221,-0.0306221,6,Medium,Mobile,13.38
+1832273028,Convenience Store ,Mobile Solution,3349,272,20.05,High Street,,Ulceby,DN39 6TG,DN39 6TG,53.6178793,-0.3320006,4,Low,Mobile,12.31
+1832215897,Convenience Store ,Mobile Solution,4602,170,42.44,Goodison Boulevard,,Doncaster,DN4 6BT,DN4 6BT,53.5068713,-1.0762406,8,High,Mobile,27.07
+1832219208,Convenience Store ,Mobile Solution,2603,162,29.68,37 Nostell Place,,Doncaster,DN4 7JA,DN4 7JA,53.5002109,-1.0879784,3,Low,Mobile,16.07
+1832200814,Convenience Store ,Mobile Solution,2241,172,32.5,Selby Road,Askern,Doncaster,DN6 0EP,DN6 0EP,53.6180413,-1.1527464,3,Medium,Mobile,13.03
+1832215895,Convenience Store ,Mobile Solution,2125,223,42.48,Great North Road,Woodlands,Doncaster,DN6 7RD,DN6 7RD,53.6117888,-1.1902892,4,Medium,Mobile,9.53
+1832186135,Convenience Store ,Mobile Solution,3601,218,35.96,Station Road,Dunscroft,Doncaster,DN7 4JS,DN7 4JS,53.5820647,-1.0135515,9,High,Mobile,16.52
+1832230202,Convenience Store ,Mobile Solution,3335,220,22.04,South Parade,Thorne,Doncaster,DN8 5DZ,DN8 5DZ,53.6090492,-0.9636342,5,Medium,Mobile,15.16
+1832218733,Convenience Store ,Mobile Solution,2190,118,35.66,Hayfield Lane and Hurst Lane,Finningley,Doncaster,DN9 3NB,DN9 3NB,53.489856,-1.0231192,8,Low,Mobile,18.56
+1832273016,Convenience Store ,Mobile Solution,3668,274,29.27,67 Sedgley Road,,Dudley,DY1 4NE,DY1 4NE,52.5319056,-2.0889304,6,Medium,Mobile,13.39
+1832187408,Convenience Store ,Mobile Solution,2005,241,31.43,88 Worcester Road,Hagley,Stourbridge,DY9 0NJ,DY9 0NJ,52.4190714,-2.1437391,3,High,Mobile,8.32
+1832184726,Convenience Store ,Mobile Solution,1035,219,15.99,141 St. John's Road,,Edinburgh,EH12 7SD,EH12 7SD,55.9425819,-3.2824243,8,High,Mobile,4.73
+1832254397,Convenience Store ,Mobile Solution,1743,265,22.35,East Craigs,Barnton,Edinburgh,EH12 8XP,EH12 8XP,55.9513603,-3.3038056,9,Medium,Mobile,6.58
+1832215857,Convenience Store ,Mobile Solution,2764,280,24.84,8-9 Corslet Place,,Currie,EH14 5LS,EH14 5LS,55.9003528,-3.3069394,8,Medium,Mobile,9.87
+1832273795,Convenience Store ,Mobile Solution,1352,160,39.95,8a Milton Road West,,Edinburgh,EH15 1LF,EH15 1LF,55.9436558,-3.1178018,4,High,Fixed,8.45
+1832169543,Convenience Store ,Mobile Solution,4747,263,15.4,Clayknowes Road,Stoneyhill,Musselburgh,EH21 6UW,EH21 6UW,55.9378298,-3.0748275,6,Low,Fixed,18.05
+1832221529,Convenience Store ,Mobile Solution,2922,267,29.31,2B Church Newton Road,Danderhall,Dalkeith,EH22 1LT,EH22 1LT,55.9111261,-3.1101616,1,Medium,Mobile,10.94
+1832254399,Convenience Store ,Mobile Solution,1072,129,47.34,26-28 Fredrick Street,,Edinburgh,EH2 2JR,EH2 2JR,55.9524917,-3.2005636,4,Medium,Mobile,8.31
+1832254413,Convenience Store ,Mobile Solution,3695,108,18.92,1B Rosebery Place,Main Street,Gullane,EH31 2AN,EH31 2AN,56.0339824,-2.8344143,8,Low,Mobile,34.21
+1832254431,Convenience Store ,Mobile Solution,2376,163,33.07,41 Links Road,Port Seton,Prestonpans,EH32 0DZ,EH32 0DZ,55.9719112,-2.9501216,1,Medium,Mobile,14.58
+1832254425,Convenience Store ,Mobile Solution,2914,260,42.53,2b Elcho Road,,Longniddry,EH32 0LB,EH32 0LB,55.9760888,-2.8962222,3,Medium,Mobile,11.21
+1832206994,Convenience Store ,Mobile Solution,2093,219,47.99,Mid Road,,Prestonpans,EH32 9ER,EH32 9ER,55.9527074,-2.9791345,1,Medium,Mobile,9.56
+1832196184,Convenience Store ,Mobile Solution,3472,151,41.14,Brotherstones Way,Windygoul,Tranent,EH33 2QF,EH33 2QF,55.9374673,-2.9529601,9,High,Fixed,22.99
+1832206998,Convenience Store ,Mobile Solution,4046,188,40.22,Main Street,Ormiston,Tranent,EH35 5HS,EH35 5HS,55.9129657,-2.9376248,2,Medium,Mobile,21.52
+1832273022,Convenience Store ,Mobile Solution,1707,241,43.93,44 Morrison Street,,Edinburgh,EH3 8EE,EH3 8EE,55.9460584,-3.2097474,9,High,Mobile,7.08
+1832206992,Convenience Store ,Mobile Solution,2804,152,30.62,117 High Street,,North Berwick,EH39 4HB,EH39 4HB,56.0579778,-2.722399,4,Low,Mobile,18.45
+1832254443,Convenience Store ,Mobile Solution,3608,286,43.2,5 Earl Grey Street,,Edinburgh,EH3 9BN,EH3 9BN,55.9443723,-3.2048435,2,Medium,Fixed,12.62
+1832254395,Convenience Store ,Mobile Solution,3875,177,15.28,53 High Street,,East Linton,EH40 3BQ,EH40 3BQ,55.9881397,-2.6577969,4,Low,Mobile,21.89
+1832254415,Convenience Store ,Mobile Solution,4713,140,47.36,32 Hopetoun Drive,,Haddington,EH41 3AT,EH41 3AT,55.9567878,-2.7886437,6,High,Mobile,33.66
+1832254405,Convenience Store ,Mobile Solution,1955,295,30.52,Duns Road,Gifford,Haddington,EH41 4QW,EH41 4QW,55.903677,-2.7439967,7,High,Mobile,6.63
+1832254387,Convenience Store ,Mobile Solution,3564,167,34.37,118-120 High Street,,Dunbar,EH42 1JJ,EH42 1JJ,56.0028454,-2.5167954,3,Medium,Fixed,21.34
+1832254417,Convenience Store ,Mobile Solution,3475,107,23.92,Peebles Road,,Innerleithen,EH44 6QZ,EH44 6QZ,55.6175695,-3.0665669,3,High,Mobile,32.48
+1832215881,Convenience Store ,Mobile Solution,4610,101,40.99,21-23 Main Street,,West Linton,EH46 7EE,EH46 7EE,55.7514652,-3.3554248,8,Medium,Fixed,45.64
+1832191569,Convenience Store ,Mobile Solution,1159,204,17.68,25 Westmain Street,,Whitburn,EH47 0QB,EH47 0QB,55.8664202,-3.6855684,5,High,Mobile,5.68
+1832254423,Convenience Store ,Mobile Solution,3196,224,45.54,Craigshill Shopping Centre,The Mall,Livingston,EH54 5DZ,EH54 5DZ,55.8973279,-3.4960465,4,High,Mobile,14.27
+1832272996,Convenience Store ,Mobile Solution,3823,209,43.98,Newyearfield,,Livingston,EH54 6AB,EH54 6AB,55.8990844,-3.5322916,7,High,Mobile,18.29
+1832260137,Convenience Store ,Mobile Solution,4301,185,22.56,3 Follyburn Place,Eliburn,Livingston,EH54 6BF,EH54 6BF,55.8937007,-3.5410504,7,Medium,Mobile,23.25
+1832254445,Convenience Store ,Mobile Solution,2735,268,43.33,Howden West Road,,Livingston,EH54 6PP,EH54 6PP,55.8918839,-3.5230851,9,Low,Mobile,10.21
+1832203140,Convenience Store ,Mobile Solution,2585,219,42.52,Bankton Retail Centre,Murieston,Livingston,EH54 9DA,EH54 9DA,55.8721115,-3.5006705,9,Medium,Fixed,11.8
+1832187402,Convenience Store ,Mobile Solution,1066,226,37.13,8 Macdonald Road,,Edinburgh,EH7 4LU,EH7 4LU,55.961579,-3.1816068,5,Low,Mobile,4.72
+1832254401,Convenience Store ,Mobile Solution,4061,282,28.07,South Clerk Street,,Edinburgh,EH8 9NZ,EH8 9NZ,55.940495,-3.1802121,8,Medium,Mobile,14.4
+1832221518,Convenience Store ,Mobile Solution,4883,115,24.5,23 Station Road,Cuffley,Potters Bar,EN6 4HX,EN6 4HX,51.7081473,-0.1119826,1,Medium,Mobile,42.46
+1832230236,Convenience Store ,Mobile Solution,3428,161,23.11,59-61 High Street,,Potters Bar,EN6 5AS,EN6 5AS,51.6947389,-0.1767722,9,Medium,Mobile,21.29
+1832187405,Convenience Store ,Mobile Solution,1057,212,26.15,696 Goffs Lane,Goffs Oak,Waltham Cross,EN7 5ET,EN7 5ET,51.710107,-0.0858462,8,Low,Mobile,4.99
+1832196162,Convenience Store ,Mobile Solution,4330,275,46.62,9 High Street,Cheshunt,Waltham Cross,EN8 0BX,EN8 0BX,51.708553,-0.0373788,6,Low,Mobile,15.75
+1832221514,Convenience Store ,Mobile Solution,1341,257,17.72,136-138 Church Lane,Cheshunt,Waltham Cross,EN8 0EA,EN8 0EA,51.7090276,-0.0469838,3,Medium,Mobile,5.22
+1832203213,Convenience Store ,Mobile Solution,4909,111,44.01,7-9 Sun Street,,Waltham Abbey,EN9 1ER,EN9 1ER,51.6867357,-0.0015753,3,High,Mobile,44.23
+1832211560,Convenience Store ,Mobile Solution,2153,134,27.21,113-117 Upshire Road,Upshire,Waltham Abbey,EN9 3PE,EN9 3PE,51.6893285,0.0313096,8,Medium,Fixed,16.07
+1832218630,Convenience Store ,Mobile Solution,3774,110,33.26,44 Tullibody Road,,Alloa,FK10 2LX,FK10 2LX,56.1207507,-3.7990655,5,Medium,Mobile,34.31
+1832225888,Convenience Store ,Mobile Solution,2195,163,42.81,26 Ochil Street,Tullibody,Alloa,FK10 2PT,FK10 2PT,56.1345308,-3.8372208,7,High,Fixed,13.47
+1832221516,Convenience Store ,Mobile Solution,3817,149,45.95,23-25 Main Street,Clackmannan,Alloa,FK10 4JA,FK10 4JA,56.1073052,-3.7511122,5,Medium,Mobile,25.62
+1832215871,Convenience Store ,Mobile Solution,3661,248,27.07,25 High Street,,Alloa,FK10 4RJ,FK10 4RJ,56.0686857,-3.7183555,8,Medium,Mobile,14.76
+1832218632,Convenience Store ,Mobile Solution,2232,168,31.16,70 Stirling Street,,Alva,FK12 5EA,FK12 5EA,56.1532352,-3.7996828,4,Medium,Mobile,13.29
+1832226738,Convenience Store ,Mobile Solution,4874,147,29.51,74 High Street,,Tillicoultry,FK13 6AB,FK13 6AB,56.1537282,-3.745915,2,Medium,Mobile,33.16
+1832200915,Convenience Store ,Mobile Solution,3401,119,15.46,43-47 Bridge Street,,Dollar,FK14 7DG,FK14 7DG,56.1625873,-3.6739153,3,High,Fixed,28.58
+1832273030,Convenience Store ,Mobile Solution,2494,200,25.36,79-81 High Street,,Dunlane,FK15 0ER,FK15 0ER,56.188647,-3.9633475,8,Low,Mobile,12.47
+1832228136,Convenience Store ,Mobile Solution,2821,294,31.07,Castehill Court,,Doune,FK16 6BT,FK16 6BT,56.1884806,-4.0510557,7,Medium,Mobile,9.6
+1832206974,Convenience Store ,Mobile Solution,1115,271,29.39,124 Main Street,,Callander,FK17 8BG,FK17 8BG,56.2424048,-4.2098381,2,Low,Fixed,4.11
+1832260123,Convenience Store ,Mobile Solution,4335,260,40.27,Main Street,,Killin,FK21 8UT,FK21 8UT,56.4656108,-4.3184435,6,Medium,Mobile,16.67
+1832236651,Convenience Store ,Mobile Solution,1661,288,28.47,1 Ronades Road,New Carron Village,Falkirk,FK2 7TA,FK2 7TA,56.0156154,-3.7927473,9,High,Mobile,5.77
+1832203092,Convenience Store ,Mobile Solution,4883,236,32.13,76 Mary Street,Laurieston,Falkirk,FK2 9PS,FK2 9PS,55.9959379,-3.7475468,4,Medium,Mobile,20.69
+1832215885,Convenience Store ,Mobile Solution,2465,167,30.04,Pike Road,Wallace Park,Stirling,FK7 7XJ,FK7 7XJ,56.1003326,-3.9138458,9,Low,Fixed,14.76
+1832226695,Convenience Store ,Mobile Solution,4619,134,40.92,The Brae,Cambusbarron,Stirling,FK7 9LE,FK7 9LE,56.1101231,-3.9684339,2,Medium,Mobile,34.47
+1832196773,Convenience Store ,Mobile Solution,3500,164,45.2,Main Street,Aberfoyle,Stirling,FK8 3UG,FK8 3UG,56.1787029,-4.3831063,2,Low,Mobile,21.34
+1832254435,Convenience Store ,Mobile Solution,2868,107,33.62,12 Fountain Road,Bridge of Allan,Stirling,FK9 4ET,FK9 4ET,56.1539437,-3.9460651,9,Low,Mobile,26.8
+1832221539,Convenience Store ,Mobile Solution,4548,144,42.63,5 Alloa Road,Causewayhead,Stirling,FK9 5LH,FK9 5LH,56.1384023,-3.9223514,7,High,Fixed,31.58
+1832254373,Convenience Store ,Mobile Solution,3334,186,25.39,9-19 Abingdon Street,,Blackpool,FY1 1DG,FY1 1DG,53.8183326,-3.0522647,7,High,Mobile,17.92
+1832203225,Convenience Store ,Mobile Solution,4374,274,33.95,35 Warley Road,,Blackpool,FY1 2AG,FY1 2AG,53.8304938,-3.0532833,1,High,Mobile,15.96
+1832220818,Convenience Store ,Mobile Solution,2016,267,27.08,15-21 Layton Road,Layton,Blackpool,FY3 8EA,FY3 8EA,53.8270339,-3.0315611,6,High,Mobile,7.55
+1832215889,Convenience Store ,Mobile Solution,1310,175,29.5,303 Fleetwood Road North,,Thornton-Cleveleys,FY5 4LF,FY5 4LF,53.8850813,-3.0134385,7,Medium,Fixed,7.49
+1832193582,Convenience Store ,Mobile Solution,1207,281,40.63,30-36 Lancaster Road,Knott End,Poulton-le-Fylde,FY6 0AU,FY6 0AU,53.9280014,-2.9861665,6,Low,Fixed,4.3
+1832243963,Convenience Store ,Mobile Solution,3665,175,45.86,Sandy Lane,Preesall,Poulton-le-Fylde,FY6 0EJ,FY6 0EJ,53.9240587,-2.9692619,6,High,Fixed,20.94
+1832254421,Convenience Store ,Mobile Solution,3493,273,19.25,40 Larkholme Parade,,Fleetwood,FY7 8NE,FY7 8NE,53.9076539,-3.0434092,2,High,Mobile,12.79
+1832253087,Convenience Store ,Mobile Solution,3717,146,37.21,99 Headroomgate Road,,Lytham St. Annes,FY8 3BG,FY8 3BG,53.761972,-3.0236718,6,High,Mobile,25.46
+1832187374,Convenience Store ,Mobile Solution,1632,114,35.38,38-40 Woodlands Road,,Lytham St. Annes,FY8 4ER,FY8 4ER,53.7430448,-2.9912945,4,Medium,Mobile,14.32
+1832232591,Convenience Store ,Mobile Solution,3102,204,19.14,Broomhill Shopping Centre,,Glasgow,G11 7BN,G11 7BN,55.8761389,-4.3239351,9,Medium,Fixed,15.21
+1832200921,Convenience Store ,Mobile Solution,3959,246,22.42,470 Great Western Road,,Glasgow,G12 8EW,G12 8EW,55.8755327,-4.2816359,1,High,Mobile,16.09
+1832219912,Convenience Store ,Mobile Solution,4083,125,25.89,269 Alderman Road,,Glasgow,G13 3AY,G13 3AY,55.8905221,-4.3582527,8,High,Mobile,32.66
+1832254439,Convenience Store ,Mobile Solution,1656,151,20.84,132 Union Street,,Glasgow,G1 3QQ,G1 3QQ,55.8601355,-4.2566766,5,High,Mobile,10.97
+1832216753,Convenience Store ,Mobile Solution,2423,192,23.53,219-223 Wallacewell Road,Balornock,Glasgow,G21 3PR,G21 3PR,55.8910203,-4.2043983,1,Low,Mobile,12.62
+1832256187,Convenience Store ,Mobile Solution,2931,249,24.37,123 Sauchiehall Street,,Glasgow,G2 3DD,G2 3DD,55.864411,-4.2568128,4,Medium,Mobile,11.77
+1832260111,Convenience Store ,Mobile Solution,4719,120,26.75,1158 Shettleston Road,Kingco,Glasgow,G32 7PQ,G32 7PQ,55.8514719,-4.1677445,1,Medium,Mobile,39.33
+1832226702,Convenience Store ,Mobile Solution,4027,150,41.23,997 Tollcross Road,,Glasgow,G32 8UU,G32 8UU,55.8440337,-4.1741829,6,High,Mobile,26.85
+1832256148,Convenience Store ,Mobile Solution,3562,137,35.02,63 Cumbernauld Road,Stepps,Glasgow,G33 6HZ,G33 6HZ,55.893765,-4.1353974,2,Low,Mobile,26
+1832256150,Convenience Store ,Mobile Solution,2679,119,49.52,West End,Glasgow Park,Glasgow,G3 7PQ,G3 7PQ,55.8660362,-4.2730016,5,Low,Mobile,22.51
+1832273012,Convenience Store ,Mobile Solution,4613,256,29.52,102 Battlefield Road,,Glasgow,G42 9JN,G42 9JN,55.8268891,-4.2665657,7,High,Mobile,18.02
+1832216757,Convenience Store ,Mobile Solution,1236,278,41.39,390-400 Paisley Road West,Ibrox,Glasgow,G51 1BG,G51 1BG,55.8519403,-4.2954567,2,Low,Mobile,4.45
+1832203098,Convenience Store ,Mobile Solution,4350,231,45.5,1517 Paisley Road West,Cardonald,Glasgow,G52 1SH,G52 1SH,55.8462352,-4.3321182,6,High,Mobile,18.83
+1832211533,Convenience Store ,Mobile Solution,1347,154,38.76,123-133 Thurston Road,Hillington,Glasgow,G52 2AZ,G52 2AZ,55.8507626,-4.3572333,6,Medium,Mobile,8.75
+1832219908,Convenience Store ,Mobile Solution,3674,298,29.42,20-24 Braidcraft Terrace,Pollock,Glasgow,G53 5EB,G53 5EB,55.8313194,-4.3390339,5,High,Mobile,12.33
+1832219880,Convenience Store ,Mobile Solution,4175,191,41.38,57-59 Stockiemuir Avenue,Bearsden,Glasgow,G61 3JJ,G61 3JJ,55.9307618,-4.3359623,5,Medium,Mobile,21.86
+1832216734,Convenience Store ,Mobile Solution,1629,127,22.13,3 Station Road,Bearsden,Glasgow,G61 4AN,G61 4AN,55.9168408,-4.3326121,3,High,Mobile,12.83
+1832219910,Convenience Store ,Mobile Solution,2540,103,26.46,137-145 Buchanan Street,Balfron,Glasgow,G63 0TF,G63 0TF,56.0709429,-4.3371786,2,High,Mobile,24.66
+1832196791,Convenience Store ,Mobile Solution,3003,249,34.13,13 Mugdock Road,Strathblane,Glasgow,G63 9EJ,G63 9EJ,55.9835558,-4.3062821,7,Low,Mobile,12.06
+1832196168,Convenience Store ,Mobile Solution,4943,175,35.14,56 Main Street,Killearn,Glasgow,G63 9RH,G63 9RH,56.0417922,-4.3680401,1,Low,Fixed,28.25
+1832203134,Convenience Store ,Mobile Solution,2271,272,15.77,Kirkintilloch Road,Lenzie,Glasgow,G66 4LD,G66 4LD,55.9237606,-4.1562065,6,Medium,Mobile,8.35
+1832200919,Convenience Store ,Mobile Solution,1363,166,48.08,20 Millerneuk Road,Lenzie,Glasgow,G66 5JD,G66 5JD,55.9209358,-4.1512322,6,Medium,Mobile,8.21
+1832260133,Convenience Store ,Mobile Solution,3368,185,39.38,45 Main Street,Lennoxtown,Glasgow,G66 7HA,G66 7HA,55.9747669,-4.2022888,3,High,Mobile,18.21
+1832196174,Convenience Store ,Mobile Solution,4704,293,32.35,Antermony Road,Milton of Campsie,Glasgow,G66 8DB,G66 8DB,55.9645095,-4.1602199,2,Medium,Mobile,16.05
+1832216759,Convenience Store ,Mobile Solution,1285,261,47.66,19 Blackwoods Crescent,Moodiesburn,Glasgow,G69 0EN,G69 0EN,55.9138589,-4.0835375,2,Medium,Mobile,4.92
+1832203100,Convenience Store ,Mobile Solution,1148,190,30.37,21 Barrachnie Road,Ballieston,Glasgow,G69 6HB,G69 6HB,55.8508503,-4.1328823,9,Low,Mobile,6.04
+1832216761,Convenience Store ,Mobile Solution,2107,282,49.32,114 Cumbernauld Road,Muirhead,Glasgow,G69 9AA,G69 9AA,55.8999434,-4.1085601,5,High,Mobile,7.47
+1832219892,Convenience Store ,Mobile Solution,3453,204,32.93,16 Main Street,Bothwell,Glasgow,G71 8RD,G71 8RD,55.8023575,-4.0670278,7,High,Mobile,16.93
+1832192293,Convenience Store ,Mobile Solution,4025,100,19,Main Street,Rutherglen,Glasgow,G73 2HP,G73 2HP,55.8281802,-4.2114747,5,Medium,Fixed,40.25
+1832216797,Convenience Store ,Mobile Solution,1455,171,41.77,High Common Road,,Glasgow,G74 2AU,G74 2AU,55.7637761,-4.1515056,7,Medium,Mobile,8.51
+1832203088,Convenience Store ,Mobile Solution,2766,186,38.76,35 Main Street,East Kilbride,Glasgow,G74 4JU,G74 4JU,55.7663213,-4.1756568,4,Low,Mobile,14.87
+1832220845,Convenience Store ,Mobile Solution,1799,265,42.05,17 Eaglesham Road,Clarkson,Glasgow,G76 7DH,G76 7DH,55.7841613,-4.2748977,8,Medium,Mobile,6.79
+1832260149,Convenience Store ,Mobile Solution,2184,105,48.3,86 Broom Road East,Newton Mearns,Glasgow,G77 5SR,G77 5SR,55.7756661,-4.3053696,7,Medium,Mobile,20.8
+1832260153,Convenience Store ,Mobile Solution,2012,252,42.18,188 Harvie Avenue,Newton Mearns,Glasgow,G77 6TR,G77 6TR,55.7817055,-4.3377343,5,Low,Fixed,7.98
+1832194188,Convenience Store ,Mobile Solution,3831,244,36.4,60 Paisley Road,Barrhead,Glasgow,G78 1NN,G78 1NN,55.8068291,-4.3986866,6,Medium,Mobile,15.7
+1832233516,Convenience Store ,Mobile Solution,3507,160,45.01,115-119 Main Street,Neilston,Glasgow,G78 3NH,G78 3NH,55.7844151,-4.4265286,5,Medium,Fixed,21.92
+1832220822,Convenience Store ,Mobile Solution,4621,111,38.56,Main Road,Cardross,Dumbarton,G82 5PD,G82 5PD,55.9645909,-4.6574143,7,Medium,Mobile,41.63
+1832200909,Convenience Store ,Mobile Solution,2523,105,29.28,Carrochan Road,Balloch,Alexandria,G83 8BW,G83 8BW,56.0020679,-4.5729046,2,Medium,Mobile,24.03
+1832224594,Convenience Store ,Mobile Solution,3785,126,46,The Clachan,Rosneath,Helensburgh,G84 0RF,G84 0RF,56.009765,-4.8019136,5,Low,Mobile,30.04
+1832211422,Convenience Store ,Mobile Solution,3556,235,22.77,Westbourne Road,Marsh,Huddersfield,HD1 4LG,HD1 4LG,53.6512049,-1.8069022,3,High,Mobile,15.13
+1832219730,Convenience Store ,Mobile Solution,4725,223,40.01,Moorfield Shopping Centre,9 Park Road,Huddersfield,HD4 5RX,HD4 5RX,53.6384101,-1.8096375,9,High,Mobile,21.19
+1832220851,Convenience Store ,Mobile Solution,4875,205,45.85,819 Manchester Road,Milnsbridge,Huddersfield,HD4 5SX,HD4 5SX,53.6370838,-1.8303176,6,Medium,Mobile,23.78
+1832216769,Convenience Store ,Mobile Solution,1480,292,40.6,360 Meltham Road,Netherton,Huddersfield,HD4 7EH,HD4 7EH,53.6138102,-1.8158996,3,Low,Mobile,5.07
+1832219728,Convenience Store ,Mobile Solution,2686,284,39.4,19 Northgate,Almondbury,Huddersfield,HD5 8RX,HD5 8RX,53.6338758,-1.7485927,7,High,Mobile,9.46
+1832219894,Convenience Store ,Mobile Solution,3161,192,41.34,89-95 Highfield Road,Rastrick,Brighouse,HD6 3JA,HD6 3JA,53.6920096,-1.8003411,4,High,Fixed,16.46
+1832202899,Convenience Store ,Mobile Solution,3796,208,31.28,119 Town End,Golcar,Huddersfield,HD7 4QA,HD7 4QA,53.6393109,-1.8565196,3,Medium,Mobile,18.25
+1832193439,Convenience Store ,Mobile Solution,2601,198,45.6,Lewisham Road,Slaithwaite,Huddersfield,HD7 5AL,HD7 5AL,53.6230326,-1.8805679,8,Medium,Mobile,13.14
+1832220724,Convenience Store ,Mobile Solution,3408,267,22.12,Peel Street,Marsden,Huddersfield,HD7 6BR,HD7 6BR,53.6014351,-1.9271099,4,Low,Mobile,12.76
+1832256160,Convenience Store ,Mobile Solution,1340,241,19.46,64 North Road,Kirkburton,Huddersfield,HD8 0QH,HD8 0QH,53.6133667,-1.705953,1,Medium,Mobile,5.56
+1832202895,Convenience Store ,Mobile Solution,3817,134,24.99,38 Commercial Road,Skelmanthorpe,Huddersfield,HD8 9DA,HD8 9DA,53.5916381,-1.6507948,6,Low,Mobile,28.49
+1832159164,Convenience Store ,Mobile Solution,3010,275,33.61,18-24 Huddersfield Road,Meltham,Holmfirth,HD9 4AE,HD9 4AE,53.5919532,-1.8499864,1,Medium,Fixed,10.95
+1832220722,Convenience Store ,Mobile Solution,3808,183,32.87,18 Westgate,Honley,Holmfirth,HD9 6AA,HD9 6AA,53.6036249,-1.792732,5,Medium,Fixed,20.81
+1832220849,Convenience Store ,Mobile Solution,4016,155,43.72,Somerfield Service Station,Huddersfield Road,Holmfirth,HD9 6LT,HD9 6LT,53.6100053,-1.786897,7,Medium,Mobile,25.91
+1832211545,Convenience Store ,Mobile Solution,3496,276,29.16,Market Street,,Holmfirth,HD9 7AX,HD9 7AX,53.5725741,-1.7845476,6,Medium,Fixed,12.67
+1832211541,Convenience Store ,Mobile Solution,2866,240,31.95,Ripon Road,,Harrogate,HG1 2BS,HG1 2BS,54.0049535,-1.5489719,2,Medium,Mobile,11.94
+1832260155,Convenience Store ,Mobile Solution,1834,288,15.47,Skipton Road,,Harrogate,HG1 3DP,HG1 3DP,54.0068321,-1.5371878,4,Medium,Mobile,6.37
+1832225278,Convenience Store ,Mobile Solution,2203,148,29.34,50 Otley Road,Harlow Hill,Harrogate,HG2 0DX,HG2 0DX,53.9835525,-1.5486537,2,Low,Mobile,14.89
+1832211566,Convenience Store ,Mobile Solution,2725,145,37.67,High Street,Starbeck,Harrogate,HG2 7JE,HG2 7JE,53.9986541,-1.4992327,1,Low,Mobile,18.79
+1832253083,Convenience Store ,Mobile Solution,4478,212,15.54,73 Leeds Road,,Harrogate,HG2 8BE,HG2 8BE,53.9779058,-1.5338945,3,High,Mobile,21.12
+1832203110,Convenience Store ,Mobile Solution,2689,289,24.83,44 St. Winifreds Ave West,,Harrogate,HG2 8LS,HG2 8LS,53.9910044,-1.5210281,3,Low,Mobile,9.3
+1832256152,Convenience Store ,Mobile Solution,4267,235,22.28,Station Road,Pannal,Harrogate,HG3 1JN,HG3 1JN,53.9590759,-1.5337389,7,High,Mobile,18.16
+1832200923,Convenience Store ,Mobile Solution,4537,142,16.47,Jennyfield Drive,,Harrogate,HG3 2XQ,HG3 2XQ,54.0031343,-1.567528,1,High,Mobile,31.95
+1832216791,Convenience Store ,Mobile Solution,1310,247,31.77,Harrogate Road,,Ripon,HG4 2SD,HG4 2SD,54.120987,-1.5266162,9,Medium,Mobile,5.3
+1832260165,Convenience Store ,Mobile Solution,1261,223,21.36,1 Leyburn Road,Masham,Ripon,HG4 4ER,HG4 4ER,54.2235754,-1.6594031,6,Medium,Fixed,5.65
+1832162160,Convenience Store ,Mobile Solution,2442,196,41.01,108 Boroughbridge Road,,Knaresborough,HG5 0NG,HG5 0NG,54.0117009,-1.4690606,4,Medium,Mobile,12.46
+1832230217,Convenience Store ,Mobile Solution,1405,189,44.68,Wetherby Road,,Knaresborough,HG5 8LH,HG5 8LH,54.0024058,-1.4506272,3,High,Mobile,7.43
+1832260115,Convenience Store ,Mobile Solution,3190,138,34.1,52 Long Chaulden,,Hemel Hempstead,HP1 2HX,HP1 2HX,51.7497463,-0.5011962,3,High,Mobile,23.12
+1832167299,Convenience Store ,Mobile Solution,1341,184,49.36,22 Stoneycroft,,Hemel Hempstead,HP1 2QE,HP1 2QE,51.7563194,-0.4941545,2,High,Mobile,7.29
+1832225901,Convenience Store ,Mobile Solution,2339,276,30.77,312 Main Road,Walters Ash,High Wycombe,HP14 4TH,HP14 4TH,51.673653,-0.788758,2,Low,Mobile,8.47
+1832224586,Convenience Store ,Mobile Solution,4172,291,32.97,Station Approach,,Great Missenden,HP16 9AZ,HP16 9AZ,51.7042987,-0.7086335,5,Medium,Mobile,14.34
+1832219878,Convenience Store ,Mobile Solution,1243,161,49.62,Jansel Square,Bedgrove,Aylesbury,HP21 7ET,HP21 7ET,51.8065891,-0.7845437,9,Medium,Mobile,7.72
+1832189223,Convenience Store ,Mobile Solution,1489,205,23.1,Hannon Road,,Aylesbury,HP21 8TJ,HP21 8TJ,51.8019699,-0.8219272,2,Medium,Mobile,7.26
+1832187441,Convenience Store ,Mobile Solution,1011,206,47.99,2-4 Silk Mill Way,,Tring,HP23 5EP,HP23 5EP,51.7998171,-0.6594098,2,Low,Mobile,4.91
+1832196166,Convenience Store ,Mobile Solution,4310,153,16.5,46-48 The Queens Square,Adeyfield,Hemel Hempstead,HP2 4ES,HP2 4ES,51.7560613,-0.4521453,6,Low,Mobile,28.17
+1832230238,Convenience Store ,Mobile Solution,1560,225,30.62,11 Bell Street,,Princes Risborough,HP27 0DZ,HP27 0DZ,51.7197701,-0.8348632,2,High,Mobile,6.93
