@@ -175,3 +175,22 @@ def predict1():
                     st.write("### Map with Routes to Nearby Stores:")
                     m = plot_map_with_routes(current_lat, current_lon, nearby_stores)
                     folium_static(m)
+
+            # Optional: If you want to allow users to upload a dataset and apply the model on it
+            uploaded_file = st.file_uploader("Upload CSV for Batch Prediction", type="csv")
+            if uploaded_file:
+                # Read the uploaded CSV
+                user_data = pd.read_csv(uploaded_file)
+                # Apply the same transformations as the input data and make predictions
+                user_data['Priority_Level'] = user_data['Priority_Level'].map({'Low': 1, 'Medium': 2, 'High': 3})
+                user_data['Predicted_Cost'] = cost_model.predict(
+                    user_data[["Store_Size_SQFT", "Productivity_SQ_F_PerHour", "Demand_Score", "Priority_Level"]])
+                user_data['Predicted_Resource_Type'] = resource_model.predict(
+                    user_data[["Store_Size_SQFT", "Productivity_SQ_F_PerHour", "Demand_Score", "Priority_Level"]])
+                user_data['Predicted_Resource_Type'] = user_data['Predicted_Resource_Type'].map(
+                    {0: 'Mobile', 1: 'Fixed'})
+
+                st.write("### Batch Prediction Results:")
+                st.dataframe(
+                    user_data[['Store_Size_SQFT', 'Productivity_SQ_F_PerHour', 'Demand_Score', 'Priority_Level',
+                               'Predicted_Cost', 'Predicted_Resource_Type']])
