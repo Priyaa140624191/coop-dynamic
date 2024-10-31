@@ -134,7 +134,8 @@ def main():
 
         # Evaluate cost prediction model
         mse_cost = mean_squared_error(y_test_cost, predicted_cost)
-        st.write(f"Mean Squared Error for Cost Prediction: {mse_cost}")
+        rmse_cost = np.sqrt(mse_cost)
+        st.write(f"Root Mean Squared Error score for Cost Prediction: {rmse_cost}, means that, on average, our predicted costs are about £{rmse_cost} away from the actual costs. This gives us a good sense of how accurate our estimates are and helps us make informed decisions based on this data.")
 
         # Evaluate resource scheduling model
         accuracy_resource = accuracy_score(y_test_resource, predicted_resource)
