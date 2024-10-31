@@ -34,6 +34,7 @@ def get_coordinates_from_postcode(postcode):
 def get_nearby_stores(current_lat, current_lon, stores_df, distance_threshold, max_stores):
     """
     Recommend a list of nearby stores within a given distance threshold.
+    Excludes stores that are exactly 0 miles from the current location.
     """
     distances = []
     for _, row in stores_df.iterrows():
@@ -43,12 +44,13 @@ def get_nearby_stores(current_lat, current_lon, stores_df, distance_threshold, m
         distances.append(distance)
 
     stores_df['Distance'] = distances
-    nearby_stores = stores_df[stores_df['Distance'] <= distance_threshold].sort_values(by='Distance').head(max_stores)
+    # Filter stores greater than 0 miles away and within the distance threshold
+    nearby_stores = stores_df[(stores_df['Distance'] > 0) & (stores_df['Distance'] <= distance_threshold)]
+    nearby_stores = nearby_stores.sort_values(by='Distance').head(max_stores)
+
     return nearby_stores[['Karcher reference', 'latitude', 'longitude', 'Distance']]
 
-
 import requests
-
 
 def get_osrm_route(start_lat, start_lon, end_lat, end_lon):
     """
@@ -93,7 +95,11 @@ def plot_map_with_routes(current_lat, current_lon, nearby_stores):
     - folium.Map: Folium map object with markers and routes.
     """
     m = folium.Map(location=[current_lat, current_lon], zoom_start=12)
-    folium.Marker([current_lat, current_lon], popup="Current Location", icon=folium.Icon(color='blue')).add_to(m)
+    folium.Marker(
+        [current_lat, current_lon],
+        popup="Current Location",
+        icon=folium.Icon(color='blue', icon='shopping-basket', prefix='fa')
+    ).add_to(m)
 
     for _, row in nearby_stores.iterrows():
         store_lat = row['latitude']
@@ -116,7 +122,7 @@ def plot_map_with_routes(current_lat, current_lon, nearby_stores):
         folium.Marker(
             [store_lat, store_lon],
             popup=f"Store ID: {row['Karcher reference']}, Distance: {distance:.2f} miles",
-            icon=folium.Icon(color='green')
+            icon=folium.Icon(color='green', icon='fa-shopping-basket', prefix='fa')
         ).add_to(m)
 
     return m
@@ -169,4 +175,3 @@ def predict1():
                     st.write("### Map with Routes to Nearby Stores:")
                     m = plot_map_with_routes(current_lat, current_lon, nearby_stores)
                     folium_static(m)
-
